@@ -80,6 +80,7 @@ styling:
 		overlay: 
 	magic-m15-mainframe-tokens:
 		frames: M20
+		other_options: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-saga:
@@ -97,6 +98,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-showcase-strixhaven-jp:
+		use_holofoil_stamps: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-sketch:
@@ -121,19 +123,19 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-03-03 14:05:36
+	time_modified: 2023-09-03 01:29:07
 	name: Meso Meso
 	casting_cost: W
 	image: image42
 	super_type: <word-list-type>Artifact Creature</word-list-type>
-	sub_type: <word-list-race>Orb</word-list-race><soft> </soft><word-list-class></word-list-class>
+	sub_type: <word-list-race>Bird</word-list-race> <word-list-class>Orb</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: common
 	rule_text: <kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>lifelink</nospellcheck></kw-a>
 	flavor_text:
 		<i-flavor>“A species unlike anything on <error-spelling:en_US>Vinimroth</error-spelling:en_US>, it looks like its made of metal! I’ll need to get <error-spelling:en_US>Korna</error-spelling:en_US> to help me study these.”<soft-line>
 		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
 	power: 1
-	toughness: 2
+	toughness: 1
 	card_code_text: 
 	illustrator: Tristan Delgado
 	copyright: 
@@ -300,17 +302,17 @@ card:
 	has_styling: false
 	notes: CW06,Small Creature,3,,Legion Conquistador
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-15 20:21:07
+	time_modified: 2023-08-24 00:11:29
 	name: Veteran Party
 	casting_cost: 2W
 	image: image140
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Warrior</word-list-class> <word-list-class>Wizard</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: common
-	rule_text: <kw-a><nospellcheck>Equip <param-name>abilities you activate that target <atom-cardname><nospellcheck>Veteran Party</nospellcheck></atom-cardname> cost</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></nospellcheck></kw-a> less to activate.
+	rule_text: As long as <atom-cardname><nospellcheck>Veteran Party</nospellcheck></atom-cardname> is equipped, it has <kw-a><nospellcheck>first strike</nospellcheck></kw-a> during your turn.
 	flavor_text:
-		<i-flavor>“How’s the fire coming along great wizard?”<soft-line>
-		“Just great. How’s the polishing coming along great warrior?”</soft-line></i-flavor>
+		<i-flavor>“How’s the fire coming along, great wizard?”<soft-line>
+		“Just great. How’s the polishing coming along, great warrior?”</soft-line></i-flavor>
 	power: 3
 	toughness: 2
 	card_code_text: 
@@ -653,16 +655,16 @@ card:
 	has_styling: false
 	notes: CW20,Noncreature,4,,Pious Interdiction
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-16 05:13:04
+	time_modified: 2023-08-24 00:08:24
 	name: Rescue Response
-	casting_cost: 3W
+	casting_cost: 2WW
 	image: image149
 	super_type: <word-list-type>Instant</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
 		Creatures you control get +2/+1 until end of turn.
-		<kw-A><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-A> — <sym-auto>2W</sym-auto>, Put this card into your sanctum from your hand: Reveal up to one creature card with mana value 3 or less from your sanctum and put it into your hand.
+		<kw-A><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-A> — <sym-auto>2W</sym-auto>, Put this card into your sanctum from your hand: Reveal up to one creature card with mana value 3 or less from your sanctum or graveyard and put it into your hand.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Jaka Prawira
@@ -674,7 +676,7 @@ card:
 	mainframe_image_2: 
 card:
 	has_styling: false
-	notes: 
+	notes: !exportname Apprentices Drake
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-03-28 13:52:32
 	name: Apprentice's Drake
@@ -1344,7 +1346,7 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 
+		chop_top: 2
 		chop_bottom: 
 		altered_plus_frames: star overlay
 		font_cap: 13.5
@@ -1932,9 +1934,9 @@ card:
 	mainframe_image_2: 
 card:
 	has_styling: false
-	notes: CR05,Small Creature,3,,Rummaging Goblin
+	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-06-17 03:32:02
+	time_modified: 2023-08-24 00:17:24
 	name: Drougth Explorer
 	casting_cost: 2R
 	image: image88
@@ -1944,7 +1946,9 @@ card:
 	rule_text:
 		<kw-0><nospellcheck>Menace</nospellcheck></kw-0>
 		When <atom-cardname><nospellcheck>Drougth Explorer</nospellcheck></atom-cardname> enters the battlefield, <kw-A><nospellcheck>traverse</nospellcheck>.<atom-reminder-custom> <i-auto>(You may reveal a Realm card from your sanctum and put it into your hand, or discard a card to draw a card.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text:
+		<i-flavor>FT<soft-line>
+		FT</soft-line></i-flavor>
 	power: 2
 	toughness: 3
 	card_code_text: 
@@ -2920,19 +2924,20 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-16 04:29:44
-	name: Lasting Discovery
+	time_modified: 2023-08-30 00:17:45
+	name: A Flock is Born
 	casting_cost: 4
-	image: image172
-	super_type: <word-list-type>Sorcery</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
+	image: image24.png
+	super_type: <word-list-type>Tribal Sorcery</word-list-type>
+	sub_type: <word-list-race>Bird</word-list-race><soft> </soft><word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		<kw-A><i-auto><nospellcheck>Explorer</nospellcheck></i-auto></kw-A> — As long as you control five or more differently named lands, this spell has <kw-a><nospellcheck>flash</nospellcheck></kw-a>.
-		Distribute two +1/+1 counters, a <kw-a><nospellcheck>vigilance</nospellcheck></kw-a> counter, and a <kw-a><nospellcheck>flying</nospellcheck></kw-a> counter among creatures you control.
+		Create two 1/1 black Bird creature tokens with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+		You gain 2 life.
+		<kw-A><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>, Put this card from your hand into your sanctum: Search your library for a basic land card, reveal it, put it into your hand. Then shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
-	illustrator: FlashW or mrr on Deviantart
+	illustrator: windfalcon on Deviantart
 	copyright: 
 	image_2: 
 	copyright_2: 
@@ -2954,7 +2959,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-08-05 03:11:56
+	time_modified: 2023-08-24 00:06:23
 	name: Roduth’s Guard
 	casting_cost: 8
 	image: image173
@@ -2963,7 +2968,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-0><nospellcheck>Trample</nospellcheck></kw-0>
-		<kw-0><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-0> — <sym-auto>2</sym-auto>, Put this card into your sanctum from your hand: Draw a card.
+		<kw-0><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-0> — <sym-auto>3</sym-auto>, Put this card into your sanctum from your hand: Draw a card.
 	flavor_text: <i-flavor>If Marie was as they said she was, then there should be no further hesitation. With that, <error-spelling:en_US>Roduth</error-spelling:en_US> decided to mobilize his forces. </i-flavor>
 	power: 8
 	toughness: 8
@@ -3286,7 +3291,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: UW09,Medium Creature,6,,Bellowing Aegisaur
+	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-07-16 23:35:32
 	name: Mentor of Engagement
@@ -3371,7 +3376,7 @@ card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
 	has_styling: false
-	notes: UR06,MediumWall Creature,3,,Lightning-Rig Crew
+	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-07-16 23:37:13
 	name: Mordel Civil War
@@ -3416,7 +3421,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: UG03,Small Creature,2,,Merfolk Branchwalker
+	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-07-16 23:24:19
 	name: Iconic Challenger
@@ -3542,7 +3547,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 2
-		chop_bottom: 5
+		chop_bottom: 
 		frames: 
 		altered_plus_frames: 
 		font_cap: 13.5
@@ -3552,16 +3557,21 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: suggestion: 3/4
+	notes:
+		suggestion: 3/4
+		!gold
+		!noborder
+		!exportname Multaphs Voidweaver
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-04-22 13:45:19
+	time_modified: 2023-08-28 01:34:36
+	card_color: blue, silver, hybrid, horizontal
 	name: Multaph’s Voidweaver
-	casting_cost: 4F
+	casting_cost: 3FU
 	image: image163
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Wizard</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
-	rule_text: Whenever you cast a noncreature spell, you may have another target creature phase out. <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto>
+	rule_text: Whenever you create a token or cast a noncreature spell, you may have another target creature phase out. Do this only once each turn. <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto>
 	flavor_text:
 		<i-flavor>“The easiest way to survive a war is to not be there when you’d be struck down.”<soft-line>
 		—<error-spelling:en_US>Multaph</soft-line></i-flavor></error-spelling:en_US>
@@ -3597,7 +3607,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: UG09,MediumWall Creature,3,,Atzocan Archer
+	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-07-16 23:32:01
 	name: Meirel Evacuator
@@ -3632,14 +3642,14 @@ card:
 	has_styling: false
 	notes: UG12,Noncreature,4,,Emergent Growth
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-16 05:11:12
+	time_modified: 2023-08-24 02:36:07
 	name: Embrace Fascination
 	casting_cost: 2FF
 	image: image207
 	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Put an enchantment card from your graveyard or sanctum onto the battlefield under your control.
+	rule_text: Put an artifact card or enchantment card from your graveyard onto the battlefield under your control. It also becomes a 3/3 creature.
 	flavor_text: <i-flavor>To even begin to explore the seas of <error-spelling:en_US>Kaln</error-spelling:en_US>-Ocean or the cities of <error-spelling:en_US>Meirel</error-spelling:en_US>, you must first be willing to be curious.</i-flavor>
 	card_code_text: 
 	illustrator: (Yuumei) Wenqing Yan
@@ -3770,7 +3780,7 @@ card:
 		!gold
 		!noborder
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-15 21:11:46
+	time_modified: 2023-08-24 02:31:29
 	card_color: blue, red, hybrid, horizontal
 	name: Duraval Starmapper
 	casting_cost: 2UR
@@ -3780,7 +3790,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Duraval Starmapper</nospellcheck></atom-cardname> deals combat damage to a noncreature, <kw-A><nospellcheck>dig <param-number>4</param-number></nospellcheck> for a noncreature card.<atom-reminder-custom> <i-auto>(Look at the top <param-number>four</param-number> cards of your library, reveal and put that card into your hand, then put the rest on bottom randomly.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>Duraval Starmapper</nospellcheck></atom-cardname> deals combat damage to a permanent, <kw-A><nospellcheck>dig <param-number>4</param-number></nospellcheck> for a noncreature card.<atom-reminder-custom> <i-auto>(Look at the top <param-number>four</param-number> cards of your library, reveal and put that card into your hand, then put the rest on bottom randomly.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4
@@ -4198,7 +4208,7 @@ card:
 		overlay: 
 	notes: RM03,Medium Creature,5,RW ,Sun-Blessed Mount
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-17 15:14:50
+	time_modified: 2023-09-03 21:31:13
 	name: Korna, Adventuring Historian
 	casting_cost: 3RW
 	image: image194
@@ -4210,8 +4220,8 @@ card:
 		Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with <kw-a><nospellcheck>vigilance</nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck>Materialize <param-number>2</param-number></nospellcheck><atom-reminder-custom> <i-auto>(Tap any number of other enchantments you control with total mana value <param-number>2</param-number> or more: This becomes a creature in addition to its other types until your next upkeep.)</i-auto></atom-reminder-custom></kw-A>
-	power: 7
-	toughness: 7
+	power: 6
+	toughness: 6
 	card_code_text: 
 	illustrator: Peter-Ortiz
 	copyright: 
@@ -5284,14 +5294,14 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-08-14 23:36:31
+	time_modified: 2023-08-24 00:18:20
 	name: Meirel Traveller
 	casting_cost: 1G
 	image: image191
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Wolf</word-list-race> <word-list-class>Nomad</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: common
-	rule_text: Whenever another enchantment enters the battlefield under your control, <atom-cardname><nospellcheck>Meirel Traveller</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+	rule_text: Whenever an enchantment enters the battlefield under your control, <atom-cardname><nospellcheck>Meirel Traveller</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
 	flavor_text: <i-flavor>The discovery of the Paths opened the opportunity for trade between <error-spelling:en_US>Meirel</error-spelling:en_US> and <error-spelling:en_US>Vinimroth</error-spelling:en_US>. Regardless of its risk and infancy, a trade group was established.</i-flavor>
 	power: 2
 	toughness: 2
@@ -6005,11 +6015,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		CG11,Large Creature,6,,Colossal Dreadmaw
-		watch in testing!!!!!!!
+	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-16 23:14:06
+	time_modified: 2023-08-24 02:28:20
 	name: Blade Reifer
 	casting_cost: 4FF
 	image: image45
@@ -6018,7 +6026,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck>Double strike</nospellcheck></kw-0>
-		<kw-0><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-0> — <sym-auto>FF</sym-auto>, Put this card into your sanctum from your hand: Exile target creature, then return it to the battlefield under its owners control at the beginning of the next end step.
+		<kw-0><i-auto><nospellcheck>Focus</nospellcheck></i-auto></kw-0> — <sym-auto>1F</sym-auto>, Put this card into your sanctum from your hand: Exile target creature you control, then return it to the battlefield under its owners control at the beginning of the next end step.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	power: 3
@@ -7558,21 +7566,21 @@ card:
 		UW01,Small Creature,1,,Imperial Lancer
 		suggestion: 5 mana to activate + 1/2
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-05-29 15:36:39
+	time_modified: 2023-09-03 18:44:19
 	name: Outlands Recruiter
 	casting_cost: W
-	image: image164
+	image: image31.png
 	super_type: <word-list-type>Enchantment Creature</word-list-type>
-	sub_type: <word-list-race>Icon</word-list-race> <word-list-class>Soldier</word-list-class><soft> </soft><word-list-class></word-list-class>
+	sub_type: <word-list-race>Icon</word-list-race> <word-list-class>Bird</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck>First strike</nospellcheck></kw-a>
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>first strike</nospellcheck></kw-a>
 		<sym-auto>3W</sym-auto>: <kw-A><nospellcheck>Dig <param-number>4</param-number></nospellcheck> for a creature or equipment card with mana value 3 or less.<atom-reminder-custom> <i-auto>(Look at the top <param-number>four</param-number> cards of your library, reveal and put that card into your hand, then put the rest on bottom randomly.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor>The <error-spelling:en_US>outlands</error-spelling:en_US> refused to be the last to explore the frontiers of eternity.</i-flavor>
+	flavor_text: <i-flavor>Those from the <error-spelling:en_US>outlands</error-spelling:en_US> refused to be the last to explore the frontiers of eternity.</i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
-	illustrator: Darina
+	illustrator: Olga Kononenko
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -7602,6 +7610,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 245,148,31:186,45,38:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7611,7 +7620,7 @@ card:
 		!related Foruden Shrineattach>;
 		Verdant
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2023-08-05 02:50:54
+	time_modified: 2023-08-24 02:14:11
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -7626,7 +7635,7 @@ card:
 	image: image209
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Dragon</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Vigilance</nospellcheck></kw-a>, <kw-a><nospellcheck>reach</nospellcheck></kw-a>
 		<atom-cardname><nospellcheck>Reichen, Verdant Guardian</nospellcheck></atom-cardname> can’t be blocked by creatures with power 2 or less.
@@ -7800,18 +7809,19 @@ card:
 	has_styling: false
 	notes: !exportname Staggering Spires Promo
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-06-19 23:13:50
+	time_modified: 2023-08-24 01:51:23
 	extra_data:
 		magic-m15-altered-plus: corner: custom
 	name: Staggering Spires
-	casting_cost: 1W
+	casting_cost: W
 	image: image238
 	super_type: <word-list-type>Enchantment</word-list-type>
 	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
 	rarity: masterpiece
 	rule_text:
 		<i-auto>(Realms may start in your sanctum.)</i-auto>
-		When <atom-cardname><nospellcheck>Staggering Spires</nospellcheck></atom-cardname> enters the battlefield, create a 1/1 white Fox creature token. Put a +1/+1 counter on target creature you control.
+		When <atom-cardname><nospellcheck>Staggering Spires</nospellcheck></atom-cardname> enters the battlefield, create a 1/1 white Fox creature token. 
+		<sym-auto>3W</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Staggering Spires</nospellcheck></atom-cardname>: Put two +1/+1 counters on target creature you control. Activate only as a sorcery.
 	flavor_text: <i-flavor>“Another strange place, I get the feeling though that we’re safe for now.” <error-spelling:en_US>Melodia</error-spelling:en_US> said. “Hopefully this map leads us to the last shard.” Replied <error-spelling:en_US>Najael</error-spelling:en_US>.</i-flavor>
 	power: 
 	toughness: 
@@ -7827,9 +7837,9 @@ card:
 	stylesheet: m15-showcase-strixhaven-jp
 	stylesheet_version: 2021-06-01
 	has_styling: false
-	notes: 
+	notes: !exportname Eroding River Mythic
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-30 22:45:29
+	time_modified: 2023-08-31 19:25:37
 	extra_data:
 		magic-m15-altered-plus: corner: custom
 	name: Eroding River
@@ -7841,9 +7851,8 @@ card:
 	rule_text:
 		<i-auto>(Realms may start in your sanctum.)</i-auto>
 		When <atom-cardname><nospellcheck>Eroding River</nospellcheck></atom-cardname> enters the battlefield, create a 2/1 black Lizard creature token with healer 1. Each opponent loses 1 life and you gain 1 life.
-	flavor_text:
-		<i-flavor>“Though this place is filled with decay, I can sense new life sprouting from it. What a new feeling.”<soft-line>
-		—<error-spelling:en_US>Najael</soft-line></i-flavor></error-spelling:en_US>
+		<sym-auto>4BB</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Eroding River</nospellcheck></atom-cardname>: Target opponent loses 2 life and you gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
 	card_code_text: 
@@ -7961,10 +7970,13 @@ card:
 		chop_top: 2
 		chop_bottom: 
 		frames: lesson
-		altered_plus_frames: 
+		altered_plus_frames: backdfc
+		name_color: shadowed white
+		typeline_color: shadowed white
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 224,224,224:84,84,84:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -7973,7 +7985,7 @@ card:
 		!related Mordel Civil War;
 		!token
 	time_created: 2023-06-24 00:58:34
-	time_modified: 2023-07-16 23:26:04
+	time_modified: 2023-08-24 02:17:55
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -7982,7 +7994,7 @@ card:
 	image: image126
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Warrior</word-list-class><soft> </soft><word-list-class></word-list-class>
-	rarity: uncommon
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Haste</nospellcheck></kw-a>, <kw-a><nospellcheck>trample</nospellcheck></kw-a>
 		At the end of your first postcombat main phase, if <atom-cardname><nospellcheck>Kera, Mordel’s New Hope</nospellcheck></atom-cardname> entered the battlefield this turn, untap a creature you control, then after this phase, there’s an additional combat phase followed by an additional postcombat main phase.
@@ -8055,7 +8067,7 @@ card:
 		!related Clanless Tunneler;
 		!exportname WhiteVinWurm
 	time_created: 2021-11-13 00:26:18
-	time_modified: 2023-08-15 00:03:04
+	time_modified: 2023-08-21 21:24:48
 	card_color: white
 	name: Wurm Token
 	image: image227
@@ -8063,7 +8075,7 @@ card:
 	sub_type: <word-list-race>Wurm</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: common
 	rule_text:
-		<kw-A><nospellcheck>healing <param-number>1</param-number></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck>Healing <param-number>1</param-number></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
 		This creature can’t block.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -8192,7 +8204,7 @@ card:
 	has_styling: false
 	notes: watch toughness boost in testing
 	time_created: 2023-07-09 00:03:43
-	time_modified: 2023-08-14 23:35:13
+	time_modified: 2023-08-25 01:58:23
 	name: Surubim Harpoon
 	casting_cost: G
 	image: image244
@@ -8201,7 +8213,7 @@ card:
 	rule_text:
 		Equipped creature gets +1/+3 and has <kw-a><nospellcheck>vigilance</nospellcheck></kw-a>.
 		<sym-auto>4G</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Surubim Harpoon</nospellcheck></atom-cardname>: Destroy target creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>. Activate only as a sorcery.
-		<kw-1><nospellcheck>Equip <param-cost><sym-auto>1G</sym-auto></param-cost></nospellcheck><atom-reminder-core> <i-auto>(<param-cost><sym-auto>1G</sym-auto></param-cost>: Attach to target creature you control. Equip only as a sorcery.)</i-auto></atom-reminder-core></kw-1>
+		<kw-1><nospellcheck>Equip <param-cost><sym-auto>2G</sym-auto></param-cost></nospellcheck><atom-reminder-core> <i-auto>(<param-cost><sym-auto>2G</sym-auto></param-cost>: Attach to target creature you control. Equip only as a sorcery.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Arleand Arts
@@ -8257,7 +8269,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-07 22:16:54
-	time_modified: 2023-07-15 20:04:07
+	time_modified: 2023-09-04 22:21:45
 	name: Soaring Tethers
 	image: image246
 	super_type: <word-list-type>Land</word-list-type>
@@ -8265,7 +8277,7 @@ card:
 	rarity: basic land
 	rule_text:
 		<atom-cardname><nospellcheck>Soaring Tethers</nospellcheck></atom-cardname> enters the battlefield tapped unless you control two or fewer other lands.
-		When <atom-cardname><nospellcheck>Soaring Tethers</nospellcheck></atom-cardname> enters tapped, up to one target creature you control gains <kw-a><nospellcheck>flying</nospellcheck></kw-a> until end of turn.
+		When <atom-cardname><nospellcheck>Soaring Tethers</nospellcheck></atom-cardname> enters tapped, untap up to one target creature you control. It gains <kw-a><nospellcheck>flying</nospellcheck></kw-a> until end of turn.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
@@ -8402,7 +8414,7 @@ card:
 		
 		alira
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-08-10 18:40:24
+	time_modified: 2023-08-24 02:01:52
 	name: Lisse, Bound by the King
 	casting_cost: 1B
 	image: image7.png
@@ -8411,7 +8423,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Lisse, Bound by the King</nospellcheck></atom-cardname> can’t attack or block unless you control three or more enchantments.
-		<sym-auto>W/B</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses 2 life and you gain 2 life. Activate only if you control an enchantment.
+		<sym-auto>F/W</sym-auto>, <sym-auto>T</sym-auto>: Each opponent loses 2 life and you gain 2 life. Activate only if you control an enchantment.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -8992,19 +9004,34 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		altered_plus_frames: star overlay
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: UR14,Noncreature,4,,Trove of Temptation
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:50:36
-	name: #Noncreature
-	casting_cost: 3R
-	image: 
-	super_type: <word-list-type></word-list-type>
-	sub_type: 
+	time_modified: 2023-08-24 01:36:21
+	name: Broodmages Furor
+	casting_cost: 2R
+	image: image15.png
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
-	rule_text: 
+	rule_text:
+		Attacking creatures you control get +1/+0.
+		<sym-auto>4F/G</sym-auto>: Create a token copy of <atom-cardname><nospellcheck>Broodmages Furor</nospellcheck></atom-cardname> without this ability. It’s a 2/2 red Human Wizard. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	illustrator: Ilya Popov
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -9051,16 +9078,20 @@ card:
 	has_styling: false
 	notes: RG09,Noncreature,3,,Growing Rites of Itlimoc
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:50:37
-	name: #Noncreature
+	time_modified: 2023-09-03 23:37:27
+	name: Where Our Paths Meet
 	casting_cost: 2G
-	image: 
-	super_type: <word-list-type></word-list-type>
-	sub_type: 
+	image: image32.png
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: 
+	rule_text:
+		You may look at the top card of your library.
+		Once each turn, you may cast enchantment or creature spells from the top of your library.
+		Tap two untapped enchantments you control: Add one mana of any color. This mana can’t be spent to cast noncreature, nonenchantment spells.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
+	illustrator: Bryan SolaPro
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -9811,20 +9842,21 @@ card:
 	has_styling: false
 	notes: UG04,Small Creature,2,,Wildgrowth Walker
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-08-09 21:36:01
-	name: #Small Creature
+	time_modified: 2023-08-27 16:54:21
+	name: Leyline Weaver
 	casting_cost: 1G
-	image: 
+	image: image19.png
 	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race></word-list-race>
+	sub_type: <word-list-race>Treefolk</word-list-race> <word-list-class>Druid</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
 	rule_text:
-		<sym-auto>T</sym-auto>: You may put a land card from your hand onto the battlefield. If you didn’t, add one mana of any color.
-		<kw-A><i-auto><nospellcheck>Explorer</nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>: <atom-cardname><nospellcheck>#Small Creature</nospellcheck></atom-cardname> gets +4/+4 until end of turn. Activate only if you control five or more differently named lands.
+		<sym-auto>T</sym-auto>: Put a land card from your hand onto the battlefield tapped or untapped.
+		<kw-A><i-auto><nospellcheck>Explorer</nospellcheck></i-auto></kw-A> — <sym-auto>5</sym-auto>: <atom-cardname><nospellcheck>Leyline Weaver</nospellcheck></atom-cardname> gets +4/+4 until end of turn. Activate only if you control five or more differently named lands.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
 	card_code_text: 
+	illustrator: senfeng chen
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -10200,18 +10232,24 @@ card:
 	mainframe_image_2: 
 card:
 	has_styling: false
-	notes: RW08,Noncreature,2,,Ashes of the Abhorrent
+	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:51:25
-	name: #Auspicious Reinforcement#
-	casting_cost: 1W
-	image: 
-	super_type: <word-list-type>Sorcery</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
+	time_modified: 2023-09-03 18:56:23
+	card_color: white, blue, red, multicolor, horizontal
+	name: Aurel, Born Through Discord
+	casting_cost: 1URW
+	image: image30.png
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Angel</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: rare
-	rule_text: Search your library or sanctum for a white creature card with power 3 or less, reveal it, put it into your hand, then shuffle if you searched your library this way.
+	rule_text:
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>haste</nospellcheck></kw-a>
+		The first creature spell you cast with mana value 3 or less each turn has <kw-A><nospellcheck>cascade</nospellcheck>.<atom-reminder-expert> <i-auto>(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
 	card_code_text: 
+	illustrator: Anthony Catillaz
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -10427,19 +10465,36 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 card:
-	has_styling: false
-	notes: UW11,Noncreature,3,,Rallying Roar
+	stylesheet: m15-mainframe-planeswalker-altered
+	stylesheet_version: 2020-03-19
+	has_styling: true
+	styling_data:
+		other_options: use taller frame, un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:51:30
-	name: #Noncreature#
-	casting_cost: 2W
-	image: 
-	super_type: <word-list-type></word-list-type>
-	sub_type: 
+	time_modified: 2023-08-31 13:51:28
+	extra_data:
+		magic-m15-mainframe-planeswalker-altered:
+			vorthos_box: She/Her
+	name: Worzel, Awakened Flock
+	casting_cost: 1WB
+	image: image23.png
+	super_type: <word-list-type>Legendary Planeswalker</word-list-type>
+	sub_type: <word-list-planeswalker>Worzel</word-list-planeswalker><soft> </soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: uncommon
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
+	level_1_text: When <atom-cardname><nospellcheck>Worzel, Awakened Flock</nospellcheck></atom-cardname> enters the battlefield, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
+	loyalty_cost_2: 0
+	level_2_text: <margin:130:0:0>You may reveal a Bird from your hand or battlefield. If you do, put a loyalty counter on <atom-legname><nospellcheck>Worzel</nospellcheck></atom-legname>.</margin:130:0:0>
+	loyalty_cost_3: 0
+	level_3_text: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Worzel, Awakened Flock</nospellcheck></atom-cardname> becomes a X/X Legendary Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>, where X is the number of Birds you control.</margin:130:0:0>
+	level_4_text: 
+	loyalty: 2
 	card_code_text: 
+	illustrator: FleetingEmber, Edited by TVP
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -10454,6 +10509,11 @@ card:
 	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	special_text:
+		When <atom-cardname><nospellcheck>Worzel, Awakened Flock</nospellcheck></atom-cardname> enters the battlefield, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
+		[0]: <margin:130:0:0>You may reveal a Bird from your hand or battlefield. If you do, put a loyalty counter on <atom-legname><nospellcheck>Worzel</nospellcheck></atom-legname>.</margin:130:0:0>
+		[0]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Worzel, Awakened Flock</nospellcheck></atom-cardname> becomes a X/X Legendary Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>, where X is the number of Birds you control.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: RW04,Small Creature,3,,Mavren Fein, Dusk Apostle
@@ -10483,19 +10543,34 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 card:
+	stylesheet: m15-mainframe-planeswalker-altered
+	stylesheet_version: 2020-03-19
 	has_styling: false
-	notes: RW02,Small Creature,1,,Priest of the Wakening Sun
+	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:51:31
-	name: #Small Creature#
+	time_modified: 2023-09-01 00:00:47
+	extra_data:
+		magic-m15-mainframe-planeswalker-altered:
+			vorthos_box: He/Him
+	name: Worzel
 	casting_cost: W
-	image: 
-	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race></word-list-race>
+	image: image22.png
+	super_type: <word-list-type>Legendary Planeswalker</word-list-type>
+	sub_type: <word-list-planeswalker>Worzel</word-list-planeswalker><soft> </soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: rare
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
+	level_1_text:
+		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>
+		As long as <atom-cardname><nospellcheck>Worzel</nospellcheck></atom-cardname> isn’t on the battlefield, it’s also a 1/1 Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+	loyalty_cost_2: +1
+	level_2_text: <margin:130:0:0>Each other Bird creature you control gets +1/+0 until end of turn.</margin:130:0:0>
+	loyalty_cost_3: -3
+	level_3_text: <margin:130:0:0>Create a token copy of <atom-cardname><nospellcheck>Worzel</nospellcheck></atom-cardname>, except it’s not legendary and is a 1/1 Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.</margin:130:0:0>
+	level_4_text: 
+	loyalty: 1
 	card_code_text: 
+	illustrator: Dasom Hyun, Edited by TVP
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -10510,6 +10585,12 @@ card:
 	copyright_3: 
 	mainframe_image: 
 	mainframe_image_2: 
+	special_text:
+		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>
+		As long as <atom-cardname><nospellcheck>Worzel</nospellcheck></atom-cardname> isn’t on the battlefield, it’s also a 1/1 Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+		[+1]: <margin:130:0:0>Each other Bird creature you control gets +1/+0 until end of turn.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create a token copy of <atom-cardname><nospellcheck>Worzel</nospellcheck></atom-cardname>, except it’s not legendary and is a 1/1 Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: RW03,Small Creature,2,,Tocatli Honor Guard
@@ -10808,19 +10889,37 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: lesson
+		altered_plus_frames: path
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:51:39
-	name: #Noncreature#
+	time_modified: 2023-08-26 20:54:21
+	extra_data:
+		magic-m15-altered-plus:
+			corner: sanctum
+	name: Starfall Outlook
 	casting_cost: 5U
-	image: 
-	super_type: <word-list-type></word-list-type>
-	sub_type: 
+	image: image17.png
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment>Realm</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: 
-	flavor_text: <i-flavor></i-flavor>
+	rule_text:
+		Whenever a permanent entering the battlefield causes a triggered ability to trigger, it triggers an additional time.
+		<sym-auto>2FWU</sym-auto>: Exile target nonland permanent you control. Return it to the battlefield under your control at the beginning of the next end step.
+	flavor_text: <i-flavor>“I understand now. Our stars do fall.”</i-flavor>
 	card_code_text: 
+	illustrator: Shahab Alizadeh
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -11005,18 +11104,28 @@ card:
 	mainframe_image_2: 
 card:
 	has_styling: false
-	notes: RU10,Noncreature,5,,Spell Swindle
+	notes:
+		!gold
+		!noborder
+
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:51:44
-	name: #Noncreature#
-	casting_cost: 4U
-	image: 
-	super_type: <word-list-type></word-list-type>
-	sub_type: 
+	time_modified: 2023-09-05 01:30:24
+	card_color: blue, green, hybrid, horizontal
+	name: Bitter Inspection
+	casting_cost: 1GU
+	image: image33.png
+	super_type: <word-list-type>Instant</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: 
-	flavor_text: <i-flavor></i-flavor>
+	rule_text:
+		<kw-0><nospellcheck>Luminous</nospellcheck></kw-0>
+		<margin:0:0:5> If you’ve illuminated blue or green, you may copy this spell. You may choose new targets for the copy.</margin:0:0:5>
+		<margin:0:0:5>Choose one—</margin:0:0:5>
+		<li><bullet>• </bullet>Counter target spell unless its owner pays <sym-auto>3</sym-auto>.
+		</li><li><bullet>• </bullet>Create a tapped token copy of target land.</li>
+	flavor_text: <i-flavor>“Your <error-spelling:en_US>spellcasting</error-spelling:en_US> is horrifying. Stick to farming”</i-flavor>
 	card_code_text: 
+	illustrator: Nele Diel
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -11082,7 +11191,7 @@ card:
 	has_styling: false
 	notes: UG05,Small Creature,3,,Vineshaper Mystic
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-08-04 13:18:05
+	time_modified: 2023-08-28 01:23:06
 	name: #Small Creature#
 	casting_cost: 2F
 	image: 
@@ -11090,11 +11199,11 @@ card:
 	sub_type: <word-list-race></word-list-race>
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>#Small Creature#</nospellcheck></atom-cardname> deals combat damage to an opponent, you may draw a random card from your sanctum. Otherwise, <kw-a><nospellcheck>scry <param-number>2</param-number></nospellcheck></kw-a>.
-		Put 
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		<sym-auto>G/U</sym-auto>:
 	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 2
+	power: 1
+	toughness: 4
 	card_code_text: 
 	copyright: 
 	image_2: 
@@ -11124,7 +11233,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: UA01,Noncreature,1,,Sentinel Totem
+	notes: 
 	time_created: 2022-06-23 00:00:00
 	time_modified: 2023-08-12 14:16:17
 	name: Lisse’s Drakesteel Phylactory
@@ -11184,22 +11293,34 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		altered_plus_frames: star overlay
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes:
 		!exportname Hengs Intercession
 		watch in testing
 		possible knobs to turn: 6 cost or no flash
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-29 21:23:41
+	time_modified: 2023-08-24 01:49:45
 	name: Heng’s Intercession
-	casting_cost: 4W
+	casting_cost: 4WW
 	image: image2.png
 	super_type: <word-list-type>Enchantment</word-list-type>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Heng’s Intercession</nospellcheck></atom-cardname> costs <sym-auto>1</sym-auto> less to cast for each enchantment you control.
+		<atom-cardname><nospellcheck>Heng’s Intercession</nospellcheck></atom-cardname> costs <sym-auto>2</sym-auto> less to cast for each enchantment you control.
 		When <atom-cardname><nospellcheck>Heng’s Intercession</nospellcheck></atom-cardname> enters the battlefield, exile another target nonland permanent until <atom-cardname><nospellcheck>Heng’s Intercession</nospellcheck></atom-cardname> leaves the battlefield.
 	flavor_text: <i-flavor>The ancient <error-spelling:en_US>goliaths</error-spelling:en_US> that roamed <error-spelling:en_US>Vinimroth</error-spelling:en_US> wouldn’t make it to the paths under <error-spelling:en_US>Heng’s</error-spelling:en_US> scrutiny.</i-flavor>
 	card_code_text: 
@@ -12224,7 +12345,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-19 10:51:59
+	time_modified: 2023-09-03 22:31:39
 	name: Zoslera, Exiled Visionary
 	casting_cost: 2RG
 	image: image264
@@ -12233,7 +12354,7 @@ card:
 	rarity: rare
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
-	level_1_text: Creatures you control may assign combat damage as though they weren’t blocked
+	level_1_text: Creatures you control may assign combat damage as though they weren’t blocked.
 	loyalty_cost_2: +1
 	level_2_text: <margin:130:0:0>Exile the top card of your library. During any turn you attacked, you may play that card.</margin:130:0:0>
 	loyalty_cost_3: 0
@@ -12259,7 +12380,7 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	special_text:
-		Creatures you control may assign combat damage as though they weren’t blocked
+		Creatures you control may assign combat damage as though they weren’t blocked.
 		[+1]: <margin:130:0:0>Exile the top card of your library. During any turn you attacked, you may play that card.</margin:130:0:0>
 		[0]: <margin:130:0:0>Target creature you control fights target creature you don’t control.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Create Law of Nature, a legendary artifact token with <kw-0><nospellcheck>ward <param-cost><sym-auto>2</sym-auto></param-cost></nospellcheck></kw-0> and “Creatures you control get +2/+2 and have <kw-0><nospellcheck>haste</nospellcheck></kw-0>, <kw-0><nospellcheck>vigilance</nospellcheck></kw-0>, and <kw-0><nospellcheck>first strike</nospellcheck></kw-0>.”</margin:130:0:0>
@@ -12355,19 +12476,19 @@ card:
 	mainframe_image_2: 
 card:
 	has_styling: false
-	notes: UR11,Noncreature,2,,Makeshift Munitions
+	notes: 
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-16 23:09:37
+	time_modified: 2023-08-24 02:26:19
 	name: Toll of Exploration
 	casting_cost: 1R
 	image: image255
-	super_type: <word-list-type>Instant</word-list-type>
+	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text:
-		Each player sacrifices a nonbasic land. Each player may search their library for a basic land card, put it onto the battlefield, then shuffle.
-		Look at the top card of your library. You may put that card into your sanctum.
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: Exile the top card of your library and a random card from your sanctum. Until the end of your next turn, you may play those cards.
+	flavor_text:
+		<i-flavor>FT<soft-line>
+		FT</soft-line></i-flavor>
 	card_code_text: 
 	illustrator: Reza Afshar
 	copyright: 
@@ -12471,8 +12592,8 @@ card:
 	stylesheet_version: 2020-09-04
 	has_styling: true
 	styling_data:
-		chop_top: 2
-		chop_bottom: 
+		chop_top: 4
+		chop_bottom: 5
 		frames: 
 		altered_plus_frames: 
 		font_cap: 
@@ -12486,7 +12607,7 @@ card:
 		!gold
 		!noborder
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-17 00:40:49
+	time_modified: 2023-08-24 00:14:49
 	card_color: red, green, hybrid, horizontal
 	name: Ignelscor Frontliner
 	casting_cost: 3RG
@@ -12495,9 +12616,8 @@ card:
 	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Elf</word-list-class> <word-list-class>Warrior</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
 	rule_text:
-		You may look at the top card of your library at any time.
-		You may play land cards from the top of your library.
-		<kw-A><i-auto><nospellcheck>Explorer</nospellcheck></i-auto></kw-A> — Whenever you play a card from anywhere other than your hand, if you control five or more differently named lands, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck>trample</nospellcheck></kw-a> until end of turn.
+		You may look at the top card of your library at any time and you may play land cards from the top of your library.
+		<kw-A><i-auto><nospellcheck>Explorer</nospellcheck></i-auto></kw-A> — Whenever a land enters the battlefield under your control, if you control five or more differently named lands, put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck>trample</nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -12587,17 +12707,25 @@ card:
 		!gold
 		!noborder
 	time_created: 2022-06-23 00:00:00
-	time_modified: 2023-07-10 16:52:24
+	time_modified: 2023-08-24 00:45:55
 	card_color: blue, black, hybrid, horizontal
-	name: #Medium Creature
-	casting_cost: 2UB
-	image: 
+	name: Ikorian Skyshark
+	casting_cost: 1UB
+	image: image12.png
 	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race></word-list-race>
+	sub_type: <word-list-race>Shark</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: rare
-	rule_text: 
-	flavor_text: <i-flavor></i-flavor>
+	rule_text:
+		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		Whenever an opponent draws a card except the first one they draw in each of their draw steps, that player loses 1 life and you gain 1 life.
+	flavor_text:
+		<i-flavor>“I want to ride it.”<soft-line>
+		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
+	power: 3
+	toughness: 2
 	card_code_text: 
+	illustrator: Alyona Davidova
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -12767,23 +12895,23 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !related Eroding River;
+	notes:
+		!related Eroding River;Eroding River Mythic;
+		!exportname Lizard healing token
 	time_created: 2022-09-01 18:21:44
-	time_modified: 2023-07-16 22:46:09
+	time_modified: 2023-08-31 19:56:13
 	card_color: black
-	name: #TK04 Lizard Token
-	image: image162
+	name: Lizard Token
+	image: image26.png
 	super_type: <word-list-type>Token Creature</word-list-type>
 	sub_type: <word-list-race>Lizard</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: special
-	rule_text: <kw-a><nospellcheck>Lifelink</nospellcheck></kw-a>
-	flavor_text:
-		<i-flavor>“I can’t believe Steve Jobs died of <error-spelling:en_US>ligma</error-spelling:en_US>.”<soft-line>
-		—<error-spelling:en_US>Melodia</soft-line></i-flavor></error-spelling:en_US>
-	power: 1
+	rarity: common
+	rule_text: <kw-A><nospellcheck>Healing <param-number>1</param-number></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>“I think it’s friendly!” said <error-spelling:en_US>Melodia</error-spelling:en_US>. “What gave you that <error-spelling:en_US>impres</error-spelling:en_US>- Can you NOT put your hand near its mouth???” replied <error-spelling:en_US>Najael</error-spelling:en_US>.</i-flavor>
+	power: 2
 	toughness: 1
 	card_code_text: 
-	illustrator: Ilia Popov
+	illustrator: Miqdam ul ghani
 	copyright: 
 	image_2: 
 	super_type_2: <word-list-type></word-list-type>
@@ -13104,6 +13232,7 @@ card:
 		font_cap: 
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 245,148,31:186,45,38:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13113,7 +13242,7 @@ card:
 		!related Asahr Sahelattach>;
 		Verdant
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2023-08-05 02:49:31
+	time_modified: 2023-08-24 02:14:40
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -13127,7 +13256,7 @@ card:
 	image: image127
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Angel</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>; <kw-a><nospellcheck>Flying</nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Themia, Steward of Sanctity</nospellcheck></atom-cardname> enters the battlefield or transforms, exile up to one other target nonland permanent, then return that card to the battlefield under its owner’s control at the beginning of the next end step.
@@ -13158,6 +13287,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 245,148,31:186,45,38:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13167,7 +13297,7 @@ card:
 		!related Quixotia Dreamscapeattach>;
 		Verdant
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2023-08-05 02:47:37
+	time_modified: 2023-08-24 02:14:50
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -13181,7 +13311,7 @@ card:
 	image: image166
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Nightmare</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Menace</nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Zesha, Dream Hedonist</nospellcheck></atom-cardname> deals combat damage to a player, that player exiles that many cards from the top of their library. 
@@ -13213,6 +13343,7 @@ card:
 		font_cap: 
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 245,148,31:186,45,38:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13222,7 +13353,7 @@ card:
 		!related Mirros Cleaveattach>;
 		Verdant
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2023-08-05 03:00:49
+	time_modified: 2023-08-24 02:14:22
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -13236,7 +13367,7 @@ card:
 	image: image219
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Drake</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>haste</nospellcheck></kw-a>
 		<margin:0:0:5>When <atom-cardname><nospellcheck>Argent, Flash of Mirros</nospellcheck></atom-cardname> deals combat damage, choose up to one—</margin:0:0:5>
@@ -13269,6 +13400,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 245,148,31:186,45,38:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13278,7 +13410,7 @@ card:
 		!related Mangreil Precipiceattach>;
 		Verdant
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2023-08-05 02:50:27
+	time_modified: 2023-08-24 02:13:46
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -13292,7 +13424,7 @@ card:
 	image: image231
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Dog</word-list-race><soft> </soft><word-list-class></word-list-class>
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Double strike</nospellcheck></kw-a>, <kw-a><nospellcheck>haste</nospellcheck></kw-a>, <kw-a><nospellcheck>menace</nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Clawf, Maw of the Moon</nospellcheck></atom-cardname> enters the battlefield or transforms, other creatures you control gain <kw-a><nospellcheck>double strike</nospellcheck></kw-a> and <kw-a><nospellcheck>haste</nospellcheck></kw-a> until end of turn.
@@ -13323,6 +13455,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 245,148,31:186,45,38:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13332,7 +13465,7 @@ card:
 		!related Alira Gladeattach>;
 		Verdant
 	time_created: 2023-05-07 14:48:33
-	time_modified: 2023-08-10 23:26:17
+	time_modified: 2023-08-24 02:14:29
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -13346,7 +13479,7 @@ card:
 	image: image10.png
 	super_type: <word-list-type>Legendary Creature</word-list-type>
 	sub_type: <word-list-race>Demon</word-list-race> <word-list-class>Cleric</word-list-class><soft> </soft><word-list-class></word-list-class>
-	rarity: mythic rare
+	rarity: special
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>lifelink</nospellcheck></kw-a>
 		Whenever a creature you control attacks, <atom-legname><nospellcheck>Lisse</nospellcheck></atom-legname> deals 1 damage to any target.
@@ -13381,9 +13514,9 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-07-17 00:46:15
-	time_modified: 2023-07-17 00:52:40
+	time_modified: 2023-08-28 17:31:52
 	card_color: blue, silver, hybrid, horizontal
-	name: Dominator of Drakes
+	name: Drake Mentor
 	casting_cost: 1FU
 	image: image261
 	super_type: <word-list-type>Creature</word-list-type>
@@ -13392,7 +13525,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
 		Whenever another creature enters the battlefield under your control, if you control another creature with the same name, put your choice of a +1/+1 counter or a <kw-a><nospellcheck>flying</nospellcheck></kw-a> counter on it.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>“They understand you completely. They just don’t like you.”</i-flavor>
 	power: 2
 	toughness: 2
 	card_code_text: 
@@ -13421,7 +13554,7 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-07-17 01:15:52
-	time_modified: 2023-08-14 23:55:20
+	time_modified: 2023-08-31 17:34:24
 	card_color: green, silver, hybrid, horizontal
 	name: Promise of Hunger
 	casting_cost: FG
@@ -13431,7 +13564,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Tokens you control have <kw-a><nospellcheck>reach</nospellcheck></kw-a> and <kw-A><nospellcheck>healing <param-number>1</param-number></nospellcheck>.<atom-reminder-expert> <i-auto>(Damage dealt by that creature also causes you to gain <param-number>1</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
-		<sym-auto>2FG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a token: Create a 4/3 Dragon Eye creature token. Activate only as a sorcery.
+		<sym-auto>2FG</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a token: Create a blue 4/3 Dragon Eye creature token with <kw-a><nospellcheck>trample</nospellcheck></kw-a>. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	illustrator: Julie Dillon
@@ -13447,12 +13580,15 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-07-17 01:29:45
-	time_modified: 2023-08-14 23:56:32
+	time_modified: 2023-08-31 17:34:14
+	card_color: blue
 	name: Dragon Eye Token
 	image: image265
 	super_type: <word-list-type>Token Creature</word-list-type>
 	sub_type: <word-list-race>Dragon</word-list-race> <word-list-class>Eye</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: common
+	rule_text: <kw-a><nospellcheck>Trample</nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
 	card_code_text: 
@@ -13612,6 +13748,7 @@ card:
 		font_cap: 
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
+		alt_rarity_color: 224,224,224:84,84,84:0,0,0:0,0,0:0.07:
 		card_watermark: sets/Set-foe.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13622,7 +13759,7 @@ card:
 		!noborder<soft-line>
 		!related Remnants of the War</soft-line>
 	time_created: 2023-07-17 02:10:14
-	time_modified: 2023-07-22 22:02:16
+	time_modified: 2023-08-24 02:16:44
 	extra_data:
 		magic-m15-altered-plus:
 			corner: modal back
@@ -13631,7 +13768,7 @@ card:
 	image: image275
 	super_type: <word-list-type>Enchantment Creature</word-list-type>
 	sub_type: <word-list-race>Icon</word-list-race> <word-list-class>Warlock</word-list-class><soft> </soft><word-list-class></word-list-class>
-	rarity: uncommon
+	rarity: special
 	rule_text: <kw-a><nospellcheck>Vigilance</nospellcheck></kw-a>, <kw-a><nospellcheck>trample</nospellcheck></kw-a>
 	flavor_text: <i-flavor><error-spelling:en_US>TVP</error-spelling:en_US> please do not forget to put <error-spelling:en_US>flavour</error-spelling:en_US> text here or I swear to god I will send you to the graveyard permanently.</i-flavor>
 	power: 4
@@ -13826,7 +13963,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2020-05-10
 	has_styling: false
-	notes: 
+	notes: !related Outlands Rescuer;
 	time_created: 2023-08-14 23:47:45
 	time_modified: 2023-08-14 23:55:55
 	card_color: green
@@ -13841,6 +13978,329 @@ card:
 	toughness: 3
 	card_code_text: 
 	illustrator: Sarah Smith
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: true
+	styling_data:
+		frames: state, M20
+		other_options: use starting loyalty
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-08-17 20:51:18
+	time_modified: 2023-08-17 20:54:08
+	card_color: red, green, multicolor, horizontal
+	name: Zoslera, Exiled Visionary
+	image: image14.png
+	super_type: <word-list-type>Legendary Planeswalker</word-list-type>
+	sub_type: <word-list-planeswalker>Zoslera</word-list-planeswalker><soft> </soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty: 3
+	card_code_text: 
+	illustrator: VV I T C H T R I X on Tumblr
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: true
+	styling_data:
+		frames: copy, M20
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !exportname Broodmages Furor Token
+	time_created: 2023-08-24 01:41:08
+	time_modified: 2023-08-24 01:43:31
+	name: Broodmages Furor
+	casting_cost: 2R
+	image: image16.png
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Wizard</word-list-class><soft> </soft><word-list-class></word-list-class>
+	rarity: uncommon
+	rule_text: Attacking creatures you control get +1/+0.
+	flavor_text: <i-flavor>And it just keeps growing.</i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	illustrator: Ilya Popov
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: false
+	notes: 
+	time_created: 2023-08-24 01:58:00
+	time_modified: 2023-08-25 19:37:19
+	card_color: white, silver, multicolor, horizontal
+	name: Butterfly Token
+	image: image18.png
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Butterfly</word-list-race> <word-list-class>Insect</word-list-class><soft> </soft><word-list-class></word-list-class>
+	rule_text: This creature can’t block unless it’s <kw-A><nospellcheck>modified</nospellcheck>.<atom-reminder-action> <i-auto>(Equipment, Auras you control, and counters are modifications.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	illustrator: Andrej Z.T.
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		frames: lesson, clear
+		altered_plus_frames: backdfc, front flag
+		name_color: shadowed white
+		typeline_color: shadowed white
+		font_cap: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !related Astrus Quandry;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2023-08-31 17:20:08
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal back
+			front_type_hint: Land
+			front_color_hint: <sym>T</sym>: Add <sym>C</sym>
+	name: To Be Named Later
+	casting_cost: 6
+	image: image27.png
+	super_type: <word-list-type>Legendary Creature</word-list-type>
+	sub_type: <word-list-race>Dragon</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>, <kw-a><nospellcheck>vigilance</nospellcheck></kw-a>
+		<kw-A><nospellcheck>Healing <param-number>3</param-number></nospellcheck><atom-reminder-expert> <i-auto>(Damage dealt by this creature also causes you to gain <param-number>3</param-number> life.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	illustrator: Sam Flegal
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: lesson
+		altered_plus_frames: back flag
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Verdant
+	time_created: 2023-08-28 18:13:30
+	time_modified: 2023-08-31 17:20:12
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal front
+			back_type_hint: Sorcery
+			back_color_hint: <sym>X</sym>
+	name: Astrus Quandry
+	image: image21.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck>Indestructible</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>7</sym-auto>: Transform <atom-cardname><nospellcheck>Astrus Quandry</nospellcheck></atom-cardname> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Jack Bailey
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: frameless art
+		altered_plus_frames: 
+		name_color: default
+		typeline_color: default
+		font_cap: 
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !related Astrus Quandry;
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2023-08-31 17:36:50
+	extra_data:
+		magic-m15-altered-plus:
+			corner: modal back
+			front_type_hint: 
+			front_color_hint: 
+	name: Lasting Discovery
+	casting_cost: X
+	image: image161
+	super_type: <word-list-type>Sorcery</word-list-type>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Create a creature token equal to </sym>or less than X.<sym>
+		<b>1 </b>| 0/3 white Fox
+		<b>2 </b>| 2/1 black Lizard with <kw-0><nospellcheck>healing <param-number>1</param-number></nospellcheck></kw-0>
+		<b>3 </b>| 3/2 green Beast with <kw-0><nospellcheck>vigilance</nospellcheck></kw-0>
+		<b>4 </b>| 4/3 blue Dragon Eye with <kw-0><nospellcheck>trample</nospellcheck></kw-0>
+		<b>5 </b>| 5/4 silver Mongoose with <kw-a><nospellcheck>reach</nospellcheck></kw-a>
+		<b>6</b>| */* red Wurm. X is the amount of mana spent.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	illustrator: Sam Flegal
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: false
+	notes: !related Lasting Discovery;
+	time_created: 2023-08-31 18:51:52
+	time_modified: 2023-08-31 18:53:36
+	card_color: green
+	name: Beast Token
+	image: image25.png
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Beast</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text: <kw-a><nospellcheck>Vigilance</nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	illustrator: Taran Fiddler
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: false
+	notes: !related Lasting Discovery;
+	time_created: 2023-08-31 19:15:52
+	time_modified: 2023-08-31 19:21:08
+	card_color: white
+	name: Fox Token
+	image: image20.png
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Fox</word-list-race><soft> </soft><word-list-class></word-list-class>
+	power: 0
+	toughness: 3
+	card_code_text: 
+	illustrator: Nathan Hale
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: false
+	notes: !related A Flock is Born2>;
+	time_created: 2023-08-31 22:52:21
+	time_modified: 2023-08-31 22:53:22
+	card_color: black
+	name: Bird Token
+	image: image28.png
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Bird</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text: <kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	illustrator: windfalcon
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2020-05-10
+	has_styling: true
+	styling_data:
+		frames: copy, tall, M20
+		other_options: vorthos box
+		shrink_typeline_text: 
+		shrink_font_size: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: bird token
+	time_created: 2023-08-31 23:48:04
+	time_modified: 2023-09-01 00:06:33
+	extra_data:
+		magic-m15-mainframe-tokens:
+			vorthos_box: He/Him
+	name: Worzel Token
+	casting_cost: W
+	image: image29.png
+	super_type: <word-list-type>Token Creature</word-list-type>
+	sub_type: <word-list-race>Bird</word-list-race><soft> </soft><word-list-class></word-list-class>
+	rule_text:
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>
+		As long as <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Worzel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> isn’t on the battlefield, it’s also a 1/1 Bird creature with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+		<sym-auto>+1</sym-auto>: Each other Bird creature you control gets +1/+0 until end of turn.
+		<sym-auto>-3</sym-auto>: Create a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 1/1 Bird creature token copy of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Worzel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	illustrator: Dasom Hyun, Edited by TVP
 	copyright: Set by Tvpattack
 	image_2: 
 	copyright_2: Set by Tvpattack
@@ -13968,6 +14428,10 @@ pack_type:
 		amount: 1
 		weight: 1
 	item:
+		name: mythic or rare
+		amount: 1
+		weight: 1
+	item:
 		name: basic land
 		amount: 1
 		weight: 1
@@ -13978,14 +14442,6 @@ pack_type:
 	item:
 		name: uncommon
 		amount: 3
-		weight: 1
-	item:
-		name: token / rulestip
-		amount: 1
-		weight: 1
-	item:
-		name: mythic or rare
-		amount: 1
 		weight: 1
 version_control:
 	type: none
