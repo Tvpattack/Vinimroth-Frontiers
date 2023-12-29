@@ -3,7 +3,7 @@
 	        "name": "Meso Meso",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
-	        "type": "Artifact Creature — Orb ",
+	        "type": "Artifact Creature — Bird Angel Orb ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meso%20Meso.png?raw=true"
 	        }
@@ -155,19 +155,19 @@
 	    {
 	        "name": "Rescue Response",
 	        "rarity": "common",
-	        "mana_cost": "{3}{W}",
+	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rescue%20Response.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Apprentice's Drake",
+	        "name": "Apprentices Drake",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Apprentice%27s%20Drake.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Apprentices%20Drake.png?raw=true"
 	        }
 	    },
 	    {
@@ -289,9 +289,9 @@
 	    },
 	    {
 	        "name": "Vertical Shift",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vertical%20Shift.png?raw=true"
 	        }
@@ -389,7 +389,7 @@
 	    {
 	        "name": "Scaled Rippler",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}{B}",
+	        "mana_cost": "{6}{B}",
 	        "type": "Creature — Lizard ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Scaled%20Rippler.png?raw=true"
@@ -416,7 +416,7 @@
 	    {
 	        "name": "Aeon Tunneler",
 	        "rarity": "common",
-	        "mana_cost": "{5}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Wurm Scout Warrior ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aeon%20Tunneler.png?raw=true"
@@ -632,7 +632,7 @@
 	    {
 	        "name": "Enlightening Crescents",
 	        "rarity": "common",
-	        "mana_cost": "{3}{F}{F}",
+	        "mana_cost": "{3}{C}{C}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlightening%20Crescents.png?raw=true"
@@ -641,7 +641,7 @@
 	    {
 	        "name": "Dust Converter",
 	        "rarity": "common",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dust%20Converter.png?raw=true"
@@ -650,7 +650,7 @@
 	    {
 	        "name": "Drougth Attuner",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Attuner.png?raw=true"
@@ -659,7 +659,7 @@
 	    {
 	        "name": "Adventurous Pair",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Adventurous%20Pair.png?raw=true"
@@ -668,7 +668,7 @@
 	    {
 	        "name": "Calign",
 	        "rarity": "common",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Drake Horror ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Calign.png?raw=true"
@@ -677,7 +677,7 @@
 	    {
 	        "name": "Avakin Explorer",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Bird Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Avakin%20Explorer.png?raw=true"
@@ -686,7 +686,7 @@
 	    {
 	        "name": "Enlisted Arms",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}{F}",
+	        "mana_cost": "{2}{C}{C}",
 	        "type": "Enchantment Creature — Wolf Mercenary ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlisted%20Arms.png?raw=true"
@@ -695,7 +695,7 @@
 	    {
 	        "name": "Drougth Oracle",
 	        "rarity": "common",
-	        "mana_cost": "{4}{F}",
+	        "mana_cost": "{4}{C}",
 	        "type": "Creature — Cat Shaman ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Oracle.png?raw=true"
@@ -704,7 +704,7 @@
 	    {
 	        "name": "Vestige Pouncer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{F}{F}",
+	        "mana_cost": "{4}{C}{C}",
 	        "type": "Creature — Leech ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vestige%20Pouncer.png?raw=true"
@@ -713,7 +713,7 @@
 	    {
 	        "name": "Mutated Pioneer",
 	        "rarity": "common",
-	        "mana_cost": "{6}{F}",
+	        "mana_cost": "{6}{C}",
 	        "type": "Creature — Wurm Crab Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mutated%20Pioneer.png?raw=true"
@@ -731,7 +731,7 @@
 	    {
 	        "name": "Perspective Shift",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Perspective%20Shift.png?raw=true"
@@ -740,7 +740,7 @@
 	    {
 	        "name": "Power from Beyond",
 	        "rarity": "common",
-	        "mana_cost": "{F}",
+	        "mana_cost": "{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Power%20from%20Beyond.png?raw=true"
@@ -758,7 +758,7 @@
 	    {
 	        "name": "Captivate",
 	        "rarity": "common",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Captivate.png?raw=true"
@@ -767,7 +767,7 @@
 	    {
 	        "name": "Aerial Assurance",
 	        "rarity": "common",
-	        "mana_cost": "{F}",
+	        "mana_cost": "{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aerial%20Assurance.png?raw=true"
@@ -776,7 +776,7 @@
 	    {
 	        "name": "Journey Through the Self",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Journey%20Through%20the%20Self.png?raw=true"
@@ -789,15 +789,6 @@
 	        "type": "Creature — Weasel ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Prismatic%20Weasel.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Lasting Discovery",
-	        "rarity": "common",
-	        "mana_cost": "{4}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lasting%20Discovery.png?raw=true"
 	        }
 	    },
 	    {
@@ -819,15 +810,6 @@
 	        }
 	    },
 	    {
-	        "name": "Evolving Wilds",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Evolving%20Wilds.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Safeguarded Pair",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
@@ -842,7 +824,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Mouse Bird Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Julius%2c%20Skyknight%20of%20Morriare.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Julius%20Skyknight%20of%20Morriare.png?raw=true"
 	        }
 	    },
 	    {
@@ -866,7 +848,7 @@
 	    {
 	        "name": "Coiling Jailer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{F}{W}",
+	        "mana_cost": "{4}{C}{W}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Coiling%20Jailer.png?raw=true"
@@ -897,12 +879,22 @@
 	        "type": "Battle — Seige",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Civil%20War.png?raw=true"
-	        }
+	        },
+		    "back": {
+            "name": "Kera, Mordel's New Hope",
+            "image_uris": {
+                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kera%20Mordels%20New%20Hope.png?raw=true"
+            },
+            "type": "Creature",
+            "subtypes": [
+                "Human Warrior"
+            ]
+        }
 	    },
 	    {
 	        "name": "Iconic Challenger",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Enchantment Creature — Icon Warrior ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iconic%20Challenger.png?raw=true"
@@ -911,7 +903,7 @@
 	    {
 	        "name": "Soaring Chorus",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Enchamtment Creature — Icon Wizard ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Chorus.png?raw=true"
@@ -920,25 +912,25 @@
 	    {
 	        "name": "Korna's Forward",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Wurm Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Korna%27s%20Forward.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Multaph's Voidweaver",
+	        "name": "Multaphs Voidweaver",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{F}",
+	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Multaph%27s%20Voidweaver.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Multaphs%20Voidweaver.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Meirel Evacuator",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{F}",
+	        "mana_cost": "{1}{C}{C}",
 	        "type": "Creature — Hyena Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Evacuator.png?raw=true"
@@ -947,7 +939,7 @@
 	    {
 	        "name": "Embrace Fascination",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{F}{F}",
+	        "mana_cost": "{2}{C}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Embrace%20Fascination.png?raw=true"
@@ -981,30 +973,12 @@
 	        }
 	    },
 	    {
-	        "name": "Iridescent Plains",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Plains ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Plains.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Island",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Island.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Sonnet, Meirel Lancer",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Fox Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sonnet%2c%20Meirel%20Lancer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sonnet%20Meirel%20Lancer.png?raw=true"
 	        }
 	    },
 	    {
@@ -1028,7 +1002,7 @@
 	    {
 	        "name": "Called to Eternity",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Called%20to%20Eternity.png?raw=true"
@@ -1037,7 +1011,7 @@
 	    {
 	        "name": "Outlands Chimera",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{F}{F}",
+	        "mana_cost": "{3}{C}{C}",
 	        "type": "Creature — Chimera ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Chimera.png?raw=true"
@@ -1046,10 +1020,10 @@
 	    {
 	        "name": "Melodia, Explorer at Heart",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{F}{F}",
+	        "mana_cost": "{3}{C}{C}",
 	        "type": "Legendary Enchantment Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Melodia%2c%20Explorer%20at%20Heart.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Melodia%20Explorer%20at%20Heart.png?raw=true"
 	        }
 	    },
 	    {
@@ -1058,7 +1032,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Planeswalker — Heng ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Heng%20Hien%2c%20Reifer%20of%20Justice.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Heng%20Hien%20Reifer%20of%20Justice.png?raw=true"
 	        }
 	    },
 	    {
@@ -1067,7 +1041,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Legendary Enchantment — Wurm Entity ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Korna%2c%20Adventuring%20Historian.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Korna%20Adventuring%20Historian.png?raw=true"
 	        }
 	    },
 	    {
@@ -1076,7 +1050,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Planeswalker — Marie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Marie%2c%20Hungerbound.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Marie%20Hungerbound.png?raw=true"
 	        }
 	    },
 	    {
@@ -1116,180 +1090,9 @@
 	        }
 	    },
 	    {
-	        "name": "Moonglow Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonglow%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mistlake Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistlake%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Glowspore Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Glowspore%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Bloomrock Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bloomrock%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Brightblossom Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Brightblossom%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Tranquil Stream",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Plains Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tranquil%20Stream.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Sodden Cavern",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Island Swamp ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sodden%20Cavern.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Fiery Chasm",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Swamp Mountain ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Chasm.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Highland Vale",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Mountain Forest ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Highland%20Vale.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Alpine Meadow",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Forest Plains ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alpine%20Meadow.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Desolate Barrens",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Plains Swamp ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Desolate%20Barrens.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Roaring Cascade",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Island Mountain ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roaring%20Cascade.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Somber Marsh",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Swamp Forest ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Somber%20Marsh.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Jagged Crag",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Mountain Plains ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Jagged%20Crag.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Rainforest Spring",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Forest Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rainforest%20Spring.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Crackling Expanse",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Fault Plains ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crackling%20Expanse.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Drifting River",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Fault Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drifting%20River.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Barren Fissure",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Fault Swamp ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Barren%20Fissure.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Tectonic Rime",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Fault Mountain ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tectonic%20Rime.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Meirel Explorer",
 	        "rarity": "common",
-	        "mana_cost": "{F}",
+	        "mana_cost": "{C}",
 	        "type": "Creature — Fox Scout ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Explorer.png?raw=true"
@@ -1379,7 +1182,7 @@
 	    {
 	        "name": "Outlands Rescuer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{G}{G}",
+	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Rescuer.png?raw=true"
@@ -1415,7 +1218,7 @@
 	    {
 	        "name": "Meditation",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meditation.png?raw=true"
@@ -1451,7 +1254,7 @@
 	    {
 	        "name": "Disciplined Seeker",
 	        "rarity": "uncommon",
-	        "mana_cost": "{F}",
+	        "mana_cost": "{C}",
 	        "type": "Creature — Human Elf Warrior ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Disciplined%20Seeker.png?raw=true"
@@ -1460,7 +1263,7 @@
 	    {
 	        "name": "Kaln-Ocean Streamliner",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Merfolk Rogue ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kaln-Ocean%20Streamliner.png?raw=true"
@@ -1469,16 +1272,25 @@
 	    {
 	        "name": "Chirps, Spice Seeker",
 	        "rarity": "rare",
-	        "mana_cost": "{3}{F}",
+	        "mana_cost": "{3}{C}",
 	        "type": "Legendary Enchantment Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Chirps%2c%20Spice%20Seeker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Chirps%20Spice%20Seeker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Extra Rulings for Silver",
+	        "rarity": "special",
+	        "mana_cost": "{C}",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Blade Reifer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{F}{F}",
+	        "mana_cost": "{4}{C}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Blade%20Reifer.png?raw=true"
@@ -1487,7 +1299,7 @@
 	    {
 	        "name": "Unweave",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{F}{F}",
+	        "mana_cost": "{2}{C}{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unweave.png?raw=true"
@@ -1496,70 +1308,16 @@
 	    {
 	        "name": "Discover Uncertainty",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Discover%20Uncertainty.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "It's Morbin Time",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{F}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/It%27s%20Morbin%20Time.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Swamp",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Swamp ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Swamp.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Mountain",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Mountain ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Mountain.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Forest",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Forest ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Forest.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Fault",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Fault ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Fault.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Vineglare Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vineglare%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Mana Compression",
 	        "rarity": "common",
-	        "mana_cost": "{4}{F}",
+	        "mana_cost": "{4}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mana%20Compression.png?raw=true"
@@ -1568,7 +1326,7 @@
 	    {
 	        "name": "Pathworn Blade",
 	        "rarity": "common",
-	        "mana_cost": "{F}",
+	        "mana_cost": "{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathworn%20Blade.png?raw=true"
@@ -1577,7 +1335,7 @@
 	    {
 	        "name": "Trace the Stars",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{F}{F}",
+	        "mana_cost": "{2}{C}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trace%20the%20Stars.png?raw=true"
@@ -1587,18 +1345,9 @@
 	        "name": "Dance of Discovery",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dance%20of%20Discovery.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "EXPLOOOOOSION",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{5}{F}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/EXPLOOOOOSION.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dance%20of%20Discovery.png?raw=true"
 	        }
 	    },
 	    {
@@ -1631,7 +1380,7 @@
 	    {
 	        "name": "Emigrating Pilgrim",
 	        "rarity": "common",
-	        "mana_cost": "{2}{F}{F}",
+	        "mana_cost": "{2}{C}{C}",
 	        "type": "Enchantment Creature — Icon Knight ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Emigrating%20Pilgrim.png?raw=true"
@@ -1662,24 +1411,6 @@
 	        "type": "Creature — Human Cleric Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Battle-Cleric.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Fall through Reality",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fall%20through%20Reality.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Fall through Reality",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fall%20through%20Reality.png?raw=true"
 	        }
 	    },
 	    {
@@ -1719,18 +1450,9 @@
 	        }
 	    },
 	    {
-	        "name": "Sonnet, Meirel Lancer",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{W}",
-	        "type": "Legendary Creature — Fox Warrior ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sonnet%2c%20Meirel%20Lancer.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Your Strength is Fading",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Your%20Strength%20is%20Fading.png?raw=true"
@@ -1764,18 +1486,9 @@
 	        }
 	    },
 	    {
-	        "name": "Splintered Thicket",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Fault Forest ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Splintered%20Thicket.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "I Will Walk My Own Path",
 	        "rarity": "rare",
-	        "mana_cost": "{5}{F}{F}",
+	        "mana_cost": "{4}{C}{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Will%20Walk%20My%20Own%20Path.png?raw=true"
@@ -1784,7 +1497,7 @@
 	    {
 	        "name": "Pathshaping",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathshaping.png?raw=true"
@@ -1794,99 +1507,9 @@
 	        "name": "Outlands Recruiter",
 	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
-	        "type": "Enchantment Creature — Icon Soldier ",
+	        "type": "Enchantment Creature — Icon Bird ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Recruiter.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Bosket Path",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{R}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bosket%20Path.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Tiderock Passage Promo",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{2}{U}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tiderock%20Passage%20Promo.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Gold-Streaked Obelisks",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{4}{G}{G}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gold-Streaked%20Obelisks.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Enlightening Crescents",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{3}{F}{F}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlightening%20Crescents.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Staggering Spires Promo",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{W}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Staggering%20Spires%20Promo.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Eroding River",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{B}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Eroding%20River.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Resurrection Pools",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{2}{W}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Resurrection%20Pools.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Snow Worn Peaks",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Snow%20Worn%20Peaks.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Sunswept Prairie",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sunswept%20Prairie.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Foruden Shrine",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Foruden%20Shrine.png?raw=true"
 	        }
 	    },
 	    {
@@ -1910,55 +1533,10 @@
 	    {
 	        "name": "When Words Don't Work",
 	        "rarity": "common",
-	        "mana_cost": "{1}{F}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/When%20Words%20Don%27t%20Work.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Soaring Tethers",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Tethers.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Thyrsine Way",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Thyrsine%20Way.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Windy Weft",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Windy%20Weft.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Vibrant Knoll",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vibrant%20Knoll.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Cascading Cleave",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cascading%20Cleave.png?raw=true"
 	        }
 	    },
 	    {
@@ -1967,25 +1545,358 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Zombie Cleric Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisse%2c%20Bound%20by%20the%20King.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisse%20Bound%20by%20the%20King.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Lorenz, Heired King of Alira",
+	        "name": "Murkross Spiritcaller",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Spider ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Murkross%20Spiritcaller.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Awakened Wurm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}{B}",
+	        "type": "Creature — Wurm Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Wurm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ignelscor Jidiao",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Dragon Turtle ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Jidiao.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Seasoned Flamefinder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Fox Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Seasoned%20Flamefinder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rend Hope",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rend%20Hope.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spire of Rebirth",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Spire%20of%20Rebirth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Parasitic Roots",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Parasitic%20Roots.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dissenting Experience",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dissenting%20Experience.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "I Won't Stand Alone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Won%27t%20Stand%20Alone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shimmer From Beyond",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shimmer%20From%20Beyond.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Worldcleave",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worldcleave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Broodmages Furor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Broodmages%20Furor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Where Our Paths Meet",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Where%20Our%20Paths%20Meet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Font",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ancient%20Font.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hunter's Strength",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hunter%27s%20Strength.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crystalline Refraction",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crystalline%20Refraction.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Surging Spheres",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Surging%20Spheres.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Monument to Forever",
+	        "rarity": "uncommon",
+	        "mana_cost": "{8}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Monument%20to%20Forever.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trailway Gates",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trailway%20Gates.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lorenz, Ascendant King of Alira",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lorenz%2c%20Heired%20King%20of%20Alira.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lorenz%20Ascendant%20King%20of%20Alira.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cloudscape Gargantua",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cloudscape%20Gargantua.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Realmbound Spellshaper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Realmbound%20Spellshaper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Embracing Intonation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment Creature — Icon Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Embracing%20Intonation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Moonscale Koi",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Fish Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonscale%20Koi.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Waterscape Mystic",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Waterscape%20Mystic.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Howling Gasp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment Creature — Icon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Howling%20Gasp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ditto Dagger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Artifact Creature — Shapeshifter Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ditto%20Dagger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Duskcharm Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Duskcharm%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "New Mordel Fireweaver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/New%20Mordel%20Fireweaver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lost Sunset",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment Creature — Icon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lost%20Sunset.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dawncoil Burnisher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Wurm Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dawncoil%20Burnisher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Leyline Weaver",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Treefolk Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Leyline%20Weaver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Enduring Woodland",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enduring%20Woodland.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kera's Appointed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Treefolk Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kera%27s%20Appointed.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Virulent Attendant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment Creature — Icon Rat ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Virulent%20Attendant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tofnet Ranger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{G}",
+	        "type": "Creature — Human Elf Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tofnet%20Ranger.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Shrouded Pathcensor",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{F}",
+	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shrouded%20Pathcensor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Awakened Automaton",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Robot Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Automaton.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aurel, Born Through Discord",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{R}{W}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aurel%20Born%20Through%20Discord.png?raw=true"
 	        }
 	    },
 	    {
@@ -1998,12 +1909,138 @@
 	        }
 	    },
 	    {
+	        "name": "Worzel, Awakened Flock",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Planeswalker — Worzel ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worzel%20Awakened%20Flock.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Worzel",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Legendary Planeswalker — Worzel ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worzel.png?raw=true"
+	        }
+	    },
+	    {
 	        "name": "Outland Riftsower",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Hyena Cleric ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outland%20Riftsower.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Drake",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Prismatic%20Drake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trailing Tethers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Jellyfish Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trailing%20Tethers.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cerise, Auger of Flow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{W}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cerise%20Auger%20of%20Flow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trade Routes",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trade%20Routes.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Starfall Outlook",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{U}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Starfall%20Outlook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rest For a New World",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rest%20For%20a%20New%20World.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Sigils",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ancient%20Sigils.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "I Know What You Mean to Me",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Know%20What%20You%20Mean%20to%20Me.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skycliff Dens",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Skycliff%20Dens.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Slipstream Cyprinus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Kindred Enchantment — Fish Entity ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Slipstream%20Cyprinus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bitter Inspection",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bitter%20Inspection.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ignelscor Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Witch.png?raw=true"
 	        }
 	    },
 	    {
@@ -2016,12 +2053,84 @@
 	        }
 	    },
 	    {
+	        "name": "Our March Won't End",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Our%20March%20Won%27t%20End.png?raw=true"
+	        }
+	    },
+	    {
 	        "name": "Hengs Intercession",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{W}",
+	        "mana_cost": "{4}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hengs%20Intercession.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Murkross Shaman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Murkross%20Shaman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ruthless Pathfinder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Artifact Creature — Centaur Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ruthless%20Pathfinder.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gael, Spiteflame Phoenix",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}{R}",
+	        "type": "Legendary Creature — Phoenix ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gael%20Spiteflame%20Phoenix.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cartographer's Survey",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cartographer%27s%20Survey.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Outlands Caretaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Caretaker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unexpected Predator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Salamander ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unexpected%20Predator.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Snowscaper Bakunawa",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Snowscaper%20Bakunawa.png?raw=true"
 	        }
 	    },
 	    {
@@ -2030,16 +2139,34 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Planeswalker — Zoslera ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Zoslera%2c%20Exiled%20Visionary.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Zoslera%20Exiled%20Visionary.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Toll of Exploration",
+	        "name": "Ranging Symbiote",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ranging%20Symbiote.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crustacean Surge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crustacean%20Surge.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Haphazard and Unbound",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Toll%20of%20Exploration.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Haphazard%20and%20Unbound.png?raw=true"
 	        }
 	    },
 	    {
@@ -2070,21 +2197,21 @@
 	        }
 	    },
 	    {
+	        "name": "Ikorian Skyshark",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Shark ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ikorian%20Skyshark.png?raw=true"
+	        }
+	    },
+	    {
 	        "name": "Renewer of Bloodlines",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Elf ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Renewer%20of%20Bloodlines.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Sisters in 😔",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{R}{W}",
-	        "type": "Creature — Wurm Human Soldier ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sisters%20in%20😔.png?raw=true"
 	        }
 	    },
 	    {
@@ -2097,72 +2224,27 @@
 	        }
 	    },
 	    {
-	        "name": "Wormfang Salamander",
-	        "rarity": "uncommon",
+	        "name": "Dreamgill Salamander",
+	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Salamander ",
+	        "type": "Creature — Nightmare Salamander ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Wormfang%20Salamander.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dreamgill%20Salamander.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Quixotia Dreamscape",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Quixotia%20Dreamscape.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Alira Glade",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alira%20Glade.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mangreil Precipice",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mangreil%20Precipice.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mirros Cleave",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mirros%20Cleave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Asahr Sahel",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Asahr%20Sahel.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Dominator of Drakes",
+	        "name": "Drake Mentor",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{U}",
+	        "mana_cost": "{1}{C}{U}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dominator%20of%20Drakes.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake%20Mentor.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Promise of Hunger",
 	        "rarity": "uncommon",
-	        "mana_cost": "{F}{G}",
+	        "mana_cost": "{C}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Promise%20of%20Hunger.png?raw=true"
@@ -2172,10 +2254,20 @@
 	        "name": "Remnants of the War",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{G}",
-	        "type": "Battle — Siege",
+	        "type": "Battle — Seige",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Remnants%20of%20the%20War.png?raw=true"
-	        }
+	        },
+		    "back": {
+            "name": "Guardian of the Cinders",
+            "image_uris": {
+                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Guardian%20of%20the%20Cinders.png?raw=true"
+            },
+            "type": "Enchantment Creature",
+            "subtypes": [
+                "Icon Warlock"
+            ]
+        }
 	    },
 	    {
 	        "name": "Latent Powerstone",
@@ -2189,7 +2281,7 @@
 	    {
 	        "name": "Cydina Storm Drake",
 	        "rarity": "uncommon",
-	        "mana_cost": "{6}{F}{R}",
+	        "mana_cost": "{6}{C}{R}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cydina%20Storm%20Drake.png?raw=true"
@@ -2198,7 +2290,7 @@
 	    {
 	        "name": "Calamitous Koi",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{F}{B}",
+	        "mana_cost": "{2}{C}{B}",
 	        "type": "Creature — Fish Spirit ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Calamitous%20Koi.png?raw=true"
@@ -2214,257 +2306,718 @@
 	        }
 	    },
 	    {
-	        "name": "Everyone, at the Wrong Time",
-	        "rarity": "masterpiece",
-	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Bird Wizard ",
+	        "name": "Lasting Discovery",
+	        "rarity": "rare",
+	        "mana_cost": "{X}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Everyone%2c%20at%20the%20Wrong%20Time.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lasting%20Discovery.png?raw=true"
 	        }
-	    }
+	    },
+	    {
+	        "name": "Drake-Brood Peak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake-Brood%20Peak.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Inspiring Dunes",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Inspiring%20Dunes.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mesmeric Peaks",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mesmeric%20Peaks.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Boundless Hollow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Boundless%20Hollow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Unending Exploration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unending%20Exploration.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Encouraging Passage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Encouraging%20Passage.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nurtured Landscape",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Nurtured%20Landscape.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Forgiving Monument",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Forgiving%20Monument.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "A Flock is Born",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Kindred Sorcery — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/A%20Flock%20is%20Born.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Alpine Meadow",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alpine%20Meadow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Barren Fissure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Barren%20Fissure.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bloomrock Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bloomrock%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Brightblossom Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Brightblossom%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cascading Cleave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cascading%20Cleave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crackling Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crackling%20Expanse.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Desolate Barrens",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Desolate%20Barrens.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Drifting River",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drifting%20River.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fiery Chasm",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Chasm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Formless Frontier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Formless%20Frontier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Glowspore Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Glowspore%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Highland Vale",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Highland%20Vale.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Fault",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Fault ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Fault.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Forest",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Island",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Mountain",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Plains",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Swamp",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Jagged Crag",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Jagged%20Crag.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mistlake Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistlake%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Moonglow Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonglow%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rainforest Spring",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rainforest%20Spring.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roaring Cascade",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roaring%20Cascade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Soaring Tethers",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Tethers.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sodden Cavern",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sodden%20Cavern.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Somber Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Somber%20Marsh.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Splintered Thicket",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Splintered%20Thicket.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sunswept Prairie",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sunswept%20Prairie.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tectonic Rime",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tectonic%20Rime.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thyrsine Way",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Thyrsine%20Way.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tranquil Stream",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tranquil%20Stream.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vibrant Knoll",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vibrant%20Knoll.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vineglare Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vineglare%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Windy Weft",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Windy%20Weft.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sanctum Reminder",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sanctum%20Reminder.png?raw=true"
+	        },
+		    "back": {
+            "name": "Extra Rulings for Silver",
+            "image_uris": {
+                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true"
+            },
+            "type": "Reminder",
+            "subtypes": [
+                ""
+            ]
+        }
+	}
 	]
-	[RareSlot(0)]
-		0 Iridescent Plains
-		0 Iridescent Island
-		0 Sonnet, Meirel Lancer
-		0 Resurrection Pools
-		0 Soul Shatter
-		0 Called to Eternity
-		0 Outlands Chimera
-		0 Melodia, Explorer at Heart
-		0 Heng Hien, Reifer of Justice
-		0 Korna, Adventuring Historian
-		0 Marie, Hungerbound
-		0 The Planar Portal
-		0 The Shattering of Meirel
-		0 My Hunger Will Kill You
-		0 Soul of Vinimroth
-		0 Kaln-Ocean Streamliner
-		0 Chirps, Spice Seeker
-		0 Iridescent Swamp
-		0 Iridescent Mountain
-		0 Iridescent Forest
-		0 Iridescent Fault
-		0 I Will Walk My Own Path
-		0 Pathshaping
-		0 Shrouded Pathcensor
-		0 Zoslera, Exiled Visionary
-		0 Reichen, Verdant Guardian
-		0 Foruden Shrine
-		0 Quixotia Dreamscape
-		0 Alira Glade
-		0 Mangreil Precipice
-		0 Mirros Cleave
-		0 Asahr Sahel
-		0 Themia, Steward of Sanctity
-		0 Zesha, Dream Hedonist
-		0 Argent, Flash of Mirros
-		0 Clawf, Maw of the Moon
-		0 Lisse, Hope Through Sin
-	[UncommonSlot(0)]
-		0 Fervor of the Flame
-		0 Safeguarded Pair
-		0 Julius, Skyknight of Morriare
-		0 Meirel Pathwalker
-		0 Winding Guide
-		0 Coiling Jailer
-		0 Mentor of Engagement
-		0 Fritter Skitter
-		0 Mordel Civil War
-		0 Iconic Challenger
-		0 Soaring Chorus
-		0 Korna's Forward
-		0 Multaph's Voidweaver
-		0 Meirel Evacuator
-		0 Embrace Fascination
-		0 Ignelscor Weaver
-		0 Pathward Riftcalling
-		0 Duraval Starmapper
-		0 Moonglow Enclave
-		0 Mistlake Enclave
-		0 Glowspore Enclave
-		0 Bloomrock Enclave
-		0 Brightblossom Enclave
-		0 Meditation
-		0 Disciplined Seeker
-		0 Blade Reifer
-		0 Unweave
-		0 Discover Uncertainty
-		0 Vineglare Enclave
-		0 Trace the Stars
-		0 Fadove Battle-Cleric
-		0 Stir the Aether
-		0 Outlands Recruiter
-		0 Kera, Mordel's New Hope
-		0 Lisse, Bound by the King
-		0 Lorenz, Heired King of Alira
-		0 Coalesced Company
-		0 Outland Riftsower
-		0 Lisse's Drakesteel Phylactory
-		0 Hengs Intercession
-		0 Toll of Exploration
-		0 Whisperer of the Paths
-		0 Ignelscor Frontliner
-		0 Those Lost in the Paths
-		0 Renewer of Bloodlines
-		0 Chimarel Clearing
-		0 Wormfang Salamander
-		0 Dominator of Drakes
-		0 Promise of Hunger
-		0 Remnants of the War
-		0 Latent Powerstone
-		0 Cydina Storm Drake
-		0 Calamitous Koi
-		0 Guardian of the Cinders
-		0 Sisters in Sorrow
-	[CommonSlot(0)]
-		0 Meso Meso
-		0 Staggering Spires
-		0 Marching Partisan
-		0 Fadove Lawkeeper
-		0 Focus of Fadove
-		0 Veteran Party
-		0 Outlands Rescinder
-		0 Clanless Tunneler
-		0 Rising Haze
-		0 Meirel Caretaker
-		0 Outlander Mercenary
-		0 Fadove Air Supplier
-		0 Cleric of the Dawn
-		0 Light of Hope
-		0 Fall through Reality
-		0 Push Forward
-		0 Make Your Stand
-		0 Rescue Response
-		0 Apprentice's Drake
-		0 Tiderock Passage
-		0 Vestige Prowler
-		0 Veneer Walker
-		0 Bropheria
-		0 Outlands Explorer
-		0 Migratory Flotilla
-		0 Mistbound Rogue
-		0 Pathwrought Overseer
-		0 Reshape Eternity
-		0 Consult Eternity
-		0 Fold the Truth
-		0 Alternate Path
-		0 Pristine Denial
-		0 Vertical Shift
-		0 Branching Paths
-		0 Gripping Truths
-		0 Tide of Dismissal
-		0 Pathborn Stinger
-		0 Eroding River
-		0 Smogborn Pilferer
-		0 Omenspeaker Avakin
-		0 Hedgecrow
-		0 Avakin Trapper
-		0 Relentless Truthseeker
-		0 Scaled Rippler
-		0 Autonomous Shell
-		0 Voidborn Horror
-		0 Aeon Tunneler
-		0 You Can't Face Me
-		0 Influence of the Paths
-		0 This Hunger Has a Name
-		0 Foolish Footing
-		0 The Path Back
-		0 Left for the Crows
-		0 Clanless Combatant
-		0 Bosket Path
-		0 Fiery Absolver
-		0 Mordel Shaper
-		0 Drougth Explorer
-		0 Inspiring Recruit
-		0 Sprouting Fumes
-		0 Mordel Flamespeaker
-		0 Pathborn Spitter
-		0 Willbourne's Flame
-		0 Start of an Adventure
-		0 Fervor of the Wurm
-		0 Shifting Landscape
-		0 Drake's Intuition
-		0 Call to Revolution
-		0 Depthscout
-		0 Enlightening Crescents
-		0 Dust Converter
-		0 Drougth Attuner
-		0 Adventurous Pair
-		0 Calign
-		0 Avakin Explorer
-		0 Enlisted Arms
-		0 Drougth Oracle
-		0 Vestige Pouncer
-		0 Mutated Pioneer
-		0 Rustic Cultivator
-		0 Perspective Shift
-		0 Power from Beyond
-		0 Guide With and Through
-		0 Captivate
-		0 Aerial Assurance
-		0 Journey Through the Self
-		0 Prismatic Weasel
-		0 Lasting Discovery
-		0 Roduth's Guard
-		0 Mural of Harmony
-		0 Meirel Explorer
-		0 Gold-Streaked Obelisks
-		0 Meirel Traveller
-		0 Shard Bearer
-		0 Clanless Weaver
-		0 Disciple of the Thicket
-		0 Defector of Mordel
-		0 Voice of the Thicket
-		0 Illusion Reamer
-		0 Outland Pair
-		0 Outlands Rescuer
-		0 Awakened Reactionary
-		0 Open Eternity
-		0 Stand Your Ground
-		0 The Strength to Overcome
-		0 Scale the Heights
-		0 Natural Awakening
-		0 Mana Compression
-		0 Pathworn Blade
-		0 Dance of Discovery
-		0 Smelt Corruption
-		0 Basalt Hammer
-		0 Mordel Hammer
-		0 Emigrating Pilgrim
-		0 Crystalline Cover
-		0 History's Weave
-		0 Otherworldly Entrance
-		0 Turbulent Aether
-		0 Snow Worn Peaks
-		0 Your Strength is Fading
-		0 Aspect of Moth
-		0 Pathfinder Wurm
-		0 Warforged Pair
-		0 Surubim Harpoon
-		0 A World Without You
-		0 When Words Don't Work
-	[BasicSlot(0)]
-		0 Evolving Wilds
-		0 Tranquil Stream
-		0 Sodden Cavern
-		0 Fiery Chasm
-		0 Highland Vale
-		0 Alpine Meadow
-		0 Desolate Barrens
-		0 Roaring Cascade
-		0 Somber Marsh
-		0 Jagged Crag
-		0 Rainforest Spring
-		0 Crackling Expanse
-		0 Drifting River
-		0 Barren Fissure
-		0 Tectonic Rime
-		0 Splintered Thicket
-		0 Sunswept Prairie
-		0 Soaring Tethers
-		0 Thyrsine Way
-		0 Windy Weft
-		0 Vibrant Knoll
-		0 Cascading Cleave
-	
+	[UncommonSlot(4)]
+		1 Sonnet, Meirel Lancer
+		1 Resurrection Pools
+		1 Soul Shatter
+		1 Called to Eternity
+		1 Outlands Chimera
+		1 Melodia, Explorer at Heart
+		1 Heng Hien, Reifer of Justice
+		1 Korna, Adventuring Historian
+		1 Marie, Hungerbound
+		1 The Planar Portal
+		1 The Shattering of Meirel
+		1 My Hunger Will Kill You
+		1 Soul of Vinimroth
+		1 Kaln-Ocean Streamliner
+		1 Chirps, Spice Seeker
+		1 I Will Walk My Own Path
+		1 Pathshaping
+		1 Where Our Paths Meet
+		1 Surging Spheres
+		1 Shrouded Pathcensor
+		1 Aurel, Born Through Discord
+		1 Worzel
+		1 Prismatic Drake
+		1 Trade Routes
+		1 Starfall Outlook
+		1 Bitter Inspection
+		1 Zoslera, Exiled Visionary
+		1 Ikorian Skyshark
+		1 Lasting Discovery
+		5 Vertical Shift
+		5 Fervor of the Flame
+		5 Safeguarded Pair
+		5 Julius, Skyknight of Morriare
+		5 Meirel Pathwalker
+		5 Winding Guide
+		5 Coiling Jailer
+		5 Mentor of Engagement
+		5 Fritter Skitter
+		5 Mordel Civil War
+		5 Iconic Challenger
+		5 Soaring Chorus
+		5 Korna's Forward
+		5 Multaphs Voidweaver
+		5 Meirel Evacuator
+		5 Embrace Fascination
+		5 Ignelscor Weaver
+		5 Pathward Riftcalling
+		5 Duraval Starmapper
+		5 Meditation
+		5 Disciplined Seeker
+		5 Blade Reifer
+		5 Unweave
+		5 Discover Uncertainty
+		5 Trace the Stars
+		5 Fadove Battle-Cleric
+		5 Stir the Aether
+		5 Outlands Recruiter
+		5 Lisse, Bound by the King
+		5 Murkross Spiritcaller
+		5 Awakened Wurm
+		5 Ignelscor Jidiao
+		5 Seasoned Flamefinder
+		5 Rend Hope
+		5 Spire of Rebirth
+		5 Parasitic Roots
+		5 Dissenting Experience
+		5 I Won't Stand Alone
+		5 Shimmer From Beyond
+		5 Worldcleave
+		5 Broodmages Furor
+		5 Ancient Font
+		5 Hunter's Strength
+		5 Crystalline Refraction
+		5 Monument to Forever
+		5 Trailway Gates
+		5 Lorenz, Ascendant King of Alira
+		5 Cloudscape Gargantua
+		5 Realmbound Spellshaper
+		5 Embracing Intonation
+		5 Moonscale Koi
+		5 Waterscape Mystic
+		5 Howling Gasp
+		5 Ditto Dagger
+		5 Duskcharm Drake
+		5 New Mordel Fireweaver
+		5 Lost Sunset
+		5 Dawncoil Burnisher
+		5 Leyline Weaver
+		5 Enduring Woodland
+		5 Kera's Appointed
+		5 Virulent Attendant
+		5 Tofnet Ranger
+		5 Awakened Automaton
+		5 Coalesced Company
+		5 Worzel, Awakened Flock
+		5 Outland Riftsower
+		5 Trailing Tethers
+		5 Cerise, Auger of Flow
+		5 Rest For a New World
+		5 Ancient Sigils
+		5 I Know What You Mean to Me
+		5 Skycliff Dens
+		5 Slipstream Cyprinus
+		5 Ignelscor Witch
+		5 Lisse's Drakesteel Phylactory
+		5 Our March Won't End
+		5 Hengs Intercession
+		5 Murkross Shaman
+		5 Ruthless Pathfinder
+		5 Gael, Spiteflame Phoenix
+		5 Cartographer's Survey
+		5 Outlands Caretaker
+		5 Unexpected Predator
+		5 Snowscaper Bakunawa
+		5 Ranging Symbiote
+		5 Crustacean Surge
+		5 Haphazard and Unbound
+		5 Whisperer of the Paths
+		5 Ignelscor Frontliner
+		5 Those Lost in the Paths
+		5 Renewer of Bloodlines
+		5 Chimarel Clearing
+		5 Drake Mentor
+		5 Promise of Hunger
+		5 Remnants of the War
+		5 Latent Powerstone
+		5 Cydina Storm Drake
+		5 Calamitous Koi
+		5 Sisters in Sorrow
+		5 Drake-Brood Peak
+		5 Inspiring Dunes
+		5 Mesmeric Peaks
+		5 Boundless Hollow
+		5 Unending Exploration
+		5 Encouraging Passage
+		5 Nurtured Landscape
+		5 Forgiving Monument
+	[CommonSlot(10)]
+		9 Meso Meso
+		9 Staggering Spires
+		9 Marching Partisan
+		9 Fadove Lawkeeper
+		9 Focus of Fadove
+		9 Veteran Party
+		9 Outlands Rescinder
+		9 Clanless Tunneler
+		9 Rising Haze
+		9 Meirel Caretaker
+		9 Outlander Mercenary
+		9 Fadove Air Supplier
+		9 Cleric of the Dawn
+		9 Light of Hope
+		9 Fall through Reality
+		9 Push Forward
+		9 Make Your Stand
+		9 Rescue Response
+		9 Apprentices Drake
+		9 Tiderock Passage
+		9 Vestige Prowler
+		9 Veneer Walker
+		9 Bropheria
+		9 Outlands Explorer
+		9 Migratory Flotilla
+		9 Mistbound Rogue
+		9 Pathwrought Overseer
+		9 Reshape Eternity
+		9 Consult Eternity
+		9 Fold the Truth
+		9 Alternate Path
+		9 Pristine Denial
+		9 Branching Paths
+		9 Gripping Truths
+		9 Tide of Dismissal
+		9 Pathborn Stinger
+		9 Eroding River
+		9 Smogborn Pilferer
+		9 Omenspeaker Avakin
+		9 Hedgecrow
+		9 Avakin Trapper
+		9 Relentless Truthseeker
+		9 Scaled Rippler
+		9 Autonomous Shell
+		9 Voidborn Horror
+		9 Aeon Tunneler
+		9 You Can't Face Me
+		9 Influence of the Paths
+		9 This Hunger Has a Name
+		9 Foolish Footing
+		9 The Path Back
+		9 Left for the Crows
+		9 Clanless Combatant
+		9 Bosket Path
+		9 Fiery Absolver
+		9 Mordel Shaper
+		9 Drougth Explorer
+		9 Inspiring Recruit
+		9 Sprouting Fumes
+		9 Mordel Flamespeaker
+		9 Pathborn Spitter
+		9 Willbourne's Flame
+		9 Start of an Adventure
+		9 Fervor of the Wurm
+		9 Shifting Landscape
+		9 Drake's Intuition
+		9 Call to Revolution
+		9 Depthscout
+		9 Enlightening Crescents
+		9 Dust Converter
+		9 Drougth Attuner
+		9 Adventurous Pair
+		9 Calign
+		9 Avakin Explorer
+		9 Enlisted Arms
+		9 Drougth Oracle
+		9 Vestige Pouncer
+		9 Mutated Pioneer
+		9 Rustic Cultivator
+		9 Perspective Shift
+		9 Power from Beyond
+		9 Guide With and Through
+		9 Captivate
+		9 Aerial Assurance
+		9 Journey Through the Self
+		9 Prismatic Weasel
+		9 Roduth's Guard
+		9 Mural of Harmony
+		9 Meirel Explorer
+		9 Gold-Streaked Obelisks
+		9 Meirel Traveller
+		9 Shard Bearer
+		9 Clanless Weaver
+		9 Disciple of the Thicket
+		9 Defector of Mordel
+		9 Voice of the Thicket
+		9 Illusion Reamer
+		9 Outland Pair
+		9 Outlands Rescuer
+		9 Awakened Reactionary
+		9 Open Eternity
+		9 Stand Your Ground
+		9 The Strength to Overcome
+		9 Scale the Heights
+		9 Natural Awakening
+		9 Mana Compression
+		9 Pathworn Blade
+		9 Dance of Discovery
+		9 Smelt Corruption
+		9 Basalt Hammer
+		9 Mordel Hammer
+		9 Emigrating Pilgrim
+		9 Crystalline Cover
+		9 History's Weave
+		9 Otherworldly Entrance
+		9 Turbulent Aether
+		9 Snow Worn Peaks
+		9 Your Strength is Fading
+		9 Aspect of Moth
+		9 Pathfinder Wurm
+		9 Warforged Pair
+		9 Surubim Harpoon
+		9 A World Without You
+		9 When Words Don't Work
+		9 Dreamgill Salamander
+		9 A Flock is Born
+	[LandSlot(1)]
+		2 Iridescent Fault
+		2 Iridescent Forest
+		2 Iridescent Island
+		2 Iridescent Mountain
+		2 Iridescent Plains
+		2 Iridescent Swamp
+		5 Bloomrock Enclave
+		5 Brightblossom Enclave
+		5 Cascading Cleave
+		5 Glowspore Enclave
+		5 Mistlake Enclave
+		5 Moonglow Enclave
+		5 Soaring Tethers
+		5 Sunswept Prairie
+		5 Thyrsine Way
+		5 Vibrant Knoll
+		5 Vineglare Enclave
+		5 Windy Weft
+		9 Alpine Meadow
+		9 Barren Fissure
+		9 Crackling Expanse
+		9 Desolate Barrens
+		9 Drifting River
+		9 Fiery Chasm
+		9 Formless Frontier
+		9 Highland Vale
+		9 Jagged Crag
+		9 Rainforest Spring
+		9 Roaring Cascade
+		9 Sodden Cavern
+		9 Somber Marsh
+		9 Splintered Thicket
+		9 Tectonic Rime
+		9 Tranquil Stream

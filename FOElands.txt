@@ -1,110 +1,11 @@
 [CustomCards]
 	[    {
-	        "name": "Evolving Wilds",
+	        "name": "",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Evolving%20Wilds.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Plains",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Plains ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Plains.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Island",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Island.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Moonglow Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonglow%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mistlake Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistlake%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Glowspore Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Glowspore%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Bloomrock Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bloomrock%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Brightblossom Enclave",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Brightblossom%20Enclave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Tranquil Stream",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Plains Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tranquil%20Stream.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Sodden Cavern",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Island Swamp ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sodden%20Cavern.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Fiery Chasm",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Swamp Mountain ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Chasm.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Highland Vale",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Mountain Forest ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Highland%20Vale.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/.png?raw=true"
 	        }
 	    },
 	    {
@@ -117,48 +18,39 @@
 	        }
 	    },
 	    {
-	        "name": "Desolate Barrens",
+	        "name": "Barren Fissure",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land — Plains Swamp ",
+	        "type": "Land — Fault Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Desolate%20Barrens.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Barren%20Fissure.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Roaring Cascade",
-	        "rarity": "common",
+	        "name": "Bloomrock Enclave",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land — Island Mountain ",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roaring%20Cascade.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bloomrock%20Enclave.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Somber Marsh",
-	        "rarity": "common",
+	        "name": "Brightblossom Enclave",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land — Swamp Forest ",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Somber%20Marsh.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Brightblossom%20Enclave.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Jagged Crag",
-	        "rarity": "common",
+	        "name": "Cascading Cleave",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land — Mountain Plains ",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Jagged%20Crag.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Rainforest Spring",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Land — Forest Island ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rainforest%20Spring.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cascading%20Cleave.png?raw=true"
 	        }
 	    },
 	    {
@@ -171,6 +63,15 @@
 	        }
 	    },
 	    {
+	        "name": "Desolate Barrens",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Desolate%20Barrens.png?raw=true"
+	        }
+	    },
+	    {
 	        "name": "Drifting River",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -180,48 +81,39 @@
 	        }
 	    },
 	    {
-	        "name": "Barren Fissure",
+	        "name": "Fiery Chasm",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land — Fault Swamp ",
+	        "type": "Land — Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Barren%20Fissure.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Chasm.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Tectonic Rime",
+	        "name": "Formless Frontier",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land — Fault Mountain ",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tectonic%20Rime.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Formless%20Frontier.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Iridescent Swamp",
-	        "rarity": "rare",
+	        "name": "Glowspore Enclave",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land — Swamp ",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Swamp.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Glowspore%20Enclave.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Iridescent Mountain",
-	        "rarity": "rare",
+	        "name": "Highland Vale",
+	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land — Mountain ",
+	        "type": "Land — Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Mountain.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Iridescent Forest",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land — Forest ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Forest.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Highland%20Vale.png?raw=true"
 	        }
 	    },
 	    {
@@ -234,12 +126,120 @@
 	        }
 	    },
 	    {
-	        "name": "Vineglare Enclave",
+	        "name": "Iridescent Forest",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Island",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Mountain",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Plains",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Swamp",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Jagged Crag",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Jagged%20Crag.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mistlake Enclave",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vineglare%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistlake%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Moonglow Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonglow%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rainforest Spring",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rainforest%20Spring.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roaring Cascade",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roaring%20Cascade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Soaring Tethers",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Tethers.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sodden Cavern",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sodden%20Cavern.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Somber Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Somber%20Marsh.png?raw=true"
 	        }
 	    },
 	    {
@@ -253,95 +253,105 @@
 	    },
 	    {
 	        "name": "Sunswept Prairie",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sunswept%20Prairie.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Soaring Tethers",
+	        "name": "Tectonic Rime",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Fault Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Tethers.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tectonic%20Rime.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Thyrsine Way",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Thyrsine%20Way.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Windy Weft",
+	        "name": "Tranquil Stream",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Plains Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Windy%20Weft.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tranquil%20Stream.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Vibrant Knoll",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vibrant%20Knoll.png?raw=true"
 	        }
 	    },
 	    {
-	        "name": "Cascading Cleave",
-	        "rarity": "common",
+	        "name": "Vineglare Enclave",
+	        "rarity": "uncommon",
 	        "mana_cost": "",
-	        "type": "Land",
+	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cascading%20Cleave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vineglare%20Enclave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Windy Weft",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Windy%20Weft.png?raw=true"
 	        }
 	    }
 	]
 	[RareSlot(0)]
-		0 Iridescent Plains
-		0 Iridescent Island
-		0 Iridescent Swamp
-		0 Iridescent Mountain
-		0 Iridescent Forest
 		0 Iridescent Fault
+		0 Iridescent Forest
+		0 Iridescent Island
+		0 Iridescent Mountain
+		0 Iridescent Plains
+		0 Iridescent Swamp
 	[UncommonSlot(0)]
-		0 Moonglow Enclave
-		0 Mistlake Enclave
-		0 Glowspore Enclave
-		0 Bloomrock Enclave
-		0 Brightblossom Enclave
-		0 Vineglare Enclave
+		5 Bloomrock Enclave
+		5 Brightblossom Enclave
+		5 Cascading Cleave
+		5 Glowspore Enclave
+		5 Mistlake Enclave
+		5 Moonglow Enclave
+		5 Soaring Tethers
+		5 Sunswept Prairie
+		5 Thyrsine Way
+		5 Vibrant Knoll
+		5 Vineglare Enclave
+		5 Windy Weft
 	[CommonSlot(0)]
-		0 Evolving Wilds
-		0 Tranquil Stream
-		0 Sodden Cavern
-		0 Fiery Chasm
-		0 Highland Vale
-		0 Alpine Meadow
-		0 Desolate Barrens
-		0 Roaring Cascade
-		0 Somber Marsh
-		0 Jagged Crag
-		0 Rainforest Spring
-		0 Crackling Expanse
-		0 Drifting River
-		0 Barren Fissure
-		0 Tectonic Rime
-		0 Splintered Thicket
-		0 Sunswept Prairie
-		0 Soaring Tethers
-		0 Thyrsine Way
-		0 Windy Weft
-		0 Vibrant Knoll
-		0 Cascading Cleave
+		9 
+		9 Alpine Meadow
+		9 Barren Fissure
+		9 Crackling Expanse
+		9 Desolate Barrens
+		9 Drifting River
+		9 Fiery Chasm
+		9 Formless Frontier
+		9 Highland Vale
+		9 Jagged Crag
+		9 Rainforest Spring
+		9 Roaring Cascade
+		9 Sodden Cavern
+		9 Somber Marsh
+		9 Splintered Thicket
+		9 Tectonic Rime
+		9 Tranquil Stream
 	[BasicSlot(0)]
 	
