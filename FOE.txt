@@ -428,7 +428,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/You%20Can%27t%20Face%20Me.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/You%20Cant%20Face%20Me.png?raw=true"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Willbourne%27s%20Flame.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Willbournes%20Flame.png?raw=true"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake%27s%20Intuition.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drakes%20Intuition.png?raw=true"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{8}",
 	        "type": "Creature — Wurm Dragon Elk Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roduth%27s%20Guard.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roduths%20Guard.png?raw=true"
 	        }
 	    },
 	    {
@@ -915,7 +915,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Wurm Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Korna%27s%20Forward.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kornas%20Forward.png?raw=true"
 	        }
 	    },
 	    {
@@ -1401,7 +1401,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/History%27s%20Weave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Historys%20Weave.png?raw=true"
 	        }
 	    },
 	    {
@@ -1536,7 +1536,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/When%20Words%20Don%27t%20Work.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/When%20Words%20Dont%20Work.png?raw=true"
 	        }
 	    },
 	    {
@@ -1626,7 +1626,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Won%27t%20Stand%20Alone.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Wont%20Stand%20Alone.png?raw=true"
 	        }
 	    },
 	    {
@@ -1680,7 +1680,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hunter%27s%20Strength.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hunters%20Strength.png?raw=true"
 	        }
 	    },
 	    {
@@ -1851,7 +1851,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Treefolk Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kera%27s%20Appointed.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Keras%20Appointed.png?raw=true"
 	        }
 	    },
 	    {
@@ -2049,7 +2049,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisse%27s%20Drakesteel%20Phylactory.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisses%20Drakesteel%20Phylactory.png?raw=true"
 	        }
 	    },
 	    {
@@ -2058,7 +2058,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Our%20March%20Won%27t%20End.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Our%20March%20Wont%20End.png?raw=true"
 	        }
 	    },
 	    {
@@ -2103,7 +2103,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cartographer%27s%20Survey.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cartographers%20Survey.png?raw=true"
 	        }
 	    },
 	    {
