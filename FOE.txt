@@ -5,7 +5,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact Creature — Bird Angel Orb ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meso%20Meso.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meso%20Meso.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -14,7 +15,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Staggering%20Spires.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Staggering%20Spires.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -23,7 +25,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment Creature — Icon Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Marching%20Partisan.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Marching%20Partisan.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -32,7 +35,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Lawkeeper.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Lawkeeper.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -41,7 +45,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Focus%20of%20Fadove.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Focus%20of%20Fadove.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -50,7 +55,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Veteran%20Party.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Veteran%20Party.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -59,7 +65,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Rescinder.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Rescinder.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -68,7 +75,8 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Wurm Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Clanless%20Tunneler.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Clanless%20Tunneler.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -77,7 +85,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment Creature — Icon Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rising%20Haze.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rising%20Haze.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -86,7 +95,8 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Fox Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Caretaker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Caretaker.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -95,7 +105,8 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlander%20Mercenary.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlander%20Mercenary.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -104,7 +115,8 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Air%20Supplier.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Air%20Supplier.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -113,7 +125,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cleric%20of%20the%20Dawn.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cleric%20of%20the%20Dawn.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -122,7 +135,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Light%20of%20Hope.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Light%20of%20Hope.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -131,7 +145,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fall%20through%20Reality.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fall%20through%20Reality.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -140,7 +155,8 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Push%20Forward.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Push%20Forward.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -149,7 +165,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Make%20Your%20Stand.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Make%20Your%20Stand.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -158,7 +175,8 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rescue%20Response.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rescue%20Response.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -167,7 +185,8 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Apprentices%20Drake.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Apprentices%20Drake.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -176,7 +195,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tiderock%20Passage.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tiderock%20Passage.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -185,7 +205,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Cat Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vestige%20Prowler.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vestige%20Prowler.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -194,7 +215,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Veneer%20Walker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Veneer%20Walker.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -203,7 +225,8 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Jellyfish ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bropheria.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bropheria.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -212,7 +235,8 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Elf Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Explorer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Explorer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -221,7 +245,8 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Enchantment Creature — Icon Whale ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Migratory%20Flotilla.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Migratory%20Flotilla.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -230,7 +255,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistbound%20Rogue.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistbound%20Rogue.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -239,7 +265,8 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Orb Eye ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathwrought%20Overseer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathwrought%20Overseer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -248,7 +275,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Reshape%20Eternity.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Reshape%20Eternity.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -257,7 +285,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Consult%20Eternity.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Consult%20Eternity.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -266,7 +295,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fold%20the%20Truth.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fold%20the%20Truth.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -275,7 +305,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alternate%20Path.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alternate%20Path.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -284,7 +315,8 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pristine%20Denial.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pristine%20Denial.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -293,7 +325,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vertical%20Shift.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vertical%20Shift.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -302,7 +335,8 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Branching%20Paths.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Branching%20Paths.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -311,7 +345,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gripping%20Truths.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gripping%20Truths.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -320,7 +355,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tide%20of%20Dismissal.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tide%20of%20Dismissal.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -329,7 +365,8 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathborn%20Stinger.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathborn%20Stinger.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -338,7 +375,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Eroding%20River.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Eroding%20River.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -347,7 +385,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment Creature — Icon Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Smogborn%20Pilferer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Smogborn%20Pilferer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -356,7 +395,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Omenspeaker%20Avakin.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Omenspeaker%20Avakin.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -365,7 +405,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bird Plant ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hedgecrow.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hedgecrow.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -374,7 +415,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bird Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Avakin%20Trapper.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Avakin%20Trapper.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -383,7 +425,8 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Relentless%20Truthseeker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Relentless%20Truthseeker.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -392,7 +435,8 @@
 	        "mana_cost": "{6}{B}",
 	        "type": "Creature — Lizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Scaled%20Rippler.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Scaled%20Rippler.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -401,7 +445,8 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Artifact Creature — Phyrexian Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Autonomous%20Shell.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Autonomous%20Shell.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -410,7 +455,8 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Voidborn%20Horror.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Voidborn%20Horror.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -419,7 +465,8 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Wurm Scout Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aeon%20Tunneler.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aeon%20Tunneler.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -428,7 +475,8 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/You%20Cant%20Face%20Me.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/You%20Cant%20Face%20Me.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -437,7 +485,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Influence%20of%20the%20Paths.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Influence%20of%20the%20Paths.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -446,7 +495,8 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/This%20Hunger%20Has%20a%20Name.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/This%20Hunger%20Has%20a%20Name.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -455,7 +505,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Foolish%20Footing.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Foolish%20Footing.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -464,7 +515,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Path%20Back.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Path%20Back.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -473,7 +525,8 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Left%20for%20the%20Crows.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Left%20for%20the%20Crows.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -482,7 +535,8 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Bird Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Clanless%20Combatant.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Clanless%20Combatant.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -491,7 +545,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bosket%20Path.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bosket%20Path.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -500,7 +555,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment Creature — Icon Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Absolver.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Absolver.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -509,7 +565,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Minotaur Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Shaper.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Shaper.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -518,7 +575,8 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Cat Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Explorer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Explorer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -527,7 +585,8 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Inspiring%20Recruit.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Inspiring%20Recruit.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -536,7 +595,8 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Enchantment Creature — Icon Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sprouting%20Fumes.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sprouting%20Fumes.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -545,7 +605,8 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Flamespeaker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Flamespeaker.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -554,7 +615,8 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathborn%20Spitter.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathborn%20Spitter.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -563,7 +625,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Willbournes%20Flame.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Willbournes%20Flame.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -572,7 +635,8 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Start%20of%20an%20Adventure.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Start%20of%20an%20Adventure.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -581,7 +645,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fervor%20of%20the%20Wurm.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fervor%20of%20the%20Wurm.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -590,7 +655,8 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fervor%20of%20the%20Flame.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fervor%20of%20the%20Flame.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -599,7 +665,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shifting%20Landscape.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shifting%20Landscape.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -608,7 +675,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drakes%20Intuition.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drakes%20Intuition.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -617,7 +685,8 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Call%20to%20Revolution.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Call%20to%20Revolution.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -626,124 +695,8 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Wurm Plant Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Depthscout.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Enlightening Crescents",
-	        "rarity": "common",
-	        "mana_cost": "{3}{C}{C}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlightening%20Crescents.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Dust Converter",
-	        "rarity": "common",
-	        "mana_cost": "{1}{C}",
-	        "type": "Creature — Bird ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dust%20Converter.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Drougth Attuner",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}",
-	        "type": "Creature — Cat Wizard ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Attuner.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Adventurous Pair",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}",
-	        "type": "Creature — Human ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Adventurous%20Pair.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Calign",
-	        "rarity": "common",
-	        "mana_cost": "{1}{C}",
-	        "type": "Creature — Drake Horror ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Calign.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Avakin Explorer",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}",
-	        "type": "Creature — Bird Scout ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Avakin%20Explorer.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Enlisted Arms",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}{C}",
-	        "type": "Enchantment Creature — Wolf Mercenary ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlisted%20Arms.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Drougth Oracle",
-	        "rarity": "common",
-	        "mana_cost": "{4}{C}",
-	        "type": "Creature — Cat Shaman ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Oracle.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Vestige Pouncer",
-	        "rarity": "common",
-	        "mana_cost": "{4}{C}{C}",
-	        "type": "Creature — Leech ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vestige%20Pouncer.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mutated Pioneer",
-	        "rarity": "common",
-	        "mana_cost": "{6}{C}",
-	        "type": "Creature — Wurm Crab Scout ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mutated%20Pioneer.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Rustic Cultivator",
-	        "rarity": "common",
-	        "mana_cost": "{1}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rustic%20Cultivator.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Perspective Shift",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Perspective%20Shift.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Power from Beyond",
-	        "rarity": "common",
-	        "mana_cost": "{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Power%20from%20Beyond.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Depthscout.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -752,61 +705,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Guide%20With%20and%20Through.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Captivate",
-	        "rarity": "common",
-	        "mana_cost": "{1}{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Captivate.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Aerial Assurance",
-	        "rarity": "common",
-	        "mana_cost": "{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aerial%20Assurance.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Journey Through the Self",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Journey%20Through%20the%20Self.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Prismatic Weasel",
-	        "rarity": "common",
-	        "mana_cost": "{2}",
-	        "type": "Creature — Weasel ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Prismatic%20Weasel.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Roduth's Guard",
-	        "rarity": "common",
-	        "mana_cost": "{8}",
-	        "type": "Creature — Wurm Dragon Elk Soldier ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roduths%20Guard.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mural of Harmony",
-	        "rarity": "common",
-	        "mana_cost": "{3}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mural%20of%20Harmony.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Guide%20With%20and%20Through.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -815,7 +715,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Wurm Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Safeguarded%20Pair.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Safeguarded%20Pair.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -824,7 +725,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Mouse Bird Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Julius%20Skyknight%20of%20Morriare.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Julius%20Skyknight%20of%20Morriare.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -833,7 +735,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Rabbit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Pathwalker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Pathwalker.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -842,16 +745,8 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Winding%20Guide.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Coiling Jailer",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}{C}{W}",
-	        "type": "Creature — Wurm Cleric ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Coiling%20Jailer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Winding%20Guide.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -860,7 +755,8 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Creature — Wurm Advisor ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mentor%20of%20Engagement.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mentor%20of%20Engagement.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -869,7 +765,8 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Insect Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fritter%20Skitter.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fritter%20Skitter.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -878,45 +775,20 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Battle — Seige",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Civil%20War.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Civil%20War.png?raw=true",
+				"rating": "3"
 	        },
 		    "back": {
             "name": "Kera, Mordel's New Hope",
             "image_uris": {
-                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kera%20Mordels%20New%20Hope.png?raw=true"
+                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kera%20Mordels%20New%20Hope.png?raw=true",
+				"rating": "3"
             },
             "type": "Creature",
             "subtypes": [
                 "Human Warrior"
             ]
-        }
-	    },
-	    {
-	        "name": "Iconic Challenger",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{C}",
-	        "type": "Enchantment Creature — Icon Warrior ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iconic%20Challenger.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Soaring Chorus",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{C}",
-	        "type": "Enchamtment Creature — Icon Wizard ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Chorus.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Korna's Forward",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}",
-	        "type": "Creature — Wurm Scout ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kornas%20Forward.png?raw=true"
-	        }
+        	}
 	    },
 	    {
 	        "name": "Multaphs Voidweaver",
@@ -924,25 +796,8 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Multaphs%20Voidweaver.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Meirel Evacuator",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{C}{C}",
-	        "type": "Creature — Hyena Scout ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Evacuator.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Embrace Fascination",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{C}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Embrace%20Fascination.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Multaphs%20Voidweaver.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -951,7 +806,8 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Human Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Weaver.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Weaver.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -960,7 +816,8 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathward%20Riftcalling.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathward%20Riftcalling.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -969,7 +826,8 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Duraval%20Starmapper.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Duraval%20Starmapper.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -978,7 +836,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Fox Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sonnet%20Meirel%20Lancer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sonnet%20Meirel%20Lancer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -987,7 +846,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Resurrection%20Pools.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Resurrection%20Pools.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -996,34 +856,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soul%20Shatter.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Called to Eternity",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{C}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Called%20to%20Eternity.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Outlands Chimera",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{C}{C}",
-	        "type": "Creature — Chimera ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Chimera.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Melodia, Explorer at Heart",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{C}{C}",
-	        "type": "Legendary Enchantment Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Melodia%20Explorer%20at%20Heart.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soul%20Shatter.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1032,7 +866,8 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Planeswalker — Heng ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Heng%20Hien%20Reifer%20of%20Justice.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Heng%20Hien%20Reifer%20of%20Justice.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1041,61 +876,8 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Legendary Enchantment — Wurm Entity ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Korna%20Adventuring%20Historian.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Marie, Hungerbound",
-	        "rarity": "rare",
-	        "mana_cost": "{3}",
-	        "type": "Legendary Planeswalker — Marie ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Marie%20Hungerbound.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "The Planar Portal",
-	        "rarity": "rare",
-	        "mana_cost": "{6}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Planar%20Portal.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "The Shattering of Meirel",
-	        "rarity": "rare",
-	        "mana_cost": "{6}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Shattering%20of%20Meirel.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "My Hunger Will Kill You",
-	        "rarity": "rare",
-	        "mana_cost": "{4}",
-	        "type": "Legendary Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/My%20Hunger%20Will%20Kill%20You.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Soul of Vinimroth",
-	        "rarity": "rare",
-	        "mana_cost": "{3}",
-	        "type": "Legendary Enchantment Creature — Avatar ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soul%20of%20Vinimroth.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Meirel Explorer",
-	        "rarity": "common",
-	        "mana_cost": "{C}",
-	        "type": "Creature — Fox Scout ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Explorer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Korna%20Adventuring%20Historian.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1104,7 +886,8 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gold-Streaked%20Obelisks.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gold-Streaked%20Obelisks.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1113,7 +896,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Wolf Nomad ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Traveller.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Traveller.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1122,7 +906,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Icon Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shard%20Bearer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shard%20Bearer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1131,7 +916,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Clanless%20Weaver.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Clanless%20Weaver.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1140,7 +926,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Disciple%20of%20the%20Thicket.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Disciple%20of%20the%20Thicket.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1149,7 +936,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Minotaur Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Defector%20of%20Mordel.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Defector%20of%20Mordel.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1158,7 +946,8 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Enchantment Creature — Icon Elk ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Voice%20of%20the%20Thicket.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Voice%20of%20the%20Thicket.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1167,7 +956,8 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Wurm Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Illusion%20Reamer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Illusion%20Reamer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1176,7 +966,8 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Enchantment Creature — Human Icon Scout ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outland%20Pair.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outland%20Pair.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1185,7 +976,8 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Rescuer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Rescuer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1194,7 +986,8 @@
 	        "mana_cost": "{7}{G}",
 	        "type": "Enchantment Creature — Icon Dryad ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Reactionary.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Reactionary.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1203,7 +996,8 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Open%20Eternity.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Open%20Eternity.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1212,16 +1006,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Stand%20Your%20Ground.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Meditation",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meditation.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Stand%20Your%20Ground.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1230,7 +1016,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Strength%20to%20Overcome.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Strength%20to%20Overcome.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1239,7 +1026,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Scale%20the%20Heights.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Scale%20the%20Heights.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1248,97 +1036,8 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Natural%20Awakening.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Disciplined Seeker",
-	        "rarity": "uncommon",
-	        "mana_cost": "{C}",
-	        "type": "Creature — Human Elf Warrior ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Disciplined%20Seeker.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Kaln-Ocean Streamliner",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{C}",
-	        "type": "Creature — Merfolk Rogue ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kaln-Ocean%20Streamliner.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Chirps, Spice Seeker",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{C}",
-	        "type": "Legendary Enchantment Creature — Bird ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Chirps%20Spice%20Seeker.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Extra Rulings for Silver",
-	        "rarity": "special",
-	        "mana_cost": "{C}",
-	        "type": "Reminder",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Blade Reifer",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}{C}{C}",
-	        "type": "Creature — Cat Wizard ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Blade%20Reifer.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Unweave",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unweave.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Discover Uncertainty",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Discover%20Uncertainty.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Mana Compression",
-	        "rarity": "common",
-	        "mana_cost": "{4}{C}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mana%20Compression.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Pathworn Blade",
-	        "rarity": "common",
-	        "mana_cost": "{C}",
-	        "type": "Artifact — Equipment ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathworn%20Blade.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Trace the Stars",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{C}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trace%20the%20Stars.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Natural%20Awakening.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1347,7 +1046,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dance%20of%20Discovery.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dance%20of%20Discovery.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1356,7 +1056,8 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Smelt%20Corruption.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Smelt%20Corruption.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1365,7 +1066,8 @@
 	        "mana_cost": "{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Basalt%20Hammer.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Basalt%20Hammer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1374,16 +1076,8 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Minotaur Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Hammer.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Emigrating Pilgrim",
-	        "rarity": "common",
-	        "mana_cost": "{2}{C}{C}",
-	        "type": "Enchantment Creature — Icon Knight ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Emigrating%20Pilgrim.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mordel%20Hammer.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1392,7 +1086,8 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crystalline%20Cover.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crystalline%20Cover.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1401,7 +1096,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Historys%20Weave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Historys%20Weave.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1410,7 +1106,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Battle-Cleric.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fadove%20Battle-Cleric.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1419,7 +1116,8 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Otherworldly%20Entrance.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Otherworldly%20Entrance.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1428,16 +1126,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Turbulent%20Aether.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Snow Worn Peaks",
-	        "rarity": "common",
-	        "mana_cost": "{1}",
-	        "type": "Enchantment — Realm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Snow%20Worn%20Peaks.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Turbulent%20Aether.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1446,7 +1136,8 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Stir%20the%20Aether.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Stir%20the%20Aether.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1455,7 +1146,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Your%20Strength%20is%20Fading.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Your%20Strength%20is%20Fading.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1464,7 +1156,8 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aspect%20of%20Moth.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aspect%20of%20Moth.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1473,7 +1166,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathfinder%20Wurm.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathfinder%20Wurm.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1482,25 +1176,8 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Warforged%20Pair.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "I Will Walk My Own Path",
-	        "rarity": "rare",
-	        "mana_cost": "{4}{C}{C}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Will%20Walk%20My%20Own%20Path.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Pathshaping",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{C}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathshaping.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Warforged%20Pair.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1509,7 +1186,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment Creature — Icon Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Recruiter.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Recruiter.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1518,7 +1196,8 @@
 	        "mana_cost": "{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Surubim%20Harpoon.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Surubim%20Harpoon.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1527,16 +1206,8 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/A%20World%20Without%20You.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "When Words Don't Work",
-	        "rarity": "common",
-	        "mana_cost": "{1}{C}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/When%20Words%20Dont%20Work.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/A%20World%20Without%20You.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1545,7 +1216,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Zombie Cleric Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisse%20Bound%20by%20the%20King.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisse%20Bound%20by%20the%20King.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1554,7 +1226,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Spider ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Murkross%20Spiritcaller.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Murkross%20Spiritcaller.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1563,7 +1236,8 @@
 	        "mana_cost": "{6}{B}{B}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Wurm.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Wurm.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1572,7 +1246,8 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Dragon Turtle ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Jidiao.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Jidiao.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1581,7 +1256,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Fox Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Seasoned%20Flamefinder.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Seasoned%20Flamefinder.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1590,7 +1266,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rend%20Hope.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rend%20Hope.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1599,7 +1276,8 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Spire%20of%20Rebirth.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Spire%20of%20Rebirth.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1608,7 +1286,8 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Parasitic%20Roots.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Parasitic%20Roots.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1617,7 +1296,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dissenting%20Experience.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dissenting%20Experience.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1626,7 +1306,8 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Wont%20Stand%20Alone.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Wont%20Stand%20Alone.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1635,7 +1316,8 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shimmer%20From%20Beyond.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shimmer%20From%20Beyond.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1644,7 +1326,8 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worldcleave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worldcleave.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1653,7 +1336,8 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Broodmages%20Furor.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Broodmages%20Furor.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1662,7 +1346,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Where%20Our%20Paths%20Meet.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Where%20Our%20Paths%20Meet.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1671,7 +1356,8 @@
 	        "mana_cost": "{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ancient%20Font.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ancient%20Font.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1680,43 +1366,8 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hunters%20Strength.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Crystalline Refraction",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}",
-	        "type": "Artifact Creature — Wurm ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crystalline%20Refraction.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Surging Spheres",
-	        "rarity": "rare",
-	        "mana_cost": "{1}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Surging%20Spheres.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Monument to Forever",
-	        "rarity": "uncommon",
-	        "mana_cost": "{8}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Monument%20to%20Forever.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Trailway Gates",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trailway%20Gates.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hunters%20Strength.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1725,7 +1376,8 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lorenz%20Ascendant%20King%20of%20Alira.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lorenz%20Ascendant%20King%20of%20Alira.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1734,7 +1386,8 @@
 	        "mana_cost": "{6}{U}{U}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cloudscape%20Gargantua.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cloudscape%20Gargantua.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1743,7 +1396,8 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Realmbound%20Spellshaper.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Realmbound%20Spellshaper.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1752,7 +1406,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment Creature — Icon Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Embracing%20Intonation.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Embracing%20Intonation.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1761,7 +1416,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Fish Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonscale%20Koi.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonscale%20Koi.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1770,7 +1426,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Waterscape%20Mystic.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Waterscape%20Mystic.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1779,7 +1436,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Howling%20Gasp.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Howling%20Gasp.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1788,7 +1446,8 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact Creature — Shapeshifter Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ditto%20Dagger.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ditto%20Dagger.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1797,7 +1456,8 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Duskcharm%20Drake.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Duskcharm%20Drake.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1806,7 +1466,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/New%20Mordel%20Fireweaver.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/New%20Mordel%20Fireweaver.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1815,7 +1476,8 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lost%20Sunset.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lost%20Sunset.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1824,7 +1486,8 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dawncoil%20Burnisher.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dawncoil%20Burnisher.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1833,7 +1496,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Treefolk Druid ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Leyline%20Weaver.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Leyline%20Weaver.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1842,7 +1506,8 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enduring%20Woodland.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enduring%20Woodland.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1851,7 +1516,8 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Treefolk Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Keras%20Appointed.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Keras%20Appointed.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1860,34 +1526,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Icon Rat ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Virulent%20Attendant.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Tofnet Ranger",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{C}{G}",
-	        "type": "Creature — Human Elf Ranger ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tofnet%20Ranger.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Shrouded Pathcensor",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{C}",
-	        "type": "Creature — Bird Wizard ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shrouded%20Pathcensor.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Awakened Automaton",
-	        "rarity": "uncommon",
-	        "mana_cost": "{6}",
-	        "type": "Artifact Creature — Robot Scout ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Automaton.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Virulent%20Attendant.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1896,7 +1536,8 @@
 	        "mana_cost": "{1}{U}{R}{W}",
 	        "type": "Legendary Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aurel%20Born%20Through%20Discord.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aurel%20Born%20Through%20Discord.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1905,7 +1546,8 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment Creature — Icon Wurm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Coalesced%20Company.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Coalesced%20Company.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1914,7 +1556,8 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Legendary Planeswalker — Worzel ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worzel%20Awakened%20Flock.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worzel%20Awakened%20Flock.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1923,7 +1566,8 @@
 	        "mana_cost": "{W}",
 	        "type": "Legendary Planeswalker — Worzel ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worzel.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Worzel.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1932,7 +1576,8 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Hyena Cleric ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outland%20Riftsower.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outland%20Riftsower.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1941,7 +1586,8 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Prismatic%20Drake.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Prismatic%20Drake.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1950,16 +1596,8 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Jellyfish Reflection ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trailing%20Tethers.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Cerise, Auger of Flow",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{W}{U}",
-	        "type": "Legendary Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cerise%20Auger%20of%20Flow.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trailing%20Tethers.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1968,7 +1606,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trade%20Routes.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trade%20Routes.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1977,7 +1616,8 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Starfall%20Outlook.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Starfall%20Outlook.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1986,7 +1626,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rest%20For%20a%20New%20World.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rest%20For%20a%20New%20World.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -1995,7 +1636,8 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ancient%20Sigils.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ancient%20Sigils.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2004,7 +1646,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Know%20What%20You%20Mean%20to%20Me.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Know%20What%20You%20Mean%20to%20Me.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2013,7 +1656,8 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Skycliff%20Dens.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Skycliff%20Dens.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2022,7 +1666,8 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Kindred Enchantment — Fish Entity ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Slipstream%20Cyprinus.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Slipstream%20Cyprinus.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2031,25 +1676,8 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bitter%20Inspection.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Ignelscor Witch",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}",
-	        "type": "Creature — Human Warlock ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Witch.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Lisse's Drakesteel Phylactory",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}",
-	        "type": "Legendary Artifact",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisses%20Drakesteel%20Phylactory.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bitter%20Inspection.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2058,7 +1686,8 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Our%20March%20Wont%20End.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Our%20March%20Wont%20End.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2067,7 +1696,8 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hengs%20Intercession.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Hengs%20Intercession.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2076,7 +1706,8 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Murkross%20Shaman.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Murkross%20Shaman.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2085,7 +1716,8 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact Creature — Centaur Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ruthless%20Pathfinder.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ruthless%20Pathfinder.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2094,7 +1726,8 @@
 	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Phoenix ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gael%20Spiteflame%20Phoenix.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Gael%20Spiteflame%20Phoenix.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2103,7 +1736,8 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cartographers%20Survey.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cartographers%20Survey.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2112,7 +1746,8 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Caretaker.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Caretaker.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2121,7 +1756,8 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Salamander ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unexpected%20Predator.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unexpected%20Predator.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2130,7 +1766,8 @@
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Snowscaper%20Bakunawa.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Snowscaper%20Bakunawa.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2139,7 +1776,8 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Planeswalker — Zoslera ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Zoslera%20Exiled%20Visionary.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Zoslera%20Exiled%20Visionary.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2148,7 +1786,8 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ranging%20Symbiote.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ranging%20Symbiote.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2157,7 +1796,8 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crustacean%20Surge.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crustacean%20Surge.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2166,7 +1806,8 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Haphazard%20and%20Unbound.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Haphazard%20and%20Unbound.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2175,7 +1816,8 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Whisperer%20of%20the%20Paths.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Whisperer%20of%20the%20Paths.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2184,7 +1826,8 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Creature — Human Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Frontliner.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Frontliner.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2193,7 +1836,8 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Enchantment Creature — Icon Warlock ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Those%20Lost%20in%20the%20Paths.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Those%20Lost%20in%20the%20Paths.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2202,7 +1846,8 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ikorian%20Skyshark.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ikorian%20Skyshark.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2211,7 +1856,8 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Elf ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Renewer%20of%20Bloodlines.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Renewer%20of%20Bloodlines.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2220,7 +1866,8 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Chimarel%20Clearing.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Chimarel%20Clearing.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2229,25 +1876,8 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Nightmare Salamander ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dreamgill%20Salamander.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Drake Mentor",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{C}{U}",
-	        "type": "Creature — Human Noble ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake%20Mentor.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Promise of Hunger",
-	        "rarity": "uncommon",
-	        "mana_cost": "{C}{G}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Promise%20of%20Hunger.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dreamgill%20Salamander.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2256,12 +1886,14 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Battle — Seige",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Remnants%20of%20the%20War.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Remnants%20of%20the%20War.png?raw=true",
+				"rating": "3"
 	        },
 		    "back": {
             "name": "Guardian of the Cinders",
             "image_uris": {
-                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Guardian%20of%20the%20Cinders.png?raw=true"
+                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Guardian%20of%20the%20Cinders.png?raw=true",
+				"rating": "3"
             },
             "type": "Enchantment Creature",
             "subtypes": [
@@ -2275,25 +1907,8 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Latent%20Powerstone.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Cydina Storm Drake",
-	        "rarity": "uncommon",
-	        "mana_cost": "{6}{C}{R}",
-	        "type": "Creature — Drake ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cydina%20Storm%20Drake.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Calamitous Koi",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{B}",
-	        "type": "Creature — Fish Spirit ",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Calamitous%20Koi.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Latent%20Powerstone.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2302,7 +1917,8 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Creature — Wurm Human Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sisters%20in%20Sorrow.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sisters%20in%20Sorrow.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2311,7 +1927,8 @@
 	        "mana_cost": "{X}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lasting%20Discovery.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lasting%20Discovery.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2320,7 +1937,8 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake-Brood%20Peak.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake-Brood%20Peak.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2329,7 +1947,8 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Inspiring%20Dunes.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Inspiring%20Dunes.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2338,7 +1957,8 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mesmeric%20Peaks.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mesmeric%20Peaks.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2347,16 +1967,8 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Boundless%20Hollow.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Unending Exploration",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{C}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unending%20Exploration.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Boundless%20Hollow.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2365,7 +1977,8 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Encouraging%20Passage.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Encouraging%20Passage.png?raw=true",
+				"rating": "3"
 	        }
 	    },
 	    {
@@ -2374,16 +1987,608 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Nurtured%20Landscape.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Nurtured%20Landscape.png?raw=true",
+				"rating": "3"
+	        }
+	    },	    {
+	        "name": "Enlightening Crescents",
+	        "rarity": "common",
+	        "mana_cost": "{3}{C}{C}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlightening%20Crescents.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
-	        "name": "Forgiving Monument",
+	        "name": "Dust Converter",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Dust%20Converter.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Drougth Attuner",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Attuner.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Adventurous Pair",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Adventurous%20Pair.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Calign",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Drake Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Calign.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Avakin Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Bird Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Avakin%20Explorer.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Enlisted Arms",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Enchantment Creature — Wolf Mercenary ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Enlisted%20Arms.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Drougth Oracle",
+	        "rarity": "common",
+	        "mana_cost": "{4}{C}",
+	        "type": "Creature — Cat Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drougth%20Oracle.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Vestige Pouncer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{C}{C}",
+	        "type": "Creature — Leech ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vestige%20Pouncer.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Mutated Pioneer",
+	        "rarity": "common",
+	        "mana_cost": "{6}{C}",
+	        "type": "Creature — Wurm Crab Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mutated%20Pioneer.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Perspective Shift",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Perspective%20Shift.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Power from Beyond",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Power%20from%20Beyond.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Captivate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Captivate.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Aerial Assurance",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Aerial%20Assurance.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Journey Through the Self",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Journey%20Through%20the%20Self.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Coiling Jailer",
 	        "rarity": "uncommon",
-	        "mana_cost": "{5}",
+	        "mana_cost": "{4}{C}{W}",
+	        "type": "Creature — Wurm Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Coiling%20Jailer.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Iconic Challenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Enchantment Creature — Icon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iconic%20Challenger.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Soaring Chorus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Enchamtment Creature — Icon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Chorus.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Korna's Forward",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Wurm Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kornas%20Forward.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Meirel Evacuator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{C}",
+	        "type": "Creature — Hyena Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Evacuator.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Embrace Fascination",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Embrace%20Fascination.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Called to Eternity",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Forgiving%20Monument.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Called%20to%20Eternity.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Outlands Chimera",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{C}{C}",
+	        "type": "Creature — Chimera ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Outlands%20Chimera.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Melodia, Explorer at Heart",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{C}{C}",
+	        "type": "Legendary Enchantment Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Melodia%20Explorer%20at%20Heart.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Meirel Explorer",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Creature — Fox Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meirel%20Explorer.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Meditation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Meditation.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Disciplined Seeker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{C}",
+	        "type": "Creature — Human Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Disciplined%20Seeker.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Kaln-Ocean Streamliner",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Merfolk Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Kaln-Ocean%20Streamliner.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Chirps, Spice Seeker",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{C}",
+	        "type": "Legendary Enchantment Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Chirps%20Spice%20Seeker.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Extra Rulings for Silver",
+	        "rarity": "special",
+	        "mana_cost": "{C}",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Blade Reifer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{C}{C}",
+	        "type": "Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Blade%20Reifer.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Unweave",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unweave.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Discover Uncertainty",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Discover%20Uncertainty.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Mana Compression",
+	        "rarity": "common",
+	        "mana_cost": "{4}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mana%20Compression.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Pathworn Blade",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathworn%20Blade.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Trace the Stars",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trace%20the%20Stars.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Emigrating Pilgrim",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Enchantment Creature — Icon Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Emigrating%20Pilgrim.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "I Will Walk My Own Path",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{C}{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/I%20Will%20Walk%20My%20Own%20Path.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Pathshaping",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Pathshaping.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "When Words Don't Work",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/When%20Words%20Dont%20Work.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+
+	    {
+	        "name": "Tofnet Ranger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{G}",
+	        "type": "Creature — Human Elf Ranger ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tofnet%20Ranger.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Shrouded Pathcensor",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Shrouded%20Pathcensor.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Cerise, Auger of Flow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{W}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cerise%20Auger%20of%20Flow.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Ignelscor Witch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Ignelscor%20Witch.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Unending Exploration",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Unending%20Exploration.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Drake Mentor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{U}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drake%20Mentor.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Promise of Hunger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{C}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Promise%20of%20Hunger.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Cydina Storm Drake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{C}{R}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cydina%20Storm%20Drake.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Calamitous Koi",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{B}",
+	        "type": "Creature — Fish Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Calamitous%20Koi.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Rustic Cultivator",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rustic%20Cultivator.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Snow Worn Peaks",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Snow%20Worn%20Peaks.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Surging Spheres",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Surging%20Spheres.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Weasel",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Weasel ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Prismatic%20Weasel.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Crystalline Refraction",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crystalline%20Refraction.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Mural of Harmony",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mural%20of%20Harmony.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Marie, Hungerbound",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Legendary Planeswalker — Marie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Marie%20Hungerbound.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Soul of Vinimroth",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Legendary Enchantment Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soul%20of%20Vinimroth.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "My Hunger Will Kill You",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/My%20Hunger%20Will%20Kill%20You.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Trailway Gates",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Trailway%20Gates.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Lisse's Drakesteel Phylactory",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Lisses%20Drakesteel%20Phylactory.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2392,7 +2597,68 @@
 	        "mana_cost": "{4}",
 	        "type": "Kindred Sorcery — Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/A%20Flock%20is%20Born.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/A%20Flock%20is%20Born.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Forgiving Monument",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Forgiving%20Monument.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "The Planar Portal",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Planar%20Portal.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "The Shattering of Meirel",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/The%20Shattering%20of%20Meirel.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Awakened Automaton",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Robot Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Awakened%20Automaton.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Roduth's Guard",
+	        "rarity": "common",
+	        "mana_cost": "{8}",
+	        "type": "Creature — Wurm Dragon Elk Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roduths%20Guard.png?raw=true",
+				"rating": "5"
+	        }
+	    },
+	    {
+	        "name": "Monument to Forever",
+	        "rarity": "uncommon",
+	        "mana_cost": "{8}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Monument%20to%20Forever.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2401,7 +2667,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alpine%20Meadow.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Alpine%20Meadow.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2410,7 +2677,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Barren%20Fissure.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Barren%20Fissure.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2419,7 +2687,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bloomrock%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Bloomrock%20Enclave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2428,7 +2697,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Brightblossom%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Brightblossom%20Enclave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2437,7 +2707,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cascading%20Cleave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Cascading%20Cleave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2446,7 +2717,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crackling%20Expanse.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Crackling%20Expanse.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2455,16 +2727,18 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Desolate%20Barrens.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Desolate%20Barrens.png?raw=true",
+				"rating": "5"
 	        }
 	    },
-	    {
+		    {
 	        "name": "Drifting River",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Land — Fault Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drifting%20River.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Drifting%20River.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2473,7 +2747,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Chasm.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Fiery%20Chasm.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2482,7 +2757,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Formless%20Frontier.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Formless%20Frontier.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2491,7 +2767,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Glowspore%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Glowspore%20Enclave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2500,7 +2777,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Highland%20Vale.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Highland%20Vale.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2509,7 +2787,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Fault.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Fault.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2518,7 +2797,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Forest.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Forest.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2527,7 +2807,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Island.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Island.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2536,7 +2817,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Mountain.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Mountain.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2545,7 +2827,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Plains.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Plains.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2554,7 +2837,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Swamp.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Iridescent%20Swamp.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2563,7 +2847,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Jagged%20Crag.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Jagged%20Crag.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2572,7 +2857,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistlake%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Mistlake%20Enclave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2581,7 +2867,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonglow%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Moonglow%20Enclave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2590,7 +2877,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rainforest%20Spring.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Rainforest%20Spring.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2599,7 +2887,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roaring%20Cascade.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Roaring%20Cascade.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2608,7 +2897,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Tethers.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Soaring%20Tethers.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2617,7 +2907,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sodden%20Cavern.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sodden%20Cavern.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2626,7 +2917,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Somber%20Marsh.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Somber%20Marsh.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2635,7 +2927,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Splintered%20Thicket.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Splintered%20Thicket.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2644,7 +2937,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sunswept%20Prairie.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sunswept%20Prairie.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2653,7 +2947,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tectonic%20Rime.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tectonic%20Rime.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2662,7 +2957,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Thyrsine%20Way.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Thyrsine%20Way.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2671,7 +2967,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tranquil%20Stream.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Tranquil%20Stream.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2680,7 +2977,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vibrant%20Knoll.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vibrant%20Knoll.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2689,7 +2987,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vineglare%20Enclave.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Vineglare%20Enclave.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2698,7 +2997,8 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Windy%20Weft.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Windy%20Weft.png?raw=true",
+				"rating": "5"
 	        }
 	    },
 	    {
@@ -2707,12 +3007,14 @@
 	        "mana_cost": "",
 	        "type": "Reminder",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sanctum%20Reminder.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Sanctum%20Reminder.png?raw=true",
+				"rating": "0"
 	        },
 		    "back": {
             "name": "Extra Rulings for Silver",
             "image_uris": {
-                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true"
+                "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true",
+				"rating": "0"
             },
             "type": "Reminder",
             "subtypes": [
@@ -2986,13 +3288,13 @@
 		9 When Words Don't Work
 		9 Dreamgill Salamander
 		9 A Flock is Born
-	[LandSlot(1)]
-		2 Iridescent Fault
-		2 Iridescent Forest
-		2 Iridescent Island
-		2 Iridescent Mountain
-		2 Iridescent Plains
-		2 Iridescent Swamp
+	[LandSlot(2)]
+		4 Iridescent Fault
+		4 Iridescent Forest
+		4 Iridescent Island
+		4 Iridescent Mountain
+		4 Iridescent Plains
+		4 Iridescent Swamp
 		5 Bloomrock Enclave
 		5 Brightblossom Enclave
 		5 Cascading Cleave
@@ -3021,3 +3323,5 @@
 		9 Splintered Thicket
 		9 Tectonic Rime
 		9 Tranquil Stream
+	[ReminderSlot(1)]
+		500 Sanctum Reminder

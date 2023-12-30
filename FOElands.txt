@@ -316,13 +316,12 @@
 	    }
 	]
 	[RareSlot(0)]
-		0 Iridescent Fault
-		0 Iridescent Forest
-		0 Iridescent Island
-		0 Iridescent Mountain
-		0 Iridescent Plains
-		0 Iridescent Swamp
-	[UncommonSlot(0)]
+		2 Iridescent Fault
+		2 Iridescent Forest
+		2 Iridescent Island
+		2 Iridescent Mountain
+		2 Iridescent Plains
+		2 Iridescent Swamp
 		5 Bloomrock Enclave
 		5 Brightblossom Enclave
 		5 Cascading Cleave
@@ -335,8 +334,6 @@
 		5 Vibrant Knoll
 		5 Vineglare Enclave
 		5 Windy Weft
-	[CommonSlot(0)]
-		9 
 		9 Alpine Meadow
 		9 Barren Fissure
 		9 Crackling Expanse
@@ -353,5 +350,4 @@
 		9 Splintered Thicket
 		9 Tectonic Rime
 		9 Tranquil Stream
-	[BasicSlot(0)]
 	
