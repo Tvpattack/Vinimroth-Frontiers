@@ -1653,7 +1653,7 @@
 	    {
 	        "name": "Skycliff Dens",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{4}{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Vinimroth-Frontiers/blob/main/Skycliff%20Dens.png?raw=true",
