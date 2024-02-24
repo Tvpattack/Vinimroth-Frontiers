@@ -1,0 +1,857 @@
+[CustomCards]
+	[    {
+	        "name": "Alpine Meadow",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Alpine%20Meadow.png"
+	        }
+	    },
+	    {
+	        "name": "Barren Fissure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Barren%20Fissure.png"
+	        }
+	    },
+	    {
+	        "name": "Bloomrock Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Bloomrock%20Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Brightblossom Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Brightblossom%20Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Cascading Cleave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Cascading%20Cleave.png"
+	        }
+	    },
+	    {
+	        "name": "Crackling Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Crackling%20Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Desolate Barrens",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Desolate%20Barrens.png"
+	        }
+	    },
+	    {
+	        "name": "Cleft River",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Cleft%20River.png"
+	        }
+	    },
+	    {
+	        "name": "Fiery Chasm",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fiery%20Chasm.png"
+	        }
+	    },
+	    {
+	        "name": "Formless Frontier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Formless%20Frontier.png"
+	        }
+	    },
+	    {
+	        "name": "Glowspore Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Glowspore%20Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Fault",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Fault ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Iridescent%20Fault.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Forest",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Iridescent%20Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Island",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Iridescent%20Island.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Mountain",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Iridescent%20Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Plains",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Iridescent%20Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Iridescent Swamp",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Iridescent%20Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "Jagged Crag",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Jagged%20Crag.png"
+	        }
+	    },
+	    {
+	        "name": "Mistlake Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mistlake%20Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Moonglow Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Moonglow%20Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Rainforest Spring",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Rainforest%20Spring.png"
+	        }
+	    },
+	    {
+	        "name": "Roaring Cascade",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Roaring%20Cascade.png"
+	        }
+	    },
+	    {
+	        "name": "Soaring Tethers",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Soaring%20Tethers.png"
+	        }
+	    },
+	    {
+	        "name": "Sodden Cavern",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Sodden%20Cavern.png"
+	        }
+	    },
+	    {
+	        "name": "Somber Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Somber%20Marsh.png"
+	        }
+	    },
+	    {
+	        "name": "Splintered Thicket",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Splintered%20Thicket.png"
+	        }
+	    },
+	    {
+	        "name": "Sunswept Prairie",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Sunswept%20Prairie.png"
+	        }
+	    },
+	    {
+	        "name": "Tectonic Rime",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Tectonic%20Rime.png"
+	        }
+	    },
+	    {
+	        "name": "Thyrsine Way",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Thyrsine%20Way.png"
+	        }
+	    },
+	    {
+	        "name": "Tranquil Stream",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Tranquil%20Stream.png"
+	        }
+	    },
+	    {
+	        "name": "Vibrant Knoll",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Vibrant%20Knoll.png"
+	        }
+	    },
+	    {
+	        "name": "Vineglare Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Vineglare%20Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Windy Weft",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Windy%20Weft.png"
+	        }
+	    },
+	    {
+	        "name": "Forest-01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Forest-01.png"
+	        }
+	    },
+	    {
+	        "name": "Forest-03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Forest-03.png"
+	        }
+	    },
+	    {
+	        "name": "Forest-02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Forest-02.png"
+	        }
+	    },
+	    {
+	        "name": "Forest-04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Forest-04.png"
+	        }
+	    },
+	    {
+	        "name": "Island-01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Island-01.png"
+	        }
+	    },
+	    {
+	        "name": "Island-03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Island-03.png"
+	        }
+	    },
+	    {
+	        "name": "Island-02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Island-02.png"
+	        }
+	    },
+	    {
+	        "name": "Island-04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Island-04.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain-01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mountain-01.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain-02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mountain-02.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain-03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mountain-03.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain-04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mountain-04.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp-01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Swamp-01.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp-03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Swamp-03.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp-02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Swamp-02.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp-04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Swamp-04.png"
+	        }
+	    },
+	    {
+	        "name": "Plains-04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Plains-04.png"
+	        }
+	    },
+	    {
+	        "name": "Fault-01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Fault ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fault-01.png"
+	        }
+	    },
+	    {
+	        "name": "Fault-03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Fault ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fault-03.png"
+	        }
+	    },
+	    {
+	        "name": "Fault-02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Fault ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fault-02.png"
+	        }
+	    },
+	    {
+	        "name": "Fault-04",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Fault ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fault-04.png"
+	        }
+	    },
+	    {
+	        "name": "Plains-01",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Plains-01.png"
+	        }
+	    },
+	    {
+	        "name": "Plains-03",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Plains-03.png"
+	        }
+	    },
+	    {
+	        "name": "Plains-02",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Plains-02.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Field",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Field.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Isle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Isle.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Mire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Mire.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Peak",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Peak.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Jungle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Jungle.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Crevasse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Crevasse.png"
+	        }
+	    },
+	    {
+	        "name": "Roaming Ruins",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Human ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Roaming%20Ruins.png"
+	        }
+	    },
+	    {
+	        "name": "Errant Pillar",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Minotaur ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Errant%20Pillar.png"
+	        }
+	    },
+	    {
+	        "name": "Devoted Riftpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Bird ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Devoted%20Riftpike.png"
+	        }
+	    },
+	    {
+	        "name": "Exhausting Foundation",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Icon ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Exhausting%20Foundation.png"
+	        }
+	    },
+	    {
+	        "name": "Listless Monument",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Bear ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Listless%20Monument.png"
+	        }
+	    },
+	    {
+	        "name": "Persisting Timepiece",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Scout ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Persisting%20Timepiece.png"
+	        }
+	    },
+	    {
+	        "name": "Ominous Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Warrior ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Ominous%20Temple.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Sands",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drifting%20Sands.png"
+	        }
+	    },
+	    {
+	        "name": "Glittering Vale",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Glittering%20Vale.png"
+	        }
+	    },
+	    {
+	        "name": "Sainard Boneyard",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Sainard%20Boneyard.png"
+	        }
+	    },
+	    {
+	        "name": "Carrigol Spires",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Carrigol%20Spires.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnshroud Castle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Dawnshroud%20Castle.png"
+	        }
+	    },
+	    {
+	        "name": "Soarwing Coast",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Soarwing%20Coast.png"
+	        }
+	    },
+	    {
+	        "name": "Hostile Pillars",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Hostile%20Pillars.png"
+	        }
+	    },
+	    {
+	        "name": "Duraval Lushfields",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Duraval%20Lushfields.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnbreak Resort",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Dawnbreak%20Resort.png"
+	        }
+	    },
+	    {
+	        "name": "Highland Vale",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Forest ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Highland%20Vale.png"
+	        }
+	    },
+	    {
+	        "name": "Binding Pools",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Binding%20Pools.png"
+	        }
+	    },
+	    {
+	        "name": "Winnowing Tower",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Whale ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Winnowing%20Tower.png"
+	        }
+	    },
+	    {
+	        "name": "Splitting Caldera",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Splitting%20Caldera.png"
+	        }
+	    },
+	    {
+	        "name": "Frontier Sanctuary",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land — Frontier Sanctuary ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Frontier%20Sanctuary.png"
+	        }
+	    },
+	    {
+	        "name": "Mirdrim Summit",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mirdrim%20Summit.png"
+	        }
+	    }
+	]
+	[RareSlot(0)]
+		0 Iridescent Fault
+		0 Iridescent Forest
+		0 Iridescent Island
+		0 Iridescent Mountain
+		0 Iridescent Plains
+		0 Iridescent Swamp
+		0 Binding Pools
+		0 Winnowing Tower
+		0 Splitting Caldera
+		0 Frontier Sanctuary
+		0 Mirdrim Summit
+	[UncommonSlot(0)]
+		0 Bloomrock Enclave
+		0 Brightblossom Enclave
+		0 Cascading Cleave
+		0 Glowspore Enclave
+		0 Mistlake Enclave
+		0 Moonglow Enclave
+		0 Soaring Tethers
+		0 Sunswept Prairie
+		0 Thyrsine Way
+		0 Vibrant Knoll
+		0 Vineglare Enclave
+		0 Windy Weft
+		0 Roaming Ruins
+		0 Errant Pillar
+		0 Devoted Riftpike
+		0 Exhausting Foundation
+		0 Listless Monument
+		0 Persisting Timepiece
+		0 Ominous Temple
+		0 Hostile Pillars
+		0 Duraval Lushfields
+		0 Dawnbreak Resort
+	[CommonSlot(0)]
+		0 Alpine Meadow
+		0 Barren Fissure
+		0 Crackling Expanse
+		0 Desolate Barrens
+		0 Cleft River
+		0 Fiery Chasm
+		0 Formless Frontier
+		0 Jagged Crag
+		0 Rainforest Spring
+		0 Roaring Cascade
+		0 Sodden Cavern
+		0 Somber Marsh
+		0 Splintered Thicket
+		0 Tectonic Rime
+		0 Tranquil Stream
+		0 Drifting Field
+		0 Drifting Isle
+		0 Drifting Mire
+		0 Drifting Peak
+		0 Drifting Jungle
+		0 Drifting Crevasse
+		0 Drifting Sands
+		0 Glittering Vale
+		0 Sainard Boneyard
+		0 Carrigol Spires
+		0 Dawnshroud Castle
+		0 Soarwing Coast
+		0 Highland Vale
+	[BasicSlot(0)]
+		0 Forest-01
+		0 Forest-03
+		0 Forest-02
+		0 Forest-04
+		0 Island-01
+		0 Island-03
+		0 Island-02
+		0 Island-04
+		0 Mountain-01
+		0 Mountain-02
+		0 Mountain-03
+		0 Mountain-04
+		0 Swamp-01
+		0 Swamp-03
+		0 Swamp-02
+		0 Swamp-04
+		0 Plains-04
+		0 Fault-01
+		0 Fault-03
+		0 Fault-02
+		0 Fault-04
+		0 Plains-01
+		0 Plains-03
+		0 Plains-02
+	
