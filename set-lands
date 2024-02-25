@@ -1,0 +1,3319 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2020-04-25
+stylesheet: m15-altered-plus
+stylesheet_version: 2020-09-04
+set_info:
+	title: Frontiers of Eternity Lands
+	copyright: Set by Tvpattack
+	set_code: FOES
+	set_language: EN
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: masterpiece_symbol1.mse-symbol
+	blend_with_colors: yes
+	automatic_card_numbers: no
+	alias_as_cardname: no
+styling:
+	magic-m15-altered-plus:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		d20_dividers: off
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		common
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 15:22:07
+	extra_data:
+		magic-m15-dungeons-beta: false_floor: 
+	name: Alpine Meadow
+	image: image1
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land> <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Alpine Meadow</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>“There are...moons?” <error-spelling:en_US>Melodia</error-spelling:en_US> said, confused. “Does <error-spelling:en_US>Duraval</error-spelling:en_US> have planets like <error-spelling:en_US>Vinimroth</error-spelling:en_US>?”</i-flavor>
+	custom_card_number: 0005
+	card_code_text: 
+	card_code_text_2: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:09:57
+	name: Barren Fissure
+	image: image2
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land> <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Barren Fissure</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>“That energy. <error-spelling:en_US>Prophellos</error-spelling:en_US>, Marie. They’ve been here.” <error-spelling:en_US>Korna</error-spelling:en_US> started, “If we continue-” “We’ll need to be ready.” <error-spelling:en_US>Najael</error-spelling:en_US> responded, dejected.</i-flavor>
+	custom_card_number: 0013
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped
+		"control a basic"
+		!smallbox
+		!anybox<soft-line>
+		uncommon</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:09:58
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: red, land
+	name: Bloomrock Enclave
+	image: image3
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Bloomrock Enclave</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
+		<sym-auto>3R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: <atom-cardname><nospellcheck>Bloomrock Enclave</nospellcheck></atom-cardname> deals 2 damage to any noncreature target. <i-auto>(This includes players.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0039
+	card_code_text: 
+	illustrator: Vadim Shchepilov
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped
+		"control a basic"
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:09:59
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: green, land
+	name: Brightblossom Enclave
+	image: image4
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Brightblossom Enclave</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+		<sym-auto>3G</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: Create a tapped 3/2 green Cat creature token.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0040
+	card_code_text: 
+	illustrator: Vadim Shchepilov
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2023-07-07 22:16:54
+	time_modified: 2024-02-23 18:10:00
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Cascading Cleave
+	image: image5
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		If you control three or more other lands, <atom-cardname><nospellcheck>Cascading Cleave</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Cascading Cleave</nospellcheck></atom-cardname> enters tapped, up to one target creature you control gets +1/+0 and gains <kw-a><nospellcheck>first strike</nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0047
+	card_code_text: 
+	illustrator: zandraart
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:02
+	name: Crackling Expanse
+	image: image6
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land> <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Crackling Expanse</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>“The frozen expanses of <error-spelling:en_US>Carrigol</error-spelling:en_US>. I really need to thank that woman...What was her name again?” Asked <error-spelling:en_US>Melodia</error-spelling:en_US>. “<error-spelling:en_US>Kaya</error-spelling:en_US>, I believe.” Replied <error-spelling:en_US>Korna</error-spelling:en_US>.</i-flavor>
+	custom_card_number: 0011
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		d20_dividers: off
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:03
+	name: Desolate Barrens
+	image: image7
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land> <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Desolate Barrens</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>In the wake of <error-spelling:en_US>Prophellos’</error-spelling:en_US> rampant hunger, the plane of <error-spelling:en_US>Mourncast</error-spelling:en_US> suffered yet another catastrophe.</i-flavor>
+	custom_card_number: 0006
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:01
+	name: Cleft River
+	image: image8
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land> <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Cleft River</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Korna</error-spelling:en_US>! Those are <error-spelling:en_US>Merfolk</error-spelling:en_US>!” <error-spelling:en_US>Melodia</error-spelling:en_US> exclaimed. “The Elves wrote about them! We must be close to <error-spelling:en_US>Yenire</error-spelling:en_US>!”</i-flavor>
+	custom_card_number: 0012
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:08
+	name: Fiery Chasm
+	image: image9
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land> <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto></i>
+		<atom-cardname><nospellcheck>Fiery Chasm</nospellcheck></atom-cardname> enters tapped.<i>
+	flavor_text: <i-flavor><error-spelling:en_US>Murkross’</error-spelling:en_US> volcanic floes hold many an ancient secret. A metal that could never melt by conventional means...</i-flavor>
+	custom_card_number: 0003
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		common
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-14 19:44:28
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Formless Frontier
+	image: image10
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Formless Frontier</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+	flavor_text:
+		<i-flavor>“I still find myself discovering relics from ancient Elves. here, we have lands that transform from a wasteland into a thriving landscape.”<soft-line>
+		— <error-spelling:en_US>Korna</error-spelling:en_US>, <error-spelling:en_US>Vinimroth</error-spelling:en_US> Historian</soft-line></i-flavor>
+	custom_card_number: 0025
+	card_code_text: 
+	illustrator: Valentina Filic
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped<soft-line>
+		"control a basic"
+		!smallbox
+		!anybox
+		uncommon
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:09
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: black, land
+	name: Glowspore Enclave
+	image: image11
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Glowspore Enclave</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+		<sym-auto>4B</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: Target opponent sacrifices a creature or planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0038
+	card_code_text: 
+	illustrator: Vadim Shchepilov
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-25 02:10:04
+	card_color: silver, land, multicolor
+	name: Iridescent Fault
+	image: image13
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Iridescent Fault</nospellcheck></atom-cardname> enters choose a color, then you may pay 2 life. If life wasn’t paid, this enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color. Activate only if you control a basic land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0056
+	card_code_text: 
+	illustrator: Sylvain Sarrailh
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-25 02:09:52
+	card_color: green, land, multicolor
+	name: Iridescent Forest
+	image: image14
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Iridescent Forest</nospellcheck></atom-cardname> enters choose a color, then you may pay 2 life. If life wasn’t paid, this enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color. Activate only if you control a basic land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0055
+	card_code_text: 
+	illustrator: Sylvain Sarrailh
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		other_options: auto vehicles, auto nyx crowns
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-25 02:09:13
+	card_color: blue, land, multicolor
+	name: Iridescent Island
+	image: image15
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Iridescent Island</nospellcheck></atom-cardname> enters choose a color, then you may pay 2 life. If life wasn’t paid, this enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color. Activate only if you control a basic land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0052
+	card_code_text: 
+	illustrator: Sylvain Sarrailh
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-25 02:08:37
+	card_color: red, land, multicolor
+	name: Iridescent Mountain
+	image: image16
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Iridescent Mountain</nospellcheck></atom-cardname> enters choose a color, then you may pay 2 life. If life wasn’t paid, this enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color. Activate only if you control a basic land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0054
+	card_code_text: 
+	illustrator: Sylvain Sarrailh
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-25 02:09:35
+	card_color: white, land, multicolor
+	name: Iridescent Plains
+	image: image17
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Iridescent Plains</nospellcheck></atom-cardname> enters choose a color, then you may pay 2 life. If life wasn’t paid, this enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color. Activate only if you control a basic land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0051
+	card_code_text: 
+	illustrator: Sylvain Sarrailh
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-25 02:09:26
+	card_color: black, land, multicolor
+	name: Iridescent Swamp
+	image: image18
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.)</i-auto>
+		As <atom-cardname><nospellcheck>Iridescent Swamp</nospellcheck></atom-cardname> enters choose a color, then you may pay 2 life. If life wasn’t paid, this enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color. Activate only if you control a basic land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0053
+	card_code_text: 
+	illustrator: Sylvain Sarrailh
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:11
+	name: Jagged Crag
+	image: image19
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land> <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Jagged Crag</nospellcheck></atom-cardname> enters tapped.
+	flavor_text:
+		<i-flavor>“Each passing moment, I weep for those unaware of the beauty hidden deep within the <error-spelling:en_US>outlands</error-spelling:en_US> of <error-spelling:en_US>Vinimroth</error-spelling:en_US>.”<soft-line>
+		—<error-spelling:en_US>Korna</soft-line></i-flavor></error-spelling:en_US>
+	custom_card_number: 0010
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped<soft-line>
+		"control a basic"
+		!smallbox
+		!anybox
+		uncommon
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:14
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: blue, land
+	name: Mistlake Enclave
+	image: image20
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Mistlake Enclave</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<sym-auto>4U</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: Put the top card of your library face down. Its a 2/2 creature. You may cast it on a later turn if its not a land.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0037
+	card_code_text: 
+	illustrator: Vadim Shchepilov
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		font_cap: 13.5
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped<soft-line>
+		"control a basic"
+		!smallbox
+		!anybox
+		uncommon
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:15
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: white, land
+	name: Moonglow Enclave
+	image: image21
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Moonglow Enclave</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+		<sym-auto>2W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: Creatures you control get +1/+1 and gain <kw-a><nospellcheck>vigilance</nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0036
+	card_code_text: 
+	card_code_text_2: 
+	illustrator: Vadim Shchepilov
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:17
+	name: Rainforest Spring
+	image: image22
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land> <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Rainforest Spring</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>“Thank <error-spelling:en_US>Fireblood</error-spelling:en_US> we got the shard,” <error-spelling:en_US>Najael</error-spelling:en_US> wheezed, breathless from swimming through the rift. “Where next <error-spelling:en_US>Melodia</error-spelling:en_US>?” “I’ll figure it out later,” <error-spelling:en_US>Melodia</error-spelling:en_US> said between breaths.</i-flavor>
+	custom_card_number: 0008
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:19
+	name: Roaring Cascade
+	image: image23
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land> <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Roaring Cascade</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor><error-spelling:en_US>Dawnshroud’s</error-spelling:en_US> rocky shores proved to be a respite for the weary group. They would rest for now, with the protection of <error-spelling:en_US>Auriel</error-spelling:en_US> should Marie and <error-spelling:en_US>Prophellos</error-spelling:en_US> reappear.</i-flavor>
+	custom_card_number: 0009
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2023-07-07 22:16:54
+	time_modified: 2024-02-23 18:10:20
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Soaring Tethers
+	image: image24
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		If you control three or more other lands, <atom-cardname><nospellcheck>Soaring Tethers</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Soaring Tethers</nospellcheck></atom-cardname> enters tapped, untap up to one target creature you control. It gains <kw-a><nospellcheck>flying</nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0043
+	card_code_text: 
+	illustrator: zandraart
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		d20_dividers: off
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:21
+	name: Sodden Cavern
+	image: image25
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land> <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Sodden Cavern</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>The group had to make it back to <error-spelling:en_US>Vinimroth</error-spelling:en_US>. With Marie’s immoral act, building the Planar Portal was crucial.</i-flavor>
+	custom_card_number: 0002
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:21
+	name: Somber Marsh
+	image: image26
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land> <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Somber Marsh</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>Deep in the heart of <error-spelling:en_US>Sainard</error-spelling:en_US>, grief surrounded the <error-spelling:en_US>pathwalkers</error-spelling:en_US>. The place they stood in suffered the wrath of Marie, and it cried out in pain.</i-flavor>
+	custom_card_number: 0007
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: 
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:22
+	name: Splintered Thicket
+	image: image27
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land> <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Splintered Thicket</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>“It’s there! It’s there!” Chirps exclaimed. “Born there!” <error-spelling:en_US>Najael</error-spelling:en_US> was taken aback, “You were born in the respite.” Chirp’s expression soured. “I was born here. I know it. Its my tree!”</i-flavor>
+	custom_card_number: 0015
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2023-07-07 22:16:54
+	time_modified: 2024-02-23 18:10:23
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Sunswept Prairie
+	image: image28
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		If you control three or more other lands, <atom-cardname><nospellcheck>Sunswept Prairie</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Sunswept Prairie</nospellcheck></atom-cardname> enters tapped, up to one target creature gets +0/+1 and gains <kw-a><nospellcheck>vigilance</nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0042
+	card_code_text: 
+	illustrator: zandraart
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped
+		Oasha Reference<soft-line>
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:24
+	name: Tectonic Rime
+	image: image29
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land> <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Tectonic Rime</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>A brief visit to <error-spelling:en_US>Jormunfang</error-spelling:en_US> would capture <error-spelling:en_US>Najaels</error-spelling:en_US> sense of wonder, as here too were drakes, dragons, and <error-spelling:en_US>Wurms</error-spelling:en_US>.</i-flavor>
+	custom_card_number: 0014
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2023-07-07 22:16:54
+	time_modified: 2024-02-23 18:10:25
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Thyrsine Way
+	image: image30
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		If you control three or more other lands, <atom-cardname><nospellcheck>Thyrsine Way</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Thyrsine Way</nospellcheck></atom-cardname> enters tapped, up to one target creature gains <kw-a><nospellcheck>deathtouch</nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0044
+	card_code_text: 
+	illustrator: zandraart
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		d20_dividers: off
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:27
+	name: Tranquil Stream
+	image: image31
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land> <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<soft-line><atom-cardname><nospellcheck>Tranquil Stream</nospellcheck></atom-cardname> enters tapped.</soft-line>
+	flavor_text: <i-flavor>“I hope this isn’t the last time we get to see <error-spelling:en_US>Kaldheim</error-spelling:en_US>,” said <error-spelling:en_US>Melodia</error-spelling:en_US>. “It’s beautiful!” “I hope so too,” <error-spelling:en_US>Korna</error-spelling:en_US> replied somberly.</i-flavor>
+	custom_card_number: 0001
+	card_code_text: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2023-07-07 22:16:54
+	time_modified: 2024-02-23 18:10:27
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Vibrant Knoll
+	image: image32
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		If you control three or more other lands, <atom-cardname><nospellcheck>Vibrant Knoll</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Vibrant Knoll</nospellcheck></atom-cardname> enters tapped, up to one target creature gains <kw-a><nospellcheck>trample</nospellcheck></kw-a> and <kw-a><nospellcheck>hexproof</nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0046
+	card_code_text: 
+	illustrator: zandraart
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!tapped<soft-line>
+		"control a basic"
+		!smallbox
+		!anybox
+		uncommon
+		</soft-line>
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:29
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: silver, land
+	name: Vineglare Enclave
+	image: image33
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Vineglare Enclave</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto>.
+		<sym-auto>3F</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Frontier: Look at the top five cards of your library, put one into your hand, and put the rest on the bottom at random.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0041
+	card_code_text: 
+	illustrator: Vadim Shchepilov
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		popout_image_style: 
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+		uncommon
+	time_created: 2023-07-07 22:16:54
+	time_modified: 2024-02-23 18:10:30
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Windy Weft
+	image: image34
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		If you control three or more other lands, <atom-cardname><nospellcheck>Windy Weft</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Windy Weft</nospellcheck></atom-cardname> enters tapped, up to one target creature you control gets +1/+0 and gains <kw-a><nospellcheck>haste</nospellcheck></kw-a> until end of turn.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0045
+	card_code_text: 
+	illustrator: zandraart
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Forest-01
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:28
+	name: Forest
+	image: image36.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol green
+	custom_card_number: 0080
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Forest-03
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:32
+	card_color: green, land
+	name: Forest
+	image: image24.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol green
+	custom_card_number: 0081
+	card_code_text: 
+	illustrator: Michal Kváč
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Forest-02
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:34
+	card_color: green, land
+	name: Forest
+	image: image23.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol green
+	custom_card_number: 0082
+	card_code_text: 
+	illustrator: Michal Kváč
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: frameless art
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Forest-04
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:15
+	card_color: green, land
+	name: Forest
+	image: image34.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0066
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Island-01
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:41
+	name: Island
+	image: image41.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol blue
+	custom_card_number: 0071
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Island-03
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:44
+	card_color: blue, land
+	name: Island
+	image: image44.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol blue
+	custom_card_number: 0072
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Island-02
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:47
+	card_color: blue, land
+	name: Island
+	image: image35.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol blue
+	custom_card_number: 0073
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: frameless art
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Island-04
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:27:34
+	card_color: blue, land
+	name: Island
+	image: image37.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Island</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0063
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Mountain-01
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:17
+	name: Mountain
+	image: image33.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol red
+	custom_card_number: 0077
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Mountain-02
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:20
+	card_color: red, land
+	name: Mountain
+	image: image42.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol red
+	custom_card_number: 0078
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Mountain-03
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:24
+	card_color: red, land
+	name: Mountain
+	image: image43.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol red
+	custom_card_number: 0079
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: frameless art
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Mountain-04
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:27:46
+	card_color: red, land
+	name: Mountain
+	image: image32.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0065
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Swamp-01
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:53
+	name: Swamp
+	image: image25.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol black
+	custom_card_number: 0074
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Swamp-03
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:58
+	card_color: black, land
+	name: Swamp
+	image: image38.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol black
+	custom_card_number: 0075
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Swamp-02
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:33:00
+	card_color: black, land
+	name: Swamp
+	image: image45.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol black
+	custom_card_number: 0076
+	card_code_text: 
+	illustrator: sathish kumar
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: frameless art
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Swamp-04
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:27:39
+	card_color: black, land
+	name: Swamp
+	image: image40.png
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Swamp</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0064
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: frameless art
+		other_options: auto nyx crowns
+		font_cap: 13.5
+		use_holofoil_stamps: no
+		card_watermark: sets/Set-foe.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Plains-04
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:27:24
+	card_color: white, land
+	name: Plains
+	alias: 
+	image: image35
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0062
+	card_code_text: 
+	illustrator: Maojin.Lee
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Fault-01
+	time_created: 2022-06-13 00:00:00
+	time_modified: 2024-02-15 20:33:56
+	card_color: silver, land
+	name: Fault
+	image: image36
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol silver
+	custom_card_number: 0083
+	card_code_text: 
+	illustrator: Caelan Stokkermans
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Fault-03
+	time_created: 2022-06-13 00:00:00
+	time_modified: 2024-02-15 20:34:01
+	card_color: silver, land
+	name: Fault
+	image: image37
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text:
+		<i-flavor>“To traverse the blind eternities is to traverse the void everlasting. It is unforgiving, yet beautiful in its intensity.” <soft-line>
+		</soft-line>—Inscription on a statue of <error-spelling:en_US>Multaph</i-flavor></error-spelling:en_US>
+	watermark: transparent mana symbol silver
+	custom_card_number: 0084
+	card_code_text: 
+	illustrator: Karl Sisson
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Fault-02
+	time_created: 2022-06-13 00:00:00
+	time_modified: 2024-02-15 20:34:04
+	card_color: silver, land
+	name: Fault
+	image: image38
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Ooo</error-spelling:en_US>! There’s water down there! Maybe we should camp in the bottom?” Asked Chirps.<soft-line>
+		“I’ll grab the ropes. <error-spelling:en_US>Korna</error-spelling:en_US>, can you tie them down?” Asked <error-spelling:en_US>Najael</error-spelling:en_US>.<soft-line>
+		“It will be done.” Said <error-spelling:en_US>Korna</error-spelling:en_US>, as his body became corporeal to grab the equipment.</soft-line></soft-line></i-flavor>
+	watermark: transparent mana symbol silver
+	custom_card_number: 0085
+	card_code_text: 
+	illustrator: NEBELMAHR
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+	special_text: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		frames: frameless art
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !exportname Fault-04
+	time_created: 2022-06-13 00:00:00
+	time_modified: 2024-02-15 20:32:04
+	card_color: silver, land
+	name: Fault
+	image: image39
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Fault</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	custom_card_number: 0067
+	card_code_text: 
+	illustrator: Mark Komorowski
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+	special_text: 
+card:
+	has_styling: false
+	notes: !exportname Plains-01
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:28
+	name: Plains
+	image: image40
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol white
+	custom_card_number: 0068
+	card_code_text: 
+	illustrator: Philipp A. Urlich
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Plains-03
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:30
+	card_color: white, land
+	name: Plains
+	image: image41
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor>Deep in the countryside of <error-spelling:en_US>Meirel</error-spelling:en_US>, grain fields stripe the landscape. War leaves their bounty unclaimed.</i-flavor>
+	watermark: transparent mana symbol white
+	custom_card_number: 0069
+	card_code_text: 
+	illustrator: Artem Chebokha
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: false
+	notes: !exportname Plains-02
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-15 20:32:36
+	card_color: white, land
+	name: Plains
+	image: image42
+	super_type: <word-list-type>Basic Land</word-list-type>
+	sub_type: <word-list-land>Plains</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: transparent mana symbol white
+	custom_card_number: 0070
+	card_code_text: 
+	illustrator: sathish kumar
+	copyright: 
+	image_2: 
+	super_type_2: <word-list-type></word-list-type>
+	sub_type_2: 
+	super_type_3: <word-list-type></word-list-type>
+	sub_type_3: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:42:56
+	name: Drifting Field
+	image: image1.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>. You lose 1 life unless you control a white permanent.
+		<sym-auto>T</sym-auto>: Choose a color. Activate only once.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0016
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:42:59
+	name: Drifting Isle
+	image: image2.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>. You lose 1 life unless you control a blue permanent.
+		<sym-auto>T</sym-auto>: Choose a color. Activate only once.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0017
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:43:21
+	name: Drifting Mire
+	image: image3.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>. You lose 1 life unless you control a black permanent.
+		<sym-auto>T</sym-auto>: Choose a color. Activate only once.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0018
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:43:25
+	name: Drifting Peak
+	image: image4.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>. You lose 1 life unless you control a red permanent.
+		<sym-auto>T</sym-auto>: Choose a color. Activate only once.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0019
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:43:30
+	name: Drifting Jungle
+	image: image6.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>. You lose 1 life unless you control a green permanent.
+		<sym-auto>T</sym-auto>: Choose a color. Activate only once.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0020
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:43:38
+	name: Drifting Crevasse
+	image: image7.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto>. You lose 1 life unless you control a silver permanent.
+		<sym-auto>T</sym-auto>: Choose a color. Activate only once.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0021
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-23 18:10:18
+	name: Roaming Ruins
+	image: image8.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Human</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Roaming Ruins</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck>Vigilance</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+		<sym-auto>2W</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Roaming Ruins</nospellcheck></atom-cardname> also becomes a 2/3 creature.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0029
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-23 18:10:06
+	name: Errant Pillar
+	image: image9.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Minotaur</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Errant Pillar</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck>Trample</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
+		<sym-auto>1R</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Errant Pillar</nospellcheck></atom-cardname> also becomes a 2/2 creature.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0032
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-23 18:10:04
+	name: Devoted Riftpike
+	image: image10.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Bird</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Devoted Riftpike</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<sym-auto>2U</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Devoted Riftpike</nospellcheck></atom-cardname> also becomes a 2/1 creature.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0030
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-23 18:10:07
+	name: Exhausting Foundation
+	image: image5.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Icon</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Exhausting Foundation</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck>Menace</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+		<sym-auto>4B</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Exhausting Foundation</nospellcheck></atom-cardname> also becomes a 3/2 creature.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0031
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-23 18:10:13
+	name: Listless Monument
+	image: image12.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Bear</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Listless Monument</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck>Reach</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+		<sym-auto>3G</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Listless Monument</nospellcheck></atom-cardname> also becomes a 4/4 creature.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0033
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		other_options: auto nyx crowns
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-23 18:10:16
+	name: Persisting Timepiece
+	image: image11.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Scout</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Persisting Timepiece</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>F</sym-auto>.
+		<sym-auto>F</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Persisting Timepiece</nospellcheck></atom-cardname> also becomes a 1/3 creature. If its already a creature, it gets +1/-1 until end of turn instead.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0034
+	card_code_text: 
+	card_code_text_2: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Roaming
+	time_created: 2024-02-11 21:42:26
+	time_modified: 2024-02-15 20:02:25
+	name: Ominous Temple
+	image: image14.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Warrior</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on <atom-cardname><nospellcheck>Ominous Temple</nospellcheck></atom-cardname>.
+		<sym-auto>2</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Ominous Temple</nospellcheck></atom-cardname> also becomes a 1/1 creature.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0035
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!gold<soft-line>
+		!noborder
+		</soft-line>
+	time_created: 2024-02-11 19:36:31
+	time_modified: 2024-02-14 19:44:09
+	name: Drifting Sands
+	image: image13.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Choose a color.
+		<sym-auto>T</sym-auto>: Add one mana of a chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0022
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-13 18:02:26
+	time_modified: 2024-02-23 18:13:30
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Glittering Vale
+	image: image18.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rule_text:
+		When <atom-cardname><nospellcheck>Glittering Vale</nospellcheck></atom-cardname> enters, you gain 2 life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0026
+	card_code_text: 
+	illustrator: Peter Ortiz
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-13 18:02:26
+	time_modified: 2024-02-14 19:44:34
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Sainard Boneyard
+	image: image19.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck>Surveil <param-number>1</param-number></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put that card into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0027
+	card_code_text: 
+	illustrator: Ilya Popov
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-13 18:02:26
+	time_modified: 2024-02-23 18:12:15
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Carrigol Spires
+	image: image15.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rule_text:
+		When <atom-cardname><nospellcheck>Carrigol Spires</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck>scry <param-number>1</param-number></nospellcheck>.<atom-reminder-core> <i-auto>(To scry <param-number>1</param-number>, look at the top card of your library. You may put that card on the bottom of your library.)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0023
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-13 18:02:26
+	time_modified: 2024-02-14 19:44:17
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Dawnshroud Castle
+	image: image20.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<kw-A><i-auto><nospellcheck>Explorer</nospellcheck></i-auto></kw-A> — <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Target creature you control gets +2/+2 until end of turn. Activate only as a sorcery and only if you control five or more differently named lands.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0024
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		altered_plus_frames: frontier
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-13 18:02:26
+	time_modified: 2024-02-14 19:44:37
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Soarwing Coast
+	image: image16.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>5</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Soarwing Coast</nospellcheck></atom-cardname>: Create a 2/2 white Drake creature token with <kw-a><nospellcheck>flying</nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Untamed and defiant, the <error-spelling:en_US>Carrigol</error-spelling:en_US> drakes fly a concert for those who watch.</i-flavor>
+	custom_card_number: 0028
+	card_code_text: 
+	illustrator: Peter Ortiz
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-14 04:17:48
+	time_modified: 2024-02-23 18:14:04
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Hostile Pillars
+	image: image17.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Hostile Pillars</nospellcheck></atom-cardname>: Destroy target nonbasic land. Each player may search their library for a basic land card, then put them onto the battlefield. If a player searched their library this way, they shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0049
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-14 04:17:48
+	time_modified: 2024-02-23 18:13:09
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: land, multicolor
+	name: Duraval Lushfields
+	image: image22.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		As <atom-cardname><nospellcheck>Duraval Lushfields</nospellcheck></atom-cardname> enters, you may pay <sym-auto>1</sym-auto>. If you don’t, sacrifice it.
+		<atom-cardname><nospellcheck>Duraval Lushfields</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0050
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: frontier
+		alt_rarity_color: 20,255,255:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-14 04:17:48
+	time_modified: 2024-02-14 19:52:06
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	name: Dawnbreak Resort
+	image: image21.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck>Luminous</nospellcheck><atom-reminder-action> <i-auto>(For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Dawnbreak Resort</nospellcheck></atom-cardname>: Draw a card. Activate only if you’ve illuminated a color.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0048
+	card_code_text: 
+	illustrator: Alessandro Emanuelli
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		d20_dividers: off
+		alt_rarity_color: 7,255,11:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		CL01,Noncreature,0,,Stone Quarry
+		!tapped
+	time_created: 2022-06-23 00:00:00
+	time_modified: 2024-02-23 18:10:10
+	name: Highland Vale
+	image: image44
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Mountain</word-list-land> <word-list-land>Forest</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Highland Vale</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor>Upon setting foot on <error-spelling:en_US>Ragrime</error-spelling:en_US>, it was clear to <error-spelling:en_US>Melodia</error-spelling:en_US> that this plane had not seen a humanoid since its inception.</i-flavor>
+	custom_card_number: 0004
+	card_code_text: 
+	card_code_text_2: 
+	illustrator: Philip Sue
+	copyright: 
+	image_2: 
+	copyright_2: 
+	copyright_3: 
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-15 17:46:18
+	time_modified: 2024-02-15 22:29:09
+	card_color: land, multicolor
+	name: Binding Pools
+	image: image39.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile a card from a graveyard: Add one mana of any of the exiled <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>cards’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> colors.
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0057
+	card_code_text: 
+	illustrator: Jesús Campos "Nerkin"
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-15 17:46:18
+	time_modified: 2024-02-15 20:17:03
+	name: Winnowing Tower
+	image: image31.png
+	super_type: <word-list-type>Kindred Land</word-list-type>
+	sub_type: <word-list-land>Whale</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>5</sym-auto>: Until end of turn, target land you control becomes a 3/3 creature in addition to its other types.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	custom_card_number: 0059
+	card_code_text: 
+	illustrator: Pawel Kozera
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-15 17:46:18
+	time_modified: 2024-02-15 20:17:52
+	name: Splitting Caldera
+	image: image28.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<margin:0:0:5><sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Splitting Caldera</nospellcheck></atom-cardname>: Choose one—</margin:0:0:5>
+		<li><bullet>• </bullet>Exile target players graveyard.
+		</li><li><bullet>• </bullet>Draw a card.</li>
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0060
+	card_code_text: 
+	illustrator: Jesús Campos "Nerkin"
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!smallbox
+		!anybox
+	time_created: 2024-02-15 17:46:18
+	time_modified: 2024-02-23 18:13:21
+	extra_data:
+		magic-m15-altered-plus:
+			smallbox_text: <i>(Frontiers may start in your sanctum.)</i>
+	card_color: land, multicolor
+	name: Frontier Sanctuary
+	image: image30.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land>Frontier</word-list-land> <word-list-land>Sanctuary</word-list-land><soft> </soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Frontier Sanctuary</nospellcheck></atom-cardname> enters, choose a creature type.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.
+	flavor_text: <i-flavor>The last safe place from Nowhere.</i-flavor>
+	custom_card_number: 0061
+	card_code_text: • Story Spotlight
+	illustrator: Jesús Campos "Nerkin"
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+card:
+	stylesheet: m15-altered-plus
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		altered_plus_frames: 
+		use_holofoil_stamps: no
+		alt_rarity_color: 200,20,200:10,19,0:0,0,0:200,200,200:0.1:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2024-02-15 17:46:18
+	time_modified: 2024-02-23 18:15:21
+	name: Mirdrim Summit
+	image: image27.png
+	super_type: <word-list-type>Land</word-list-type>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if <atom-cardname><nospellcheck>Mirdrim Summit</nospellcheck></atom-cardname> entered this turn.
+		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Create a 1/1 colorless Orb artifact creature token that can’t block with “Whenever this deals combat damage to a player, target player <kw-a><nospellcheck><param-mill>mills</param-mill> <param-one_word>two</param-one_word></nospellcheck></kw-a> cards.”
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 0058
+	card_code_text: 
+	illustrator: Anthony Avon
+	copyright: Set by Tvpattack
+	image_2: 
+	copyright_2: Set by Tvpattack
+	copyright_3: Set by Tvpattack
+	mainframe_image: 
+	mainframe_image_2: 
+keyword:
+	keyword: Luminous
+	match: Luminous
+	reminder: For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.
+	rules: Luminous — If you control {n} or more other {other} permanents 
+	mode: action
+keyword:
+	keyword: Explorer
+	match: Explorer
+	reminder: 
+	rules: Explorer — If you control five or more differently named lands, [Effect]
+	mode: pseudo
+pack_type:
+	name: Lands
+	enabled: true
+	selectable: true
+	summary: false
+	select: all
+	item:
+		name: random
+		amount: 2
+		weight: 1
+version_control:
+	type: none
+apprentice_code: 
