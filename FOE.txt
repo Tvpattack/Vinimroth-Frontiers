@@ -4537,7 +4537,7 @@
 			"slots": {
 				"Sanctum": 1,
   				"Uncommon": 3,
-  				"Common": 1,
+  				"Common": 2,
   				"CommonW": 1,
   				"CommonU": 1,
   				"CommonB": 1,
@@ -4553,7 +4553,7 @@
 			"slots": {
 				"Sanctum": 1,
   				"Uncommon": 3,
-  				"Common": 1,
+  				"Common": 2,
   				"CommonW": 1,
   				"CommonU": 1,
   				"CommonB": 1,
