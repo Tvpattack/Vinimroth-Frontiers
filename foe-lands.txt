@@ -763,6 +763,141 @@
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mirdrim%20Summit.png"
 	        }
+	    },
+	    {
+	        "name": "Clovenfield Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{F}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenfield%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Clovenfire Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{F}{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenfire%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Clovenmist Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{F}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenmist%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Clovenvein Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{F}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenvein%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Clovenwild Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{F}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenwild%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Fieldmist Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fieldmist%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Fieldvein Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fieldvein%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Firefield Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Firefield%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Firewild Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Firewild%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Mistfire Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mistfire%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Mistvein Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mistvein%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Veinfire Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Veinfire%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Veinwild Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Veinwild%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Wildfield Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wildfield%20Borderpike.png"
+	        }
+	    },
+	    {
+	        "name": "Wildmist Borderpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wildmist%20Borderpike.png"
+	        }
 	    }
 	]
 	[RareSlot(0)]
@@ -800,6 +935,21 @@
 		0 Hostile Pillars
 		0 Duraval Lushfields
 		0 Dawnbreak Resort
+		0 Clovenfield Borderpike
+		0 Clovenfire Borderpike
+		0 Clovenmist Borderpike
+		0 Clovenvein Borderpike
+		0 Clovenwild Borderpike
+		0 Fieldmist Borderpike
+		0 Fieldvein Borderpike
+		0 Firefield Borderpike
+		0 Firewild Borderpike
+		0 Mistfire Borderpike
+		0 Mistvein Borderpike
+		0 Veinfire Borderpike
+		0 Veinwild Borderpike
+		0 Wildfield Borderpike
+		0 Wildmist Borderpike
 	[CommonSlot(0)]
 		0 Alpine Meadow
 		0 Barren Fissure

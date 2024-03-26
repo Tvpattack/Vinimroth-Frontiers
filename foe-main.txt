@@ -499,8 +499,8 @@
 	    },
 	    {
 	        "name": "This Hunger Has a Name",
-	        "mana_cost": "{3}{B}",
-	        "type": "Instant",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/This%20Hunger%20Has%20a%20Name.png"
 	        },
@@ -508,12 +508,12 @@
 	            "en": "This Hunger Has a Name"
 	        },
 	        "back": {
-	            "name": "Accellerated Famine",
+	            "name": "Accelerated Famine",
 	            "printed_names": {
-	                "en": "Accellerated Famine"
+	                "en": "Accelerated Famine"
 	            },
 	            "image_uris": {
-	                "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Accellerated%20Famine.png"
+	                "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Accelerated%20Famine.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -998,7 +998,7 @@
 	    {
 	        "name": "Mordel Civil War",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Battle — Seige",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mordel%20Civil%20War.png"
@@ -1015,7 +1015,7 @@
 	    },
 	    {
 	        "name": "Soaring Chorus",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{F}",
 	        "type": "Enchamtment Creature — Icon Wizard ",
 	        "image_uris": {
@@ -1444,7 +1444,7 @@
 	    },
 	    {
 	        "name": "Extra Rulings for Silver",
-	        "rarity": "special",
+	        "rarity": "common",
 	        "mana_cost": "{F}",
 	        "type": "Reminder",
 	        "image_uris": {
@@ -1452,14 +1452,14 @@
 	        }
 	    },
 	    {
-	        "name": "Blade Reifer",
+	        "name": "Blade Reifier",
 	        "mana_cost": "{4}{F}{F}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Blade%20Reifer.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Blade%20Reifier.png"
 	        },
 	        "printed names": {
-	            "en": "Blade Reifer"
+	            "en": "Blade Reifier"
 	        },
 	        "back": {
 	            "name": "Shimmered Form",
@@ -1560,12 +1560,12 @@
 	        }
 	    },
 	    {
-	        "name": "Bird-02",
+	        "name": "Drake-05",
 	        "rarity": "common",
 	        "mana_cost": "",
-	        "type": "Token Creature — Bird ",
+	        "type": "Token Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Bird-02.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drake-05.png"
 	        }
 	    },
 	    {
@@ -1764,12 +1764,12 @@
 	        }
 	    },
 	    {
-	        "name": "Snow Worn Peaks",
+	        "name": "Wind Worn Peaks",
 	        "rarity": "common",
 	        "mana_cost": "{1}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Snow%20Worn%20Peaks.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wind%20Worn%20Peaks.png"
 	        }
 	    },
 	    {
@@ -2166,7 +2166,7 @@
 	        "name": "Crystalline Refraction",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}",
-	        "type": "Artifact Creature — Wurm ",
+	        "type": "Creature — Wurm ",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Crystalline%20Refraction.png"
 	        }
@@ -2229,7 +2229,7 @@
 	        "name": "Embracing Intonation",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
-	        "type": "Enchantment Creature — Icon Beast ",
+	        "type": "Enchantment Creature — Beast Icon ",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Embracing%20Intonation.png"
 	        }
@@ -2385,6 +2385,15 @@
 	        }
 	    },
 	    {
+	        "name": "Sunderling",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{F}{F}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Sunderling.png"
+	        }
+	    },
+	    {
 	        "name": "FOE-Cover",
 	        "rarity": "special",
 	        "mana_cost": "",
@@ -2421,21 +2430,21 @@
 	        }
 	    },
 	    {
-	        "name": "Worzel Awakened Flock",
+	        "name": "Jothi Awakened Flock",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}{B}",
-	        "type": "Legendary Planeswalker — Worzel ",
+	        "type": "Legendary Planeswalker — Jothi ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Worzel%20Awakened%20Flock.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Jothi%20Awakened%20Flock.png"
 	        }
 	    },
 	    {
-	        "name": "Worzel",
+	        "name": "Jothi",
 	        "rarity": "rare",
-	        "mana_cost": "{W}",
-	        "type": "Legendary Planeswalker — Worzel ",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Planeswalker — Jothi ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Worzel.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Jothi.png"
 	        }
 	    },
 	    {
@@ -2583,6 +2592,15 @@
 	        }
 	    },
 	    {
+	        "name": "Sanctum Sanctuary",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{F}{F}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Sanctum%20Sanctuary.png"
+	        }
+	    },
+	    {
 	        "name": "Murkross Shaman",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
@@ -2616,6 +2634,15 @@
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Cartographers%20Survey.png"
+	        }
+	    },
+	    {
+	        "name": "Outlands Duelists",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Human Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Outlands%20Duelists.png"
 	        }
 	    },
 	    {
@@ -2766,9 +2793,18 @@
 	        }
 	    },
 	    {
+	        "name": "Prophellos, Hungering Manipulator",
+	        "rarity": "rare",
+	        "mana_cost": "{7}",
+	        "type": "Legendary Creature — God ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Prophellos%2c%20Hungering%20Manipulator.png"
+	        }
+	    },
+	    {
 	        "name": "Drake Mentor",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{U}",
+	        "mana_cost": "{F}{U}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Drake%20Mentor.png"
@@ -2964,12 +3000,12 @@
 	        }
 	    },
 	    {
-	        "name": "Worzel-01",
+	        "name": "Jothi-01",
 	        "rarity": "common",
-	        "mana_cost": "{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Token Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Worzel-01.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Jothi-01.png"
 	        }
 	    },
 	    {
@@ -3011,7 +3047,7 @@
 	    {
 	        "name": "Boundless Hollow",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}{B}",
+	        "mana_cost": "{4}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Boundless%20Hollow.png"
@@ -3258,141 +3294,6 @@
 	        }
 	    },
 	    {
-	        "name": "Fieldmist Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{U}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fieldmist%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Fieldvein Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}{B}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Fieldvein%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Firefield Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}{W}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Firefield%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Wildfield Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{W}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wildfield%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Clovenfield Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{W}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenfield%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Mistvein Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{B}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mistvein%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Mistfire Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}{R}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mistfire%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Wildmist Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}{U}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wildmist%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Clovenmist Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{U}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenmist%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Firewild Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}{G}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Firewild%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Clovenfire Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{R}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenfire%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Veinfire Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{R}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Veinfire%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Veinwild Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{G}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Veinwild%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Clovenvein Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{B}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenvein%20Borderpike.png"
-	        }
-	    },
-	    {
-	        "name": "Clovenwild Borderpike",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{F}{G}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Clovenwild%20Borderpike.png"
-	        }
-	    },
-	    {
 	        "name": "Yearn for the Sky",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
@@ -3420,12 +3321,183 @@
 	        }
 	    },
 	    {
+	        "name": "Giver of Peace",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Giver%20of%20Peace.png"
+	        }
+	    },
+	    {
+	        "name": "Storm Striker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Elf ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Storm%20Striker.png"
+	        }
+	    },
+	    {
+	        "name": "Lizturbance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Lizturbance.png"
+	        }
+	    },
+	    {
+	        "name": "Bare Your Fangs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Bare%20Your%20Fangs.png"
+	        }
+	    },
+	    {
+	        "name": "Cervus Sprouting",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Cervus%20Sprouting.png"
+	        }
+	    },
+	    {
+	        "name": "Ambitious Haze",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Enchantment Creature — Icon ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Ambitious%20Haze.png"
+	        }
+	    },
+	    {
+	        "name": "Campsite",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Campsite.png"
+	        }
+	    },
+	    {
+	        "name": "Kilnhart Smoghorn",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Enchantment Creature — Elk Icon ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Kilnhart%20Smoghorn.png"
+	        }
+	    },
+	    {
 	        "name": "Boundless Flight",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{F}{U}",
 	        "type": "Creature — Chimera ",
 	        "image_uris": {
 	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Boundless%20Flight.png"
+	        }
+	    },
+	    {
+	        "name": "Omen of Hunger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{F}{B}",
+	        "type": "Creature — Angel Reflection ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Omen%20of%20Hunger.png"
+	        }
+	    },
+	    {
+	        "name": "Flowsnail",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{F}{R}",
+	        "type": "Creature — Jellyfish Snail ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Flowsnail.png"
+	        }
+	    },
+	    {
+	        "name": "Balutr Runners",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{F}{G}",
+	        "type": "Creature — Human Wolf Scout ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Balutr%20Runners.png"
+	        }
+	    },
+	    {
+	        "name": "Shadow of Grace",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Enchantment Creature — Icon ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Shadow%20of%20Grace.png"
+	        }
+	    },
+	    {
+	        "name": "Meirel Pathrunner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{B}",
+	        "type": "Creature — Cat Scout ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Meirel%20Pathrunner.png"
+	        }
+	    },
+	    {
+	        "name": "Ardent Grief",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Enchantment Creature — Icon Cleric ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Ardent%20Grief.png"
+	        }
+	    },
+	    {
+	        "name": "Mordel Spiritcaller",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Bear Shaman Warrior ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mordel%20Spiritcaller.png"
+	        }
+	    },
+	    {
+	        "name": "Menithel Demon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Menithel%20Demon.png"
+	        }
+	    },
+	    {
+	        "name": "Mourncast Disciple",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Horror Cleric ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Mourncast%20Disciple.png"
+	        }
+	    },
+	    {
+	        "name": "Skyskif Flying Fish",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Fish Wizard ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Skyskif%20Flying%20Fish.png"
+	        }
+	    },
+	    {
+	        "name": "Upsurge Nemato-Gnathi",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Kindred Enchantment — Fish Entity ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Upsurge%20Nemato-Gnathi.png"
 	        }
 	    },
 	    {
@@ -3438,6 +3510,15 @@
 	        }
 	    },
 	    {
+	        "name": "Lightlace Panthera",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Kindred Enchantment — Cat Entity ",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Lightlace%20Panthera.png"
+	        }
+	    },
+	    {
 	        "name": "Orb-01",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -3447,34 +3528,98 @@
 	        }
 	    },
 	    {
-	        "name": "Wurm Dragon",
+	        "name": "Wurm Dragon-01",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wurm%20Dragon.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wurm%20Dragon-01.png"
 	        }
 	    },
 	    {
-	        "name": "Wurm Dragon",
+	        "name": "Wurm Dragon-02",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wurm%20Dragon.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Wurm%20Dragon-02.png"
 	        }
 	    },
 	    {
-	        "name": "Bird",
+	        "name": "Bird-03",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Token Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Bird.png"
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Bird-03.png"
+	        }
+	    },
+	    {
+	        "name": "Luminous in All Colors",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Luminous%20in%20All%20Colors.png"
+	        }
+	    },
+	    {
+	        "name": "Illuminated Red",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Illuminated%20Red.png"
+	        }
+	    },
+	    {
+	        "name": "Illuminated Blue",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Illuminated%20Blue.png"
+	        }
+	    },
+	    {
+	        "name": "Illuminated black",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Illuminated%20black.png"
+	        }
+	    },
+	    {
+	        "name": "Illuminated White",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Illuminated%20White.png"
+	        }
+	    },
+	    {
+	        "name": "Illuminated Green",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Illuminated%20Green.png"
+	        }
+	    },
+	    {
+	        "name": "Illuminated Silver",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Token Reminder",
+	        "image_uris": {
+	            "en": "https://rawgithubusercontent.com/Silver-Parabellum/Onigaiko—Future-Past/main/Illuminated%20Silver.png"
 	        }
 	    }
 	]
 	[RareSlot(0)]
+		0 Soaring Chorus
 		0 Sonnet Meirel Lancer
 		0 Resurrection Pools
 		0 Soul Shatter
@@ -3495,15 +3640,18 @@
 		0 Where Our Paths Meet
 		0 Surging Spheres
 		0 Shrouded Pathcensor
+		0 Sunderling
 		0 Aurel Born Through Discord
-		0 Worzel
+		0 Jothi
 		0 Prismatic Drake
 		0 Trade Routes
 		0 Starfall Outlook
 		0 Bitter Inspection
 		0 Zoslera Exiled Visionary
 		0 Ikorian Skyshark
+		0 Prophellos, Hungering Manipulator
 		0 Lasting Discovery
+		0 Skyskif Flying Fish
 		0 Themia Steward of Sanctity
 		0 Zesha Dream Hedonist
 		0 Lisse Hope Through Sin
@@ -3523,7 +3671,6 @@
 		0 Fritter Skitter
 		0 Mordel Civil War
 		0 Iconic Challenger
-		0 Soaring Chorus
 		0 Kornas Forward
 		0 Multaphs Voidweaver
 		0 Meirel Evacuator
@@ -3533,7 +3680,7 @@
 		0 Duraval Starmapper
 		0 Meditation
 		0 Disciplined Seeker
-		0 Blade Reifer
+		0 Blade Reifier
 		0 Unweave
 		0 Discover Uncertainty
 		0 Trace the Stars
@@ -3578,7 +3725,7 @@
 		0 Tofnet Ranger
 		0 Awakened Automaton
 		0 Coalesced Company
-		0 Worzel Awakened Flock
+		0 Jothi Awakened Flock
 		0 Outland Riftsower
 		0 Trailing Tethers
 		0 Cerise Auger of Flow
@@ -3591,10 +3738,12 @@
 		0 Lisses Drakesteel Phylactery
 		0 Our March Wont End
 		0 Hengs Intercession
+		0 Sanctum Sanctuary
 		0 Murkross Shaman
 		0 Ruthless Pathfinder
 		0 Gael Spiteflame Phoenix
 		0 Cartographers Survey
+		0 Outlands Duelists
 		0 Outlands Caretaker
 		0 Unexpected Predator
 		0 Snowscaper Bakunawa
@@ -3622,26 +3771,30 @@
 		0 Encouraging Passage
 		0 Nurtured Landscape
 		0 Forgiving Monument
-		0 Fieldmist Borderpike
-		0 Fieldvein Borderpike
-		0 Firefield Borderpike
-		0 Wildfield Borderpike
-		0 Clovenfield Borderpike
-		0 Mistvein Borderpike
-		0 Mistfire Borderpike
-		0 Wildmist Borderpike
-		0 Clovenmist Borderpike
-		0 Firewild Borderpike
-		0 Clovenfire Borderpike
-		0 Veinfire Borderpike
-		0 Veinwild Borderpike
-		0 Clovenvein Borderpike
-		0 Clovenwild Borderpike
 		0 Yearn for the Sky
 		0 Morraire Shimmer Patrol
 		0 Homestead Pair
+		0 Giver of Peace
+		0 Storm Striker
+		0 Lizturbance
+		0 Bare Your Fangs
+		0 Cervus Sprouting
+		0 Ambitious Haze
+		0 Campsite
+		0 Kilnhart Smoghorn
 		0 Boundless Flight
+		0 Omen of Hunger
+		0 Flowsnail
+		0 Balutr Runners
+		0 Shadow of Grace
+		0 Meirel Pathrunner
+		0 Ardent Grief
+		0 Mordel Spiritcaller
+		0 Menithel Demon
+		0 Mourncast Disciple
+		0 Upsurge Nemato-Gnathi
 		0 Feather Piper
+		0 Lightlace Panthera
 	[CommonSlot(0)]
 		0 Meso Meso
 		0 Staggering Spires
@@ -3753,7 +3906,7 @@
 		0 Historys Weave
 		0 Otherworldly Entrance
 		0 Turbulent Aether
-		0 Snow Worn Peaks
+		0 Wind Worn Peaks
 		0 Your Strength is Fading
 		0 Aspect of Moth
 		0 Pathfinder Wurm
