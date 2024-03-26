@@ -998,11 +998,21 @@
 	    {
 	        "name": "Mordel Civil War",
 	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Battle — Seige",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Mordel%20Civil%20War.png"
-	        }
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Mordel%20Civil%20War.png",
+	        },
+		    "back": {
+            "name": "Kera, Mordel's New Hope",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Kera%20Mordels%20New%20Hope.png",
+            },
+            "type": "Creature",
+            "subtypes": [
+                "Human Warrior"
+            ]
+        	}
 	    },
 	    {
 	        "name": "Iconic Challenger",
@@ -1897,15 +1907,6 @@
 	        "type": "Token Creature — Elemental Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Elemental%20Demon-01.png"
-	        }
-	    },
-	    {
-	        "name": "Kera Mordels New Hope",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Legendary Creature — Human Warrior ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Kera%20Mordels%20New%20Hope.png"
 	        }
 	    },
 	    {
@@ -2833,10 +2834,20 @@
 	        "name": "Remnants of the War",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}{G}",
-	        "type": "Battle — Siege",
+	        "type": "Battle — Seige",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Remnants%20of%20the%20War.png"
-	        }
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Remnants%20of%20the%20War.png",
+	        },
+		    "back": {
+            "name": "Guardian of the Cinders",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Guardian%20of%20the%20Cinders.png",
+            },
+            "type": "Enchantment Creature",
+            "subtypes": [
+                "Icon Warlock"
+            ]
+        }
 	    },
 	    {
 	        "name": "Latent Powerstone",
@@ -2863,15 +2874,6 @@
 	        "type": "Creature — Fish Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Calamitous%20Koi.png"
-	        }
-	    },
-	    {
-	        "name": "Guardian of the Cinders",
-	        "rarity": "uncommon",
-	        "mana_cost": "",
-	        "type": "Enchantment Creature — Icon Warlock ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Guardian%20of%20the%20Cinders.png"
 	        }
 	    },
 	    {
