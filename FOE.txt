@@ -4525,6 +4525,7 @@
 {
 	"name": "Frontiers of Eternity",
 	"withReplacement": true,
+	"cardback": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/513b7bfa-42c9-4d08-ad6c-8e5d478c42d3/dalfpib-83f22b02-5802-40b4-901b-3eecf0ca2058.png/v1/fill/w_1024,h_1463,q_80,strp/unofficial_magic_the_gathering_six_color_card_back_by_lordnyriox_dalfpib-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzUxM2I3YmZhLTQyYzktNGQwOC1hZDZjLThlNWQ0NzhjNDJkM1wvZGFsZnBpYi04M2YyMmIwMi01ODAyLTQwYjQtOTAxYi0zZWVjZjBjYTIwNTgucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OGsglye34mbde4lkXNsDFFCl83jSzl1zNBLep-hhyKY",
 	"boostersPerPlayer": 3,
 	"predeterminedLayouts": [
 		{"Rare": 85, "Mythic": 15},
@@ -4545,7 +4546,6 @@
 				"CommonF": 1,
 				"Sanctum": 1,
   				"Land": 2,
-				"BasicPikes": 1,
   				"Reminder": 1
 			}
 		},
@@ -4562,7 +4562,6 @@
 				"CommonF": 1,
 				"Sanctum": 1,
   				"Land": 2,
-				"BasicPikes": 1,
   				"Reminder": 1
 			}
 		},
@@ -4612,7 +4611,7 @@
 		1 Zoslera Exiled Visionary
 	[Uncommon]
 		5 Ambitious Haze
-		2 Ancient Font
+		5 Ancient Font
 		5 Ancient Sigils
 		5 Ardent Grief
 		5 Awakened Automaton
@@ -4628,7 +4627,7 @@
 		5 Cartographers Survey
 		5 Cerise Auger of Flow
 		5 Cervus Sprouting
-		2 Chimarel Clearing
+		5 Chimarel Clearing
 		5 Cloudscape Gargantua
 		5 Coalesced Company
 		5 Coiling Jailer
@@ -4641,13 +4640,13 @@
 		5 Dissenting Experience
 		5 Ditto Dagger
 		5 Drake Mentor
-		2 Drake-Brood Peak
+		5 Drake-Brood Peak
 		5 Duraval Starmapper
 		5 Duskcharm Drake
 		5 Embrace Fascination
 		5 Embracing Intonation
 		5 Encouraging Passage
-		2 Enduring Woodland
+		5 Enduring Woodland
 		5 Fadove Battle-Cleric
 		5 Feather Piper
 		5 Fervor of the Flame
@@ -4722,7 +4721,7 @@
 		5 Shadow of Grace
 		5 Shimmer From Beyond
 		5 Sisters in Sorrow
-		2 Skycliff Dens
+		5 Skycliff Dens
 		5 Slipstream Cyprinus
 		5 Snowscaper Bakunawa
 		5 Spire of Rebirth
@@ -4765,7 +4764,7 @@
 		9 Historys Weave
 		9 Pathfinder Wurm
 		9 Apprentices Drake
-		2 Tiderock Passage
+		9 Tiderock Passage
 		9 Vestige Prowler
 		9 Veneer Walker
 		9 Bropheria
@@ -4784,7 +4783,7 @@
 		9 A World Without You
 		9 Dreamgill Salamander
 		9 Pathborn Stinger
-		2 Eroding River
+		9 Eroding River
 		9 Smogborn Pilferer
 		9 Omenspeaker Avakin
 		9 Hedgecrow
@@ -4803,7 +4802,7 @@
 		9 Your Strength is Fading
 		9 Aspect of Moth		
 		9 Clanless Combatant
-		2 Bosket Path
+		9 Bosket Path
 		9 Fiery Absolver
 		9 Mordel Shaper
 		9 Drougth Explorer
@@ -4823,7 +4822,7 @@
 		9 Warforged Pair
 		9 Depthscout
 		9 Guide With and Through
-		2 Gold-Streaked Obelisks
+		9 Gold-Streaked Obelisks
 		9 Meirel Traveller
 		9 Shard Bearer
 		9 Clanless Weaver
@@ -4840,7 +4839,7 @@
 		9 Scale the Heights
 		9 Turbulent Aether
 		9 Surubim Harpoon
-		2 Enlightening Crescents
+		9 Enlightening Crescents
 		9 Dust Converter
 		9 Drougth Attuner
 		9 Adventurous Pair
@@ -4864,10 +4863,10 @@
 		9 Roduths Guard
 		9 Mural of Harmony
 		9 A Flock is Born
-		2 Wind Worn Peaks
+		9 Wind Worn Peaks
 	[CommonW]
 		9 Meso Meso
-		2 Staggering Spires
+		9 Staggering Spires
 		9 Marching Partisan
 		9 Fadove Lawkeeper
 		9 Focus of Fadove
@@ -4887,7 +4886,7 @@
 		9 Pathfinder Wurm
 	[CommonU]
 		9 Apprentices Drake
-		2 Tiderock Passage
+		9 Tiderock Passage
 		9 Vestige Prowler
 		9 Veneer Walker
 		9 Bropheria
@@ -4907,7 +4906,7 @@
 		9 Dreamgill Salamander
 	[CommonB]
 		9 Pathborn Stinger
-		2 Eroding River
+		9 Eroding River
 		9 Smogborn Pilferer
 		9 Omenspeaker Avakin
 		9 Hedgecrow
@@ -4927,7 +4926,7 @@
 		9 Aspect of Moth		
 	[CommonR]
 		9 Clanless Combatant
-		2 Bosket Path
+		9 Bosket Path
 		9 Fiery Absolver
 		9 Mordel Shaper
 		9 Drougth Explorer
@@ -4948,7 +4947,7 @@
 	[CommonG]
 		9 Depthscout
 		9 Guide With and Through
-		2 Gold-Streaked Obelisks
+		9 Gold-Streaked Obelisks
 		9 Meirel Traveller
 		9 Shard Bearer
 		9 Clanless Weaver
@@ -4966,7 +4965,7 @@
 		9 Turbulent Aether
 		9 Surubim Harpoon
 	[CommonF]
-		2 Enlightening Crescents
+		9 Enlightening Crescents
 		9 Dust Converter
 		9 Drougth Attuner
 		9 Adventurous Pair
@@ -4999,27 +4998,6 @@
 		9 Staggering Spires
 		9 Tiderock Passage
 		9 Wind Worn Peaks
-		2 Frontier Sanctuary
-		4 Bloomrock Enclave
-		4 Brightblossom Enclave
-		4 Cascading Cleave
-		4 Glowspore Enclave
-		4 Mistlake Enclave
-		4 Moonglow Enclave
-		4 Soaring Tethers
-		4 Sunswept Prairie
-		4 Thyrsine Way
-		4 Vibrant Knoll
-		4 Vineglare Enclave
-		4 Windy Weft
-		4 Hostile Pillars
-		4 Duraval Lushfields
-		4 Dawnbreak Resort
-		7 Sainard Boneyard
-		7 Carrigol Spires
-		7 Dawnshroud Castle
-		7 Soarwing Coast
-		7 Highland Vale
 	[Land]
 		3 Iridescent Fault
 		3 Iridescent Forest
@@ -5032,18 +5010,18 @@
 		3 Splitting Caldera
 		1 Frontier Sanctuary
 		3 Mirdrim Summit
-		1 Bloomrock Enclave
-		1 Brightblossom Enclave
-		1 Cascading Cleave
-		1 Glowspore Enclave
-		1 Mistlake Enclave
-		1 Moonglow Enclave
-		1 Soaring Tethers
-		1 Sunswept Prairie
-		1 Thyrsine Way
-		1 Vibrant Knoll
-		1 Vineglare Enclave
-		1 Windy Weft
+		5 Bloomrock Enclave
+		5 Brightblossom Enclave
+		5 Cascading Cleave
+		5 Glowspore Enclave
+		5 Mistlake Enclave
+		5 Moonglow Enclave
+		5 Soaring Tethers
+		5 Sunswept Prairie
+		5 Thyrsine Way
+		5 Vibrant Knoll
+		5 Vineglare Enclave
+		5 Windy Weft
 		5 Roaming Ruins
 		5 Errant Pillar
 		5 Devoted Riftpike
@@ -5051,9 +5029,9 @@
 		5 Listless Monument
 		5 Persisting Timepiece
 		5 Ominous Temple
-		1 Hostile Pillars
-		1 Duraval Lushfields
-		1 Dawnbreak Resort
+		5 Hostile Pillars
+		5 Duraval Lushfields
+		5 Dawnbreak Resort
 		9 Alpine Meadow
 		9 Barren Fissure
 		9 Crackling Expanse
@@ -5077,50 +5055,50 @@
 		9 Drifting Crevasse
 		9 Drifting Sands
 		9 Glittering Vale
-		1 Sainard Boneyard
-		1 Carrigol Spires
-		1 Dawnshroud Castle
-		1 Soarwing Coast
-		1 Highland Vale
+		9 Sainard Boneyard
+		9 Carrigol Spires
+		9 Dawnshroud Castle
+		9 Soarwing Coast
+		9 Highland Vale
 	[BasicPikes]
-		5 Clovenfield Borderpike
-		5 Clovenfire Borderpike
-		5 Clovenmist Borderpike
-		5 Clovenvein Borderpike
-		5 Clovenwild Borderpike
-		5 Fieldmist Borderpike
-		5 Fieldvein Borderpike
-		5 Firefield Borderpike
-		5 Firewild Borderpike
-		5 Mistfire Borderpike
-		5 Mistvein Borderpike
-		5 Veinfire Borderpike
-		5 Veinwild Borderpike
-		5 Wildfield Borderpike
-		5 Wildmist Borderpike
-		10 Forest-01
-		10 Forest-03
-		10 Forest-02
-		10 Forest-04
-		10 Island-01
-		10 Island-03
-		10 Island-02
-		10 Island-04
-		10 Mountain-01
-		10 Mountain-02
-		10 Mountain-03
-		10 Mountain-04
-		10 Swamp-01
-		10 Swamp-03
-		10 Swamp-02
-		10 Swamp-04
-		10 Plains-04
-		10 Fault-01
-		10 Fault-03
-		10 Fault-02
-		10 Fault-04
-		10 Plains-01
-		10 Plains-03
-		10 Plains-02
+		0 Clovenfield Borderpike
+		0 Clovenfire Borderpike
+		0 Clovenmist Borderpike
+		0 Clovenvein Borderpike
+		0 Clovenwild Borderpike
+		0 Fieldmist Borderpike
+		0 Fieldvein Borderpike
+		0 Firefield Borderpike
+		0 Firewild Borderpike
+		0 Mistfire Borderpike
+		0 Mistvein Borderpike
+		0 Veinfire Borderpike
+		0 Veinwild Borderpike
+		0 Wildfield Borderpike
+		0 Wildmist Borderpike
+		0 Forest-01
+		0 Forest-03
+		0 Forest-02
+		0 Forest-04
+		0 Island-01
+		0 Island-03
+		0 Island-02
+		0 Island-04
+		0 Mountain-01
+		0 Mountain-02
+		0 Mountain-03
+		0 Mountain-04
+		0 Swamp-01
+		0 Swamp-03
+		0 Swamp-02
+		0 Swamp-04
+		0 Plains-04
+		0 Fault-01
+		0 Fault-03
+		0 Fault-02
+		0 Fault-04
+		0 Plains-01
+		0 Plains-03
+		0 Plains-02
 	[Reminder]
 		500 Sanctum Reminder
