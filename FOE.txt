@@ -4535,32 +4535,34 @@
 		"Rare": {
 			"weight": 1,
 			"slots": {
+				"Uncommon": 3,
+				"Common": 2,
+				"CommonW": 1,
+				"CommonU": 1,
+				"CommonB": 1,
+				"CommonR": 1,
+				"CommonG": 1,
+				"CommonF": 1,
 				"Sanctum": 1,
-  				"Uncommon": 3,
-  				"Common": 2,
-  				"CommonW": 1,
-  				"CommonU": 1,
-  				"CommonB": 1,
-  				"CommonR": 1,
-  				"CommonG": 1,
-  				"CommonF": 1,
   				"Land": 2,
+				"BasicPikes": 1,
   				"Reminder": 1
 			}
 		},
 		"Mythic": {
 			"weight": 1,
 			"slots": {
+				"Uncommon": 3,
+				"Common": 2,
+				"CommonW": 1,
+				"CommonU": 1,
+				"CommonB": 1,
+				"CommonR": 1,
+				"CommonG": 1,
+				"CommonF": 1,
 				"Sanctum": 1,
-  				"Uncommon": 3,
-  				"Common": 2,
-  				"CommonW": 1,
-  				"CommonU": 1,
-  				"CommonB": 1,
-  				"CommonR": 1,
-  				"CommonG": 1,
-  				"CommonF": 1,
   				"Land": 2,
+				"BasicPikes": 1,
   				"Reminder": 1
 			}
 		},
@@ -4608,7 +4610,6 @@
 		1 Trade Routes
 		1 Where Our Paths Meet
 		1 Zoslera Exiled Visionary
-
 	[Uncommon]
 		5 Ambitious Haze
 		2 Ancient Font
@@ -4743,41 +4744,6 @@
 		5 Winding Guide
 		5 Worldcleave
 		5 Yearn for the Sky
-	[Sanctum]
-		3 Ancient Sigils
-		3 Chimarel Clearing
-		3 Drake-Brood Peak
-		3 Enduring Woodland
-		3 Sanctum Sanctuary
-		3 Skycliff Dens
-		7 Bosket Path
-		7 Enlightening Crescents
-		7 Eroding River
-		7 Gold-Streaked Obelisks
-		7 Staggering Spires
-		7 Tiderock Passage
-		7 Wind Worn Peaks
-		2 Frontier Sanctuary
-		4 Bloomrock Enclave
-		4 Brightblossom Enclave
-		4 Cascading Cleave
-		4 Glowspore Enclave
-		4 Mistlake Enclave
-		4 Moonglow Enclave
-		4 Soaring Tethers
-		4 Sunswept Prairie
-		4 Thyrsine Way
-		4 Vibrant Knoll
-		4 Vineglare Enclave
-		4 Windy Weft
-		4 Hostile Pillars
-		4 Duraval Lushfields
-		4 Dawnbreak Resort
-		7 Sainard Boneyard
-		7 Carrigol Spires
-		7 Dawnshroud Castle
-		7 Soarwing Coast
-		7 Highland Vale
 	[Common]
 		9 Meso Meso
 		2 Staggering Spires
@@ -5019,6 +4985,41 @@
 		9 Pathworn Blade
 		9 Emigrating Pilgrim
 		9 When Words Dont Work
+	[Sanctum]
+		3 Sanctum Sanctuary
+		5 Ancient Sigils
+		5 Chimarel Clearing
+		5 Drake-Brood Peak
+		5 Enduring Woodland
+		5 Skycliff Dens
+		9 Bosket Path
+		9 Enlightening Crescents
+		9 Eroding River
+		9 Gold-Streaked Obelisks
+		9 Staggering Spires
+		9 Tiderock Passage
+		9 Wind Worn Peaks
+		2 Frontier Sanctuary
+		4 Bloomrock Enclave
+		4 Brightblossom Enclave
+		4 Cascading Cleave
+		4 Glowspore Enclave
+		4 Mistlake Enclave
+		4 Moonglow Enclave
+		4 Soaring Tethers
+		4 Sunswept Prairie
+		4 Thyrsine Way
+		4 Vibrant Knoll
+		4 Vineglare Enclave
+		4 Windy Weft
+		4 Hostile Pillars
+		4 Duraval Lushfields
+		4 Dawnbreak Resort
+		7 Sainard Boneyard
+		7 Carrigol Spires
+		7 Dawnshroud Castle
+		7 Soarwing Coast
+		7 Highland Vale
 	[Land]
 		3 Iridescent Fault
 		3 Iridescent Forest
@@ -5053,21 +5054,6 @@
 		1 Hostile Pillars
 		1 Duraval Lushfields
 		1 Dawnbreak Resort
-		5 Clovenfield Borderpike
-		5 Clovenfire Borderpike
-		5 Clovenmist Borderpike
-		5 Clovenvein Borderpike
-		5 Clovenwild Borderpike
-		5 Fieldmist Borderpike
-		5 Fieldvein Borderpike
-		5 Firefield Borderpike
-		5 Firewild Borderpike
-		5 Mistfire Borderpike
-		5 Mistvein Borderpike
-		5 Veinfire Borderpike
-		5 Veinwild Borderpike
-		5 Wildfield Borderpike
-		5 Wildmist Borderpike
 		9 Alpine Meadow
 		9 Barren Fissure
 		9 Crackling Expanse
@@ -5096,5 +5082,45 @@
 		1 Dawnshroud Castle
 		1 Soarwing Coast
 		1 Highland Vale
+	[BasicPikes]
+		5 Clovenfield Borderpike
+		5 Clovenfire Borderpike
+		5 Clovenmist Borderpike
+		5 Clovenvein Borderpike
+		5 Clovenwild Borderpike
+		5 Fieldmist Borderpike
+		5 Fieldvein Borderpike
+		5 Firefield Borderpike
+		5 Firewild Borderpike
+		5 Mistfire Borderpike
+		5 Mistvein Borderpike
+		5 Veinfire Borderpike
+		5 Veinwild Borderpike
+		5 Wildfield Borderpike
+		5 Wildmist Borderpike
+		10 Forest-01
+		10 Forest-03
+		10 Forest-02
+		10 Forest-04
+		10 Island-01
+		10 Island-03
+		10 Island-02
+		10 Island-04
+		10 Mountain-01
+		10 Mountain-02
+		10 Mountain-03
+		10 Mountain-04
+		10 Swamp-01
+		10 Swamp-03
+		10 Swamp-02
+		10 Swamp-04
+		10 Plains-04
+		10 Fault-01
+		10 Fault-03
+		10 Fault-02
+		10 Fault-04
+		10 Plains-01
+		10 Plains-03
+		10 Plains-02
 	[Reminder]
 		500 Sanctum Reminder
