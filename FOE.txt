@@ -491,7 +491,7 @@
 	    {
 	        "name": "Influence of the Paths",
 	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Influence%20of%20the%20Paths.png"
@@ -863,7 +863,7 @@
 	    {
 	        "name": "Journey Through the Self",
 	        "rarity": "common",
-	        "mana_cost": "{2}{C}",
+	        "mana_cost": "{1}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Journey%20Through%20the%20Self.png"
@@ -998,7 +998,7 @@
 	    {
 	        "name": "Mordel Civil War",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Battle — Seige",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Mordel%20Civil%20War.png",
