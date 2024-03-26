@@ -4655,7 +4655,6 @@
 		5 Fritter Skitter
 		5 Gael Spiteflame Phoenix
 		5 Giver of Peace
-		5 Guardian of the Cinders
 		5 Haphazard and Unbound
 		5 Hengs Intercession
 		5 Homestead Pair
@@ -4671,7 +4670,6 @@
 		5 Inspiring Dunes
 		5 Jothi Awakened Flock
 		5 Julius Skyknight of Morriare
-		5 Kera Mordels New Hope
 		5 Keras Appointed
 		5 Kilnhart Smoghorn
 		5 Kornas Forward
