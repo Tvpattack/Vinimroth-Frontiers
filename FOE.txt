@@ -809,7 +809,7 @@
 	    {
 	        "name": "Rustic Cultivator",
 	        "rarity": "common",
-	        "mana_cost": "{1}",
+	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Rustic%20Cultivator.png"
@@ -1196,7 +1196,7 @@
 	    },
 	    {
 	        "name": "My Hunger Will Kill You",
-	        "rarity": "rare",
+	        "rarity": "uncommon",
 	        "mana_cost": "{4}",
 	        "type": "Legendary Enchantment",
 	        "image_uris": {
@@ -1223,7 +1223,7 @@
 	    },
 	    {
 	        "name": "Gold-Streaked Obelisks",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
@@ -2331,8 +2331,8 @@
 	    },
 	    {
 	        "name": "Enduring Woodland",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{G}",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Enduring%20Woodland.png"
@@ -2433,7 +2433,7 @@
 	    },
 	    {
 	        "name": "Jothi Awakened Flock",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Legendary Planeswalker — Jothi ",
 	        "image_uris": {
@@ -2477,12 +2477,12 @@
 	        }
 	    },
 	    {
-	        "name": "Cerise Auger of Flow",
-	        "rarity": "uncommon",
+	        "name": "Cerise Augur of Flow",
+	        "rarity": "rare",
 	        "mana_cost": "{2}{C}{W}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Cerise%20Auger%20of%20Flow.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Cerise%20Augur%20of%20Flow.png"
 	        }
 	    },
 	    {
@@ -2622,7 +2622,7 @@
 	    },
 	    {
 	        "name": "Gael Spiteflame Phoenix",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{2}{U}{B}{R}",
 	        "type": "Legendary Creature — Phoenix ",
 	        "image_uris": {
@@ -4576,39 +4576,42 @@
 		1 Themia Steward of Sanctity
 		1 Zesha Dream Hedonist
 	[Rare]
-		1 Aurel Born Through Discord
-		1 Bitter Inspection
-		1 Called to Eternity
-		1 Chirps Spice Seeker
-		1 Heng Hien Reifer of Justice
-		1 I Will Walk My Own Path
-		1 Ikorian Skyshark
-		1 Jothi
-		1 Kaln-Ocean Streamliner
-		1 Korna Adventuring Historian
-		1 Lasting Discovery
-		1 Marie Hungerbound
-		1 Melodia Explorer at Heart
-		1 My Hunger Will Kill You
-		1 Outlands Chimera
-		1 Pathshaping
-		1 Prismatic Drake
-		1 Prophellos, Hungering Manipulator
-		1 Resurrection Pools
-		1 Shrouded Pathcensor
-		1 Skyskif Flying Fish
-		1 Soaring Chorus
-		1 Sonnet Meirel Lancer
-		1 Soul of Vinimroth
-		1 Soul Shatter
-		1 Starfall Outlook
-		1 Sunderling
-		1 Surging Spheres
-		1 The Planar Portal
-		1 The Shattering of Meirel
-		1 Trade Routes
-		1 Where Our Paths Meet
-		1 Zoslera Exiled Visionary
+		2 Aurel Born Through Discord
+		2 Bitter Inspection
+		2 Called to Eternity
+		2 Chirps Spice Seeker
+		2 Heng Hien Reifer of Justice
+		2 I Will Walk My Own Path
+		2 Ikorian Skyshark
+		2 Jothi
+		2 Jothi Awakened Flock
+		2 Kaln-Ocean Streamliner
+		2 Korna Adventuring Historian
+		2 Lasting Discovery
+		2 Marie Hungerbound
+		2 Melodia Explorer at Heart
+		2 Outlands Chimera
+		2 Pathshaping
+		2 Prismatic Drake
+		2 Prophellos, Hungering Manipulator
+		2 Resurrection Pools
+		2 Shrouded Pathcensor
+		2 Skyskif Flying Fish
+		2 Soaring Chorus
+		2 Sonnet Meirel Lancer
+		2 Soul of Vinimroth
+		2 Soul Shatter
+		2 Starfall Outlook
+		2 Sunderling
+		2 Surging Spheres
+		2 The Planar Portal
+		2 The Shattering of Meirel
+		2 Trade Routes
+		2 Where Our Paths Meet
+		2 Zoslera Exiled Visionary
+		2 Cerise Augur of Flow
+		2 Gael Spiteflame Phoenix
+		2 Tofnet Ranger
 	[Uncommon]
 		5 Ambitious Haze
 		5 Ancient Font
@@ -4625,7 +4628,6 @@
 		5 Calamitous Koi
 		5 Campsite
 		5 Cartographers Survey
-		5 Cerise Auger of Flow
 		5 Cervus Sprouting
 		5 Chimarel Clearing
 		5 Cloudscape Gargantua
@@ -4646,14 +4648,12 @@
 		5 Embrace Fascination
 		5 Embracing Intonation
 		5 Encouraging Passage
-		5 Enduring Woodland
 		5 Fadove Battle-Cleric
 		5 Feather Piper
 		5 Fervor of the Flame
 		5 Flowsnail
 		5 Forgiving Monument
 		5 Fritter Skitter
-		5 Gael Spiteflame Phoenix
 		5 Giver of Peace
 		5 Haphazard and Unbound
 		5 Hengs Intercession
@@ -4668,7 +4668,6 @@
 		5 Ignelscor Weaver
 		5 Ignelscor Witch
 		5 Inspiring Dunes
-		5 Jothi Awakened Flock
 		5 Julius Skyknight of Morriare
 		5 Keras Appointed
 		5 Kilnhart Smoghorn
@@ -4697,9 +4696,11 @@
 		5 Multaphs Voidweaver
 		5 Murkross Shaman
 		5 Murkross Spiritcaller
+		5 My Hunger Will Kill You
 		5 New Mordel Fireweaver
 		5 Nurtured Landscape
 		5 Omen of Hunger
+		5 Gold-Streaked Obelisks
 		5 Our March Wont End
 		5 Outland Riftsower
 		5 Outlands Caretaker
@@ -4728,7 +4729,6 @@
 		5 Stir the Aether
 		5 Storm Striker
 		5 Those Lost in the Paths
-		5 Tofnet Ranger
 		5 Trace the Stars
 		5 Trailing Tethers
 		5 Trailway Gates
@@ -4822,7 +4822,7 @@
 		9 Warforged Pair
 		9 Depthscout
 		9 Guide With and Through
-		9 Gold-Streaked Obelisks
+		9 Enduring Woodland
 		9 Meirel Traveller
 		9 Shard Bearer
 		9 Clanless Weaver
@@ -4947,7 +4947,7 @@
 	[CommonG]
 		9 Depthscout
 		9 Guide With and Through
-		9 Gold-Streaked Obelisks
+		9 Enduring Woodland
 		9 Meirel Traveller
 		9 Shard Bearer
 		9 Clanless Weaver
@@ -4989,12 +4989,12 @@
 		5 Ancient Sigils
 		5 Chimarel Clearing
 		5 Drake-Brood Peak
-		5 Enduring Woodland
+		5 Gold-Streaked Obelisks
 		5 Skycliff Dens
 		9 Bosket Path
 		9 Enlightening Crescents
 		9 Eroding River
-		9 Gold-Streaked Obelisks
+		9 Enduring Woodland
 		9 Staggering Spires
 		9 Tiderock Passage
 		9 Wind Worn Peaks
