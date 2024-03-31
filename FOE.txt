@@ -2370,7 +2370,7 @@
 	    },
 	    {
 	        "name": "Tofnet Ranger",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{C}{G}",
 	        "type": "Creature — Human Elf Ranger ",
 	        "image_uris": {
@@ -3513,12 +3513,12 @@
 	        }
 	    },
 	    {
-	        "name": "Lightlace Panthera",
+	        "name": "Sunlace Panthera",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Kindred Enchantment — Cat Entity ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Lightlace%20Panthera.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Sunlace%20Panthera.png"
 	        }
 	    },
 	    {
@@ -4674,7 +4674,7 @@
 		5 Kornas Forward
 		5 Latent Powerstone
 		5 Leyline Weaver
-		5 Lightlace Panthera
+		5 Sunlace Panthera
 		5 Lisse Bound by the King
 		5 Lisses Drakesteel Phylactery
 		5 Lizturbance
