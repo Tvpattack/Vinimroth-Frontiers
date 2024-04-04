@@ -89,7 +89,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Clerics%20Tunneler.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Clerics%20Claymore.png"
 	        }
 	    },
 	    {
@@ -4573,7 +4573,7 @@
 {
 	"name": "Frontiers of Eternity",
 	"withReplacement": true,
-	"cardback": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/513b7bfa-42c9-4d08-ad6c-8e5d478c42d3/dalfpib-83f22b02-5802-40b4-901b-3eecf0ca2058.png/v1/fill/w_1024,h_1463,q_80,strp/unofficial_magic_the_gathering_six_color_card_back_by_lordnyriox_dalfpib-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ2MyIsInBhdGgiOiJcL2ZcLzUxM2I3YmZhLTQyYzktNGQwOC1hZDZjLThlNWQ0NzhjNDJkM1wvZGFsZnBpYi04M2YyMmIwMi01ODAyLTQwYjQtOTAxYi0zZWVjZjBjYTIwNTgucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OGsglye34mbde4lkXNsDFFCl83jSzl1zNBLep-hhyKY",
+	"cardback": "blob:https://mega.nz/200873d3-ce01-465e-80ee-fa0f8b072c0c.jpg",
 	"boostersPerPlayer": 3,
 	"predeterminedLayouts": [
 		{"Rare": 85, "Mythic": 15},
@@ -4584,8 +4584,9 @@
 		"Rare": {
 			"weight": 1,
 			"slots": {
+				"Arcun": 1,
 				"Uncommon": 3,
-				"Common": 2,
+				"Common": 3,
 				"CommonW": 1,
 				"CommonU": 1,
 				"CommonB": 1,
@@ -4600,8 +4601,9 @@
 		"Mythic": {
 			"weight": 1,
 			"slots": {
+				"Arcun": 1,
 				"Uncommon": 3,
-				"Common": 2,
+				"Common": 3,
 				"CommonW": 1,
 				"CommonU": 1,
 				"CommonB": 1,
@@ -4660,6 +4662,37 @@
 		2 Cerise Augur of Flow
 		2 Gael Spiteflame Phoenix
 		2 Tofnet Ranger
+	[Arcun]
+		5 Ardent Grief
+		5 Balutr Runners
+		5 Boundless Flight
+		5 Calamitous Koi
+		5 Coiling Jailer
+		5 Cydina Storm Drake
+		5 Drake Mentor
+		5 Duraval Starmapper
+		5 Feather Piper
+		5 Flowsnail
+		5 Ignelscor Frontliner
+		5 Ignelscor Weaver
+		5 Latent Powerstone
+		5 Meirel Pathrunner
+		5 Menithel Demon
+		5 Mordel Spiritcaller
+		5 Morraire Shimmer Patrol
+		5 Mourncast Disciple
+		5 Omen of Hunger
+		5 Outlands Duelists
+		5 Pathward Riftcalling
+		5 Promise of Hunger
+		5 Remnants of the War
+		5 Renewer of Bloodlines
+		5 Shadow of Grace
+		5 Sisters in Sorrow
+		5 Sunlace Panthera
+		5 Those Lost in the Paths
+		5 Upsurge Nemato-Gnathi
+		5 Whisperer of the Paths
 	[Uncommon]
 		5 Clerics Claymore
 		5 Ascended Shell
@@ -4668,42 +4701,32 @@
 		5 Awakened Reactionary
 		5 Ancient Font
 		5 Ancient Sigils
-		5 Ardent Grief
 		5 Awakened Automaton
 		5 Awakened Wurm
-		5 Balutr Runners
 		5 Bare Your Fangs
 		5 Blade Reifier
-		5 Boundless Flight
 		5 Boundless Hollow
 		5 Broodmages Furor
-		5 Calamitous Koi
 		5 Campsite
 		5 Cartographers Survey
 		5 Cervus Sprouting
 		5 Chimarel Clearing
 		5 Cloudscape Gargantua
 		5 Coalesced Company
-		5 Coiling Jailer
 		5 Crustacean Surge
 		5 Crystalline Refraction
-		5 Cydina Storm Drake
 		5 Dawncoil Burnisher
 		5 Disciplined Seeker
 		5 Discover Uncertainty
 		5 Dissenting Experience
 		5 Ditto Dagger
-		5 Drake Mentor
 		5 Drake-Brood Peak
-		5 Duraval Starmapper
 		5 Duskcharm Drake
 		5 Embrace Fascination
 		5 Embracing Intonation
 		5 Encouraging Passage
 		5 Fadove Battle-Cleric
-		5 Feather Piper
 		5 Fervor of the Flame
-		5 Flowsnail
 		5 Forgiving Monument
 		5 Fritter Skitter
 		5 Giver of Peace
@@ -4715,18 +4738,14 @@
 		5 I Know What You Mean to Me
 		5 I Wont Stand Alone
 		5 Iconic Challenger
-		5 Ignelscor Frontliner
 		5 Ignelscor Jidiao
-		5 Ignelscor Weaver
 		5 Ignelscor Witch
 		5 Inspiring Dunes
 		5 Julius Skyknight of Morriare
 		5 Keras Appointed
 		5 Kilnhart Smoghorn
 		5 Kornas Forward
-		5 Latent Powerstone
 		5 Leyline Weaver
-		5 Sunlace Panthera
 		5 Lisse Bound by the King
 		5 Lisses Drakesteel Phylactery
 		5 Lizturbance
@@ -4734,64 +4753,48 @@
 		5 Lost Sunset
 		5 Meditation
 		5 Meirel Evacuator
-		5 Meirel Pathrunner
 		5 Meirel Pathwalker
-		5 Menithel Demon
 		5 Mentor of Engagement
 		5 Mesmeric Peaks
 		5 Monument to Forever
 		5 Moonscale Koi
 		5 Mordel Civil War
-		5 Mordel Spiritcaller
-		5 Morraire Shimmer Patrol
-		5 Mourncast Disciple
 		5 Multaphs Voidweaver
 		5 Murkross Shaman
 		5 Murkross Spiritcaller
 		5 My Hunger Will Kill You
 		5 New Mordel Fireweaver
 		5 Nurtured Landscape
-		5 Omen of Hunger
 		5 Gold-Streaked Obelisks
 		5 Our March Wont End
 		5 Outland Riftsower
 		5 Outlands Caretaker
-		5 Outlands Duelists
 		5 Outlands Recruiter
 		5 Parasitic Roots
-		5 Pathward Riftcalling
-		5 Promise of Hunger
 		5 Ranging Symbiote
 		5 Realmbound Spellshaper
-		5 Remnants of the War
 		5 Rend Hope
-		5 Renewer of Bloodlines
 		5 Rest For a New World
 		5 Ruthless Pathfinder
 		5 Safeguarded Pair
 		2 Sanctum Sanctuary
 		5 Seasoned Flamefinder
-		5 Shadow of Grace
 		5 Shimmer From Beyond
-		5 Sisters in Sorrow
 		5 Skycliff Dens
 		5 Slipstream Cyprinus
 		5 Snowscaper Bakunawa
 		5 Spire of Rebirth
 		5 Stir the Aether
 		5 Storm Striker
-		5 Those Lost in the Paths
 		5 Trace the Stars
 		5 Trailing Tethers
 		5 Trailway Gates
 		5 Unending Exploration
 		5 Unexpected Predator
 		5 Unweave
-		5 Upsurge Nemato-Gnathi
 		5 Vertical Shift
 		5 Virulent Attendant
 		5 Waterscape Mystic
-		5 Whisperer of the Paths
 		5 Winding Guide
 		5 Worldcleave
 		5 Yearn for the Sky
@@ -4926,7 +4929,7 @@
 		9 Outlands Rescinder
 		9 Rising Haze
 		9 Meirel Caretaker
-		9 Outlander Mercenary
+		2 Outlander Mercenary
 		9 Fadove Air Supplier
 		9 Cleric of the Dawn
 		9 Light of Hope
@@ -4940,7 +4943,7 @@
 		9 Tiderock Passage
 		9 Vestige Prowler
 		9 Veneer Walker
-		9 Bropheria
+		2 Bropheria
 		9 Outlands Explorer
 		9 Migratory Flotilla
 		9 Pathwrought Overseer
@@ -4959,7 +4962,7 @@
 		9 Eroding River
 		9 Smogborn Pilferer
 		9 Omenspeaker Avakin
-		9 Hedgecrow
+		2 Hedgecrow
 		9 Avakin Trapper
 		9 Relentless Truthseeker
 		9 Scaled Rippler
@@ -4980,7 +4983,7 @@
 		9 Mordel Shaper
 		9 Drougth Explorer
 		9 Inspiring Recruit
-		9 Sprouting Fumes
+		2 Sprouting Fumes
 		9 Mordel Flamespeaker
 		9 Pathborn Spitter
 		9 Willbournes Flame
@@ -4997,7 +5000,7 @@
 		9 Guide With and Through
 		9 Enduring Woodland
 		9 Meirel Traveller
-		9 Shard Bearer
+		2 Shard Bearer
 		9 Clanless Weaver
 		9 Disciple of the Thicket
 		9 Defector of Mordel
@@ -5018,7 +5021,7 @@
 		9 Adventurous Pair
 		9 Calign
 		9 Avakin Explorer
-		9 Enlisted Arms
+		2 Enlisted Arms
 		9 Drougth Oracle
 		9 Mutated Pioneer
 		9 Perspective Shift
@@ -5032,19 +5035,25 @@
 		9 Emigrating Pilgrim
 	[Sanctum]
 		3 Sanctum Sanctuary
-		5 Ancient Sigils
-		5 Chimarel Clearing
-		5 Drake-Brood Peak
-		5 Gold-Streaked Obelisks
-		5 Skycliff Dens
-		5 The Calm Belt
-		9 Bosket Path
-		9 Enlightening Crescents
-		9 Eroding River
-		9 Enduring Woodland
-		9 Staggering Spires
-		9 Tiderock Passage
-		9 Wind Worn Peaks
+		4 Ancient Sigils
+		4 Chimarel Clearing
+		4 Drake-Brood Peak
+		4 Gold-Streaked Obelisks
+		4 Skycliff Dens
+		4 The Calm Belt
+		7 Bosket Path
+		7 Enlightening Crescents
+		7 Eroding River
+		7 Enduring Woodland
+		7 Staggering Spires
+		7 Tiderock Passage
+		7 Wind Worn Peaks
+		7 Bropheria
+		7 Enlisted Arms
+		7 Hedgecrow
+		7 Outlander Mercenary
+		7 Shard Bearer
+		7 Sprouting Fumes
 	[Land]
 		3 Iridescent Fault
 		3 Iridescent Forest
