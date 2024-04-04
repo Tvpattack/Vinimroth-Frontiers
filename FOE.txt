@@ -76,11 +76,29 @@
 	    },
 	    {
 	        "name": "Clanless Tunneler",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Wurm Scout ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Clanless%20Tunneler.png"
+	        }
+	    },
+	    {
+	        "name": "Clerics Claymore",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Clerics%20Tunneler.png"
+	        }
+	    },
+	    {
+	        "name": "Nirvanha Bloom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Nirvanha%20Bloom.png"
 	        }
 	    },
 	    {
@@ -177,6 +195,27 @@
 	        }
 	    },
 	    {
+	        "name": "Ascended Shell",
+	        "mana_cost": "{5}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Ascended%20Shell.png"
+	        },
+	        "printed names": {
+	            "en": "Ascended Shell"
+	        },
+	        "back": {
+	            "name": "The Moths Crime",
+	            "printed_names": {
+	                "en": "The Moths Crime"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/The%20Moths%20Crime.png"
+	            },
+	            "type": "Sorcery — Focus "
+	        }
+	    },
+	    {
 	        "name": "Apprentices Drake",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
@@ -192,6 +231,15 @@
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Tiderock%20Passage.png"
+	        }
+	    },
+	    {
+	        "name": "The Calm Belt",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/The%20Calm%20Belt.png"
 	        }
 	    },
 	    {
@@ -697,7 +745,7 @@
 	    },
 	    {
 	        "name": "Call to Revolution",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -1794,7 +1842,7 @@
 	    },
 	    {
 	        "name": "Your Strength is Fading",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
@@ -1977,7 +2025,7 @@
 	    },
 	    {
 	        "name": "When Words Dont Work",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -4613,7 +4661,11 @@
 		2 Gael Spiteflame Phoenix
 		2 Tofnet Ranger
 	[Uncommon]
+		5 Clerics Claymore
+		5 Ascended Shell
 		5 Ambitious Haze
+		5 Nirvanha Bloom
+		5 Awakened Reactionary
 		5 Ancient Font
 		5 Ancient Sigils
 		5 Ardent Grief
@@ -4743,6 +4795,12 @@
 		5 Winding Guide
 		5 Worldcleave
 		5 Yearn for the Sky
+		5 Dreamgill Salamander
+		5 Clanless Tunneler
+		5 Your Strength is Fading
+		5 Call to Revolution
+		5 When Words Dont Work
+		2 The Calm Belt
 	[Common]
 		9 Meso Meso
 		2 Staggering Spires
@@ -4751,7 +4809,6 @@
 		9 Focus of Fadove
 		9 Veteran Party
 		9 Outlands Rescinder
-		9 Clanless Tunneler
 		9 Rising Haze
 		9 Meirel Caretaker
 		9 Outlander Mercenary
@@ -4781,7 +4838,6 @@
 		9 Tide of Dismissal
 		9 Crystalline Cover
 		9 A World Without You
-		9 Dreamgill Salamander
 		9 Pathborn Stinger
 		9 Eroding River
 		9 Smogborn Pilferer
@@ -4799,7 +4855,6 @@
 		9 The Path Back
 		9 Left for the Crows
 		9 Otherworldly Entrance
-		9 Your Strength is Fading
 		9 Aspect of Moth		
 		9 Clanless Combatant
 		9 Bosket Path
@@ -4814,7 +4869,6 @@
 		9 Start of an Adventure
 		9 Shifting Landscape
 		9 Drakes Intuition
-		9 Call to Revolution
 		9 Dance of Discovery
 		9 Smelt Corruption
 		9 Basalt Hammer
@@ -4832,7 +4886,6 @@
 		9 Illusion Reamer
 		9 Outland Pair
 		9 Outlands Rescuer
-		9 Awakened Reactionary
 		9 Open Eternity
 		9 Stand Your Ground
 		9 The Strength to Overcome
@@ -4857,7 +4910,6 @@
 		9 Mana Compression
 		9 Pathworn Blade
 		9 Emigrating Pilgrim
-		9 When Words Dont Work
 		9 Rustic Cultivator
 		9 Prismatic Weasel
 		9 Roduths Guard
@@ -4872,7 +4924,6 @@
 		9 Focus of Fadove
 		9 Veteran Party
 		9 Outlands Rescinder
-		9 Clanless Tunneler
 		9 Rising Haze
 		9 Meirel Caretaker
 		9 Outlander Mercenary
@@ -4903,7 +4954,6 @@
 		9 Tide of Dismissal
 		9 Crystalline Cover
 		9 A World Without You
-		9 Dreamgill Salamander
 	[CommonB]
 		9 Pathborn Stinger
 		9 Eroding River
@@ -4922,7 +4972,6 @@
 		9 The Path Back
 		9 Left for the Crows
 		9 Otherworldly Entrance
-		9 Your Strength is Fading
 		9 Aspect of Moth		
 	[CommonR]
 		9 Clanless Combatant
@@ -4938,7 +4987,6 @@
 		9 Start of an Adventure
 		9 Shifting Landscape
 		9 Drakes Intuition
-		9 Call to Revolution
 		9 Dance of Discovery
 		9 Smelt Corruption
 		9 Basalt Hammer
@@ -4957,7 +5005,6 @@
 		9 Illusion Reamer
 		9 Outland Pair
 		9 Outlands Rescuer
-		9 Awakened Reactionary
 		9 Open Eternity
 		9 Stand Your Ground
 		9 The Strength to Overcome
@@ -4983,7 +5030,6 @@
 		9 Mana Compression
 		9 Pathworn Blade
 		9 Emigrating Pilgrim
-		9 When Words Dont Work
 	[Sanctum]
 		3 Sanctum Sanctuary
 		5 Ancient Sigils
@@ -4991,6 +5037,7 @@
 		5 Drake-Brood Peak
 		5 Gold-Streaked Obelisks
 		5 Skycliff Dens
+		5 The Calm Belt
 		9 Bosket Path
 		9 Enlightening Crescents
 		9 Eroding River
