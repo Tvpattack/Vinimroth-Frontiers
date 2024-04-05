@@ -37,11 +37,23 @@
 	    },
 	    {
 	        "name": "Focus of Fadove",
-	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Focus%20of%20Fadove.png"
+	        },
+	        "printed names": {
+	            "en": "Focus of Fadove"
+	        },
+	        "back": {
+	            "name": "Radiant Javelin",
+	            "printed_names": {
+	                "en": "Radiant Javelin"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Radiant%20Javelin.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -163,7 +175,6 @@
 	    },
 	    {
 	        "name": "Rescue Response",
-	        "rarity": "common",
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -171,11 +182,20 @@
 	        },
 	        "printed names": {
 	            "en": "Rescue Response"
+	        },
+	        "back": {
+	            "name": "I Need a Hero!",
+	            "printed_names": {
+	                "en": "I Need a Hero!"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/I%20Need%20a%20Hero!.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
 	        "name": "Ascended Shell",
-	        "rarity": "uncommon",
 	        "mana_cost": "{5}",
 	        "type": "Artifact",
 	        "image_uris": {
@@ -183,6 +203,16 @@
 	        },
 	        "printed names": {
 	            "en": "Ascended Shell"
+	        },
+	        "back": {
+	            "name": "The Moths Crime",
+	            "printed_names": {
+	                "en": "The Moths Crime"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/The%20Moths%20Crime.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -259,11 +289,23 @@
 	    },
 	    {
 	        "name": "Pathwrought Overseer",
-	        "rarity": "uncommon",
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Orb Eye ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Pathwrought%20Overseer.png"
+	        },
+	        "printed names": {
+	            "en": "Pathwrought Overseer"
+	        },
+	        "back": {
+	            "name": "Observed",
+	            "printed_names": {
+	                "en": "Observed"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Observed.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -313,7 +355,6 @@
 	    },
 	    {
 	        "name": "Vertical Shift",
-	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -321,6 +362,16 @@
 	        },
 	        "printed names": {
 	            "en": "Vertical Shift"
+	        },
+	        "back": {
+	            "name": "Going Up!",
+	            "printed_names": {
+	                "en": "Going Up!"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Going%20Up!.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -343,7 +394,6 @@
 	    },
 	    {
 	        "name": "Tide of Dismissal",
-	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
@@ -351,6 +401,16 @@
 	        },
 	        "printed names": {
 	            "en": "Tide of Dismissal"
+	        },
+	        "back": {
+	            "name": "Disappointing Swing",
+	            "printed_names": {
+	                "en": "Disappointing Swing"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Disappointing%20Swing.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -418,7 +478,6 @@
 	    },
 	    {
 	        "name": "Scaled Rippler",
-	        "rarity": "common",
 	        "mana_cost": "{6}{B}",
 	        "type": "Creature — Lizard ",
 	        "image_uris": {
@@ -426,6 +485,16 @@
 	        },
 	        "printed names": {
 	            "en": "Scaled Rippler"
+	        },
+	        "back": {
+	            "name": "Lunging Mitosis",
+	            "printed_names": {
+	                "en": "Lunging Mitosis"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Lunging%20Mitosis.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -439,7 +508,6 @@
 	    },
 	    {
 	        "name": "Aeon Tunneler",
-	        "rarity": "common",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Wurm Scout Warrior ",
 	        "image_uris": {
@@ -447,6 +515,16 @@
 	        },
 	        "printed names": {
 	            "en": "Aeon Tunneler"
+	        },
+	        "back": {
+	            "name": "Snap!",
+	            "printed_names": {
+	                "en": "Snap!"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Snap!.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -469,7 +547,6 @@
 	    },
 	    {
 	        "name": "This Hunger Has a Name",
-	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
@@ -477,6 +554,16 @@
 	        },
 	        "printed names": {
 	            "en": "This Hunger Has a Name"
+	        },
+	        "back": {
+	            "name": "Accelerated Famine",
+	            "printed_names": {
+	                "en": "Accelerated Famine"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Accelerated%20Famine.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -535,7 +622,6 @@
 	    },
 	    {
 	        "name": "Mordel Shaper",
-	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Minotaur Wizard ",
 	        "image_uris": {
@@ -543,6 +629,16 @@
 	        },
 	        "printed names": {
 	            "en": "Mordel Shaper"
+	        },
+	        "back": {
+	            "name": "Fleeting Direction",
+	            "printed_names": {
+	                "en": "Fleeting Direction"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Fleeting%20Direction.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -583,11 +679,23 @@
 	    },
 	    {
 	        "name": "Pathborn Spitter",
-	        "rarity": "common",
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Pathborn%20Spitter.png"
+	        },
+	        "printed names": {
+	            "en": "Pathborn Spitter"
+	        },
+	        "back": {
+	            "name": "Backup Mortar",
+	            "printed_names": {
+	                "en": "Backup Mortar"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Backup%20Mortar.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -673,11 +781,23 @@
 	    },
 	    {
 	        "name": "Drougth Attuner",
-	        "rarity": "common",
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Drougth%20Attuner.png"
+	        },
+	        "printed names": {
+	            "en": "Drougth Attuner"
+	        },
+	        "back": {
+	            "name": "Attuner's Aid",
+	            "printed_names": {
+	                "en": "Attuner's Aid"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Attuner%27s%20Aid.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -808,11 +928,23 @@
 	    },
 	    {
 	        "name": "Roduths Guard",
-	        "rarity": "common",
 	        "mana_cost": "{8}",
 	        "type": "Creature — Wurm Dragon Elk Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Roduths%20Guard.png"
+	        },
+	        "printed names": {
+	            "en": "Roduths Guard"
+	        },
+	        "back": {
+	            "name": "Recall the Guards",
+	            "printed_names": {
+	                "en": "Recall the Guards"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Recall%20the%20Guards.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -826,11 +958,23 @@
 	    },
 	    {
 	        "name": "Safeguarded Pair",
-	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Wurm Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Safeguarded%20Pair.png"
+	        },
+	        "printed names": {
+	            "en": "Safeguarded Pair"
+	        },
+	        "back": {
+	            "name": "Be Strong",
+	            "printed_names": {
+	                "en": "Be Strong"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Be%20Strong.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -880,11 +1024,23 @@
 	    },
 	    {
 	        "name": "Fritter Skitter",
-	        "rarity": "uncommon",
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Insect Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Fritter%20Skitter.png"
+	        },
+	        "printed names": {
+	            "en": "Fritter Skitter"
+	        },
+	        "back": {
+	            "name": "Backbreaking Glare",
+	            "printed_names": {
+	                "en": "Backbreaking Glare"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Backbreaking%20Glare.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1160,11 +1316,23 @@
 	    },
 	    {
 	        "name": "Defector of Mordel",
-	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Minotaur Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Defector%20of%20Mordel.png"
+	        },
+	        "printed names": {
+	            "en": "Defector of Mordel"
+	        },
+	        "back": {
+	            "name": "Unmade Weavings",
+	            "printed_names": {
+	                "en": "Unmade Weavings"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Unmade%20Weavings.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1196,20 +1364,44 @@
 	    },
 	    {
 	        "name": "Outlands Rescuer",
-	        "rarity": "common",
 	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Outlands%20Rescuer.png"
+	        },
+	        "printed names": {
+	            "en": "Outlands Rescuer"
+	        },
+	        "back": {
+	            "name": "Distraction!",
+	            "printed_names": {
+	                "en": "Distraction!"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Distraction!.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
 	        "name": "Awakened Reactionary",
-	        "rarity": "uncommon",
 	        "mana_cost": "{7}{G}",
 	        "type": "Enchantment Creature — Icon Dryad ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Awakened%20Reactionary.png"
+	        },
+	        "printed names": {
+	            "en": "Awakened Reactionary"
+	        },
+	        "back": {
+	            "name": "Reject the Paths",
+	            "printed_names": {
+	                "en": "Reject the Paths"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Reject%20the%20Paths.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1241,11 +1433,23 @@
 	    },
 	    {
 	        "name": "The Strength to Overcome",
-	        "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/The%20Strength%20to%20Overcome.png"
+	        },
+	        "printed names": {
+	            "en": "The Strength to Overcome"
+	        },
+	        "back": {
+	            "name": "Najael's Lifespell",
+	            "printed_names": {
+	                "en": "Najael's Lifespell"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Najael%27s%20Lifespell.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1259,11 +1463,23 @@
 	    },
 	    {
 	        "name": "Disciplined Seeker",
-	        "rarity": "uncommon",
 	        "mana_cost": "{C}",
 	        "type": "Creature — Human Elf Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Disciplined%20Seeker.png"
+	        },
+	        "printed names": {
+	            "en": "Disciplined Seeker"
+	        },
+	        "back": {
+	            "name": "Pathwalking",
+	            "printed_names": {
+	                "en": "Pathwalking"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Pathwalking.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1286,11 +1502,23 @@
 	    },
 	    {
 	        "name": "Blade Reifier",
-	        "rarity": "uncommon",
 	        "mana_cost": "{4}{C}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Blade%20Reifier.png"
+	        },
+	        "printed names": {
+	            "en": "Blade Reifier"
+	        },
+	        "back": {
+	            "name": "Shimmered Form",
+	            "printed_names": {
+	                "en": "Shimmered Form"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Shimmered%20Form.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1341,11 +1569,23 @@
 	    },
 	    {
 	        "name": "Pathworn Blade",
-	        "rarity": "common",
 	        "mana_cost": "{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Pathworn%20Blade.png"
+	        },
+	        "printed names": {
+	            "en": "Pathworn Blade"
+	        },
+	        "back": {
+	            "name": "Spiritual Spire",
+	            "printed_names": {
+	                "en": "Spiritual Spire"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Spiritual%20Spire.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -1359,11 +1599,23 @@
 	    },
 	    {
 	        "name": "Dance of Discovery",
-	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Dance%20of%20Discovery.png"
+	        },
+	        "printed names": {
+	            "en": "Dance of Discovery"
+	        },
+	        "back": {
+	            "name": "Unburdened",
+	            "printed_names": {
+	                "en": "Unburdened"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Unburdened.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -1395,38 +1647,86 @@
 	    },
 	    {
 	        "name": "Basalt Hammer",
-	        "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Basalt%20Hammer.png"
+	        },
+	        "printed names": {
+	            "en": "Basalt Hammer"
+	        },
+	        "back": {
+	            "name": "Burning Fury",
+	            "printed_names": {
+	                "en": "Burning Fury"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Burning%20Fury.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
 	        "name": "Mordel Hammer",
-	        "rarity": "common",
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Minotaur Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Mordel%20Hammer.png"
+	        },
+	        "printed names": {
+	            "en": "Mordel Hammer"
+	        },
+	        "back": {
+	            "name": "Passive Intimidation",
+	            "printed_names": {
+	                "en": "Passive Intimidation"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Passive%20Intimidation.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
 	        "name": "Emigrating Pilgrim",
-	        "rarity": "common",
 	        "mana_cost": "{3}{C}",
 	        "type": "Enchantment Creature — Icon Knight ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Emigrating%20Pilgrim.png"
+	        },
+	        "printed names": {
+	            "en": "Emigrating Pilgrim"
+	        },
+	        "back": {
+	            "name": "Free to Fly",
+	            "printed_names": {
+	                "en": "Free to Fly"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Free%20to%20Fly.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
 	        "name": "Crystalline Cover",
-	        "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Crystalline%20Cover.png"
+	        },
+	        "printed names": {
+	            "en": "Crystalline Cover"
+	        },
+	        "back": {
+	            "name": "Tesselation",
+	            "printed_names": {
+	                "en": "Tesselation"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Tesselation.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1476,11 +1776,23 @@
 	    },
 	    {
 	        "name": "Historys Weave",
-	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Historys%20Weave.png"
+	        },
+	        "printed names": {
+	            "en": "Historys Weave"
+	        },
+	        "back": {
+	            "name": "Khestri's Salve",
+	            "printed_names": {
+	                "en": "Khestri's Salve"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Khestri%27s%20Salve.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1539,11 +1851,23 @@
 	    },
 	    {
 	        "name": "Aspect of Moth",
-	        "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Aspect%20of%20Moth.png"
+	        },
+	        "printed names": {
+	            "en": "Aspect of Moth"
+	        },
+	        "back": {
+	            "name": "Separations",
+	            "printed_names": {
+	                "en": "Separations"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Separations.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1566,11 +1890,23 @@
 	    },
 	    {
 	        "name": "I Will Walk My Own Path",
-	        "rarity": "rare",
 	        "mana_cost": "{4}{C}{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/I%20Will%20Walk%20My%20Own%20Path.png"
+	        },
+	        "printed names": {
+	            "en": "I Will Walk My Own Path"
+	        },
+	        "back": {
+	            "name": "Past Knowledge",
+	            "printed_names": {
+	                "en": "Past Knowledge"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Past%20Knowledge.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1584,11 +1920,23 @@
 	    },
 	    {
 	        "name": "Outlands Recruiter",
-	        "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Enchantment Creature — Icon Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Outlands%20Recruiter.png"
+	        },
+	        "printed names": {
+	            "en": "Outlands Recruiter"
+	        },
+	        "back": {
+	            "name": "Follow My Call",
+	            "printed_names": {
+	                "en": "Follow My Call"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Follow%20My%20Call.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -1647,11 +1995,23 @@
 	    },
 	    {
 	        "name": "Surubim Harpoon",
-	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Surubim%20Harpoon.png"
+	        },
+	        "printed names": {
+	            "en": "Surubim Harpoon"
+	        },
+	        "back": {
+	            "name": "Piercing Throw",
+	            "printed_names": {
+	                "en": "Piercing Throw"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Piercing%20Throw.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1683,11 +2043,23 @@
 	    },
 	    {
 	        "name": "Murkross Spiritcaller",
-	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Spider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Murkross%20Spiritcaller.png"
+	        },
+	        "printed names": {
+	            "en": "Murkross Spiritcaller"
+	        },
+	        "back": {
+	            "name": "History's Impression",
+	            "printed_names": {
+	                "en": "History's Impression"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/History%27s%20Impression.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1701,11 +2073,23 @@
 	    },
 	    {
 	        "name": "Ignelscor Jidiao",
-	        "rarity": "uncommon",
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Dragon Turtle ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Ignelscor%20Jidiao.png"
+	        },
+	        "printed names": {
+	            "en": "Ignelscor Jidiao"
+	        },
+	        "back": {
+	            "name": "Tear a Path",
+	            "printed_names": {
+	                "en": "Tear a Path"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Tear%20a%20Path.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -1800,11 +2184,23 @@
 	    },
 	    {
 	        "name": "Ancient Font",
-	        "rarity": "uncommon",
 	        "mana_cost": "{G}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Ancient%20Font.png"
+	        },
+	        "printed names": {
+	            "en": "Ancient Font"
+	        },
+	        "back": {
+	            "name": "Curious Visitor",
+	            "printed_names": {
+	                "en": "Curious Visitor"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Curious%20Visitor.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -1899,11 +2295,23 @@
 	    },
 	    {
 	        "name": "Waterscape Mystic",
-	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Waterscape%20Mystic.png"
+	        },
+	        "printed names": {
+	            "en": "Waterscape Mystic"
+	        },
+	        "back": {
+	            "name": "Coiled Sight",
+	            "printed_names": {
+	                "en": "Coiled Sight"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Coiled%20Sight.png"
+	            },
+	            "type": "Sorcery — Focus "
 	        }
 	    },
 	    {
@@ -1989,11 +2397,23 @@
 	    },
 	    {
 	        "name": "Virulent Attendant",
-	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Icon Rat ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Virulent%20Attendant.png"
+	        },
+	        "printed names": {
+	            "en": "Virulent Attendant"
+	        },
+	        "back": {
+	            "name": "Growth is for All",
+	            "printed_names": {
+	                "en": "Growth is for All"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Growth%20is%20for%20All.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -2403,11 +2823,23 @@
 	    },
 	    {
 	        "name": "Dreamgill Salamander",
-	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Nightmare Salamander ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Dreamgill%20Salamander.png"
+	        },
+	        "printed names": {
+	            "en": "Dreamgill Salamander"
+	        },
+	        "back": {
+	            "name": "Frozen in Fear",
+	            "printed_names": {
+	                "en": "Frozen in Fear"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Frozen%20in%20Fear.png"
+	            },
+	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -2719,7 +3151,6 @@
 	    },
 	    {
 	        "name": "A Flock is Born",
-	        "rarity": "common",
 	        "mana_cost": "{5}",
 	        "type": "Kindred Sorcery — Bird ",
 	        "image_uris": {
@@ -2741,7 +3172,6 @@
 	    },
 	    {
 	        "name": "Themia Steward of Sanctity",
-	        "rarity": "rare",
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Angel ",
 	        "image_uris": {
@@ -2763,7 +3193,6 @@
 	    },
 	    {
 	        "name": "Zesha Dream Hedonist",
-	        "rarity": "rare",
 	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Creature — Nightmare ",
 	        "image_uris": {
@@ -2785,7 +3214,6 @@
 	    },
 	    {
 	        "name": "Lisse Hope Through Sin",
-	        "rarity": "rare",
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Legendary Creature — Demon Cleric ",
 	        "image_uris": {
@@ -2807,7 +3235,6 @@
 	    },
 	    {
 	        "name": "Argent Flash of Mirdrim",
-	        "rarity": "rare",
 	        "mana_cost": "{4}{C}{C}",
 	        "type": "Legendary Creature — Drake ",
 	        "image_uris": {
@@ -2829,7 +3256,6 @@
 	    },
 	    {
 	        "name": "Scout Maw of the Moon",
-	        "rarity": "rare",
 	        "mana_cost": "{3}{R}{R}{R}",
 	        "type": "Legendary Creature — Dog ",
 	        "image_uris": {
@@ -2851,7 +3277,6 @@
 	    },
 	    {
 	        "name": "Maal and Sevol Twin Sentries",
-	        "rarity": "rare",
 	        "mana_cost": "{6}",
 	        "type": "Legendary Creature — Dragon ",
 	        "image_uris": {
@@ -2873,7 +3298,6 @@
 	    },
 	    {
 	        "name": "Reichen Verdant Guard",
-	        "rarity": "rare",
 	        "mana_cost": "{4}{G}{G}{G}",
 	        "type": "Legendary Creature — Dragon ",
 	        "image_uris": {
