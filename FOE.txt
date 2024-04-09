@@ -9,12 +9,39 @@
 	        }
 	    },
 	    {
+	        "name": "Cliffside Surveyor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Cat Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Cliffside%20Surveyor.png"
+	        }
+	    },
+	    {
+	        "name": "Moonlit Congregation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Realm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Moonlit%20Congregation.png"
+	        }
+	    },
+	    {
 	        "name": "Staggering Spires",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Staggering%20Spires.png"
+	        }
+	    },
+	    {
+	        "name": "Wavehorn Great Winding Wizard",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Wurm Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Wavehorn%20Great%20Winding%20Wizard.png"
 	        }
 	    },
 	    {
@@ -382,7 +409,7 @@
 	    },
 	    {
 	        "name": "Omenspeaker Avakin",
-	        "rarity": "common",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
@@ -518,7 +545,7 @@
 	    {
 	        "name": "Bosket Path",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Bosket%20Path.png"
@@ -593,7 +620,7 @@
 	    {
 	        "name": "Willbournes Flame",
 	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
+	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Willbournes%20Flame.png"
@@ -656,7 +683,7 @@
 	    {
 	        "name": "Enlightening Crescents",
 	        "rarity": "common",
-	        "mana_cost": "{3}{C}{C}",
+	        "mana_cost": "{4}{C}{C}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Enlightening%20Crescents.png"
@@ -1152,7 +1179,7 @@
 	    {
 	        "name": "Disciple of the Thicket",
 	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
+	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Elf Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Disciple%20of%20the%20Thicket.png"
@@ -1197,7 +1224,7 @@
 	    {
 	        "name": "Outlands Rescuer",
 	        "rarity": "common",
-	        "mana_cost": "{5}{G}",
+	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Outlands%20Rescuer.png"
@@ -1387,7 +1414,7 @@
 	    {
 	        "name": "Smelt Corruption",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}{R}",
+	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Smelt%20Corruption.png"
@@ -1674,7 +1701,7 @@
 	    },
 	    {
 	        "name": "Lisse Bound by the King",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{B}",
 	        "type": "Legendary Creature — Zombie Cleric Wizard ",
 	        "image_uris": {
@@ -1926,7 +1953,7 @@
 	    },
 	    {
 	        "name": "Duskcharm Drake",
-	        "rarity": "uncommon",
+	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
@@ -2197,7 +2224,7 @@
 	    {
 	        "name": "Lisses Drakesteel Phylactery",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}",
+	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Lisses%20Drakesteel%20Phylactery.png"
@@ -2724,19 +2751,6 @@
 	        "type": "Kindred Sorcery — Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/A%20Flock%20is%20Born.png"
-	        },
-	        "printed names": {
-	            "en": "A Flock is Born"
-	        },
-	        "back": {
-	            "name": "Winged Guide",
-	            "printed_names": {
-	                "en": "Winged Guide"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Winged%20Guide.png"
-	            },
-	            "type": "Instant — Focus "
 	        }
 	    },
 	    {
@@ -4149,7 +4163,7 @@
 {
 	"name": "Frontiers of Eternity",
 	"withReplacement": true,
-	"cardback": "blob:https://mega.nz/200873d3-ce01-465e-80ee-fa0f8b072c0c.jpg",
+	"cardBack": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/lordnyriox%20dalfpib.jpg",
 	"boostersPerPlayer": 3,
 	"predeterminedLayouts": [
 		{"Rare": 85, "Mythic": 15},
@@ -4202,6 +4216,7 @@
 		1 Themia Steward of Sanctity
 		1 Zesha Dream Hedonist
 	[Rare]
+		2 Wavehorn Great Winding Wizard
 		2 Aurel Born Through Discord
 		2 Bitter Inspection
 		2 Called to Eternity
@@ -4238,6 +4253,8 @@
 		2 Cerise Augur of Flow
 		2 Gael Spiteflame Phoenix
 		2 Tofnet Ranger
+		2 Lisse Bound by the King
+		2 Trailing Tethers
 	[Arcun]
 		5 Ardent Grief
 		5 Balutr Runners
@@ -4270,6 +4287,7 @@
 		5 Upsurge Nemato-Gnathi
 		5 Whisperer of the Paths
 	[Uncommon]
+		5 Cliffside Surveyor
 		5 Clerics Claymore
 		5 Ascended Shell
 		5 Ambitious Haze
@@ -4322,7 +4340,6 @@
 		5 Kilnhart Smoghorn
 		5 Kornas Forward
 		5 Leyline Weaver
-		5 Lisse Bound by the King
 		5 Lisses Drakesteel Phylactery
 		5 Lizturbance
 		5 Lorenz Ascendant King of Alira
@@ -4363,7 +4380,6 @@
 		5 Stir the Aether
 		5 Storm Striker
 		5 Trace the Stars
-		5 Trailing Tethers
 		5 Trailway Gates
 		5 Unending Exploration
 		5 Unexpected Predator
@@ -4380,6 +4396,7 @@
 		5 Call to Revolution
 		5 When Words Dont Work
 		2 The Calm Belt
+		2 Moonlit Congregation
 	[Common]
 		9 Meso Meso
 		2 Staggering Spires
@@ -4617,6 +4634,7 @@
 		4 Gold-Streaked Obelisks
 		4 Skycliff Dens
 		4 The Calm Belt
+		4 Moonlit Congregation
 		7 Bosket Path
 		7 Enlightening Crescents
 		7 Eroding River
