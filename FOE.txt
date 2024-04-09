@@ -4152,6 +4152,7 @@
 		5 Upsurge Nemato-Gnathi
 		5 Whisperer of the Paths
 	[Uncommon]
+		5 Omenspeaker Avakin
 		5 Cliffside Surveyor
 		5 Clerics Claymore
 		5 Ascended Shell
@@ -4180,7 +4181,6 @@
 		5 Dissenting Experience
 		5 Ditto Dagger
 		5 Drake-Brood Peak
-		5 Duskcharm Drake
 		5 Embrace Fascination
 		5 Embracing Intonation
 		5 Encouraging Passage
@@ -4263,6 +4263,7 @@
 		2 The Calm Belt
 		2 Moonlit Congregation
 	[Common]
+		9 Duskcharm Drake
 		9 Meso Meso
 		2 Staggering Spires
 		9 Marching Partisan
@@ -4302,7 +4303,6 @@
 		9 Pathborn Stinger
 		9 Eroding River
 		9 Smogborn Pilferer
-		9 Omenspeaker Avakin
 		9 Hedgecrow
 		9 Avakin Trapper
 		9 Relentless Truthseeker
@@ -4417,9 +4417,9 @@
 		9 A World Without You
 	[CommonB]
 		9 Pathborn Stinger
+		9 Duskcharm Drake
 		9 Eroding River
 		9 Smogborn Pilferer
-		9 Omenspeaker Avakin
 		2 Hedgecrow
 		9 Avakin Trapper
 		9 Relentless Truthseeker
