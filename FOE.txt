@@ -18,6 +18,15 @@
 	        }
 	    },
 	    {
+	        "name": "Counterinsurgency",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Counterinsurgency.png"
+	        }
+	    },
+	    {
 	        "name": "Moonlit Congregation",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
@@ -916,7 +925,7 @@
 	    },
 	    {
 	        "name": "Mordel Civil War",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}{R}",
 	        "type": "Battle — Seige",
 	        "image_uris": {
@@ -4120,6 +4129,7 @@
 		2 Tofnet Ranger
 		2 Lisse Bound by the King
 		2 Trailing Tethers
+		2 Mordel Civil War
 	[Arcun]
 		5 Ardent Grief
 		5 Balutr Runners
@@ -4216,7 +4226,6 @@
 		5 Mesmeric Peaks
 		5 Monument to Forever
 		5 Moonscale Koi
-		5 Mordel Civil War
 		5 Multaphs Voidweaver
 		5 Murkross Shaman
 		5 Murkross Spiritcaller
@@ -4262,6 +4271,7 @@
 		5 When Words Dont Work
 		2 The Calm Belt
 		2 Moonlit Congregation
+		5 Counterinsurgency
 	[Common]
 		9 Duskcharm Drake
 		9 Meso Meso
