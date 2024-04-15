@@ -191,7 +191,7 @@
 	    {
 	        "name": "Push Forward",
 	        "rarity": "common",
-	        "mana_cost": "{4}{W}{W}",
+	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Push%20Forward.png"
@@ -1116,7 +1116,7 @@
 	    {
 	        "name": "The Shattering of Meirel",
 	        "rarity": "rare",
-	        "mana_cost": "{6}",
+	        "mana_cost": "{8}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/The%20Shattering%20of%20Meirel.png"
@@ -1296,7 +1296,7 @@
 	    {
 	        "name": "Disciplined Seeker",
 	        "rarity": "uncommon",
-	        "mana_cost": "{C}",
+	        "mana_cost": "{U}",
 	        "type": "Creature — Human Elf Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Disciplined%20Seeker.png"
@@ -1387,7 +1387,7 @@
 	    {
 	        "name": "Trace the Stars",
 	        "rarity": "uncommon",
-	        "mana_cost": "{2}{C}{C}",
+	        "mana_cost": "{1}{C}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Trace%20the%20Stars.png"
@@ -1863,7 +1863,7 @@
 	    },
 	    {
 	        "name": "Surging Spheres",
-	        "rarity": "rare",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
@@ -2411,12 +2411,12 @@
 	        }
 	    },
 	    {
-	        "name": "Renewer of Bloodlines",
+	        "name": "Kaln-Ocean Harmonizer",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Renewer%20of%20Bloodlines.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Kaln-Ocean%20Harmonizer.png"
 	        }
 	    },
 	    {
@@ -3026,7 +3026,7 @@
 	    },
 	    {
 	        "name": "Campsite",
-	        "rarity": "uncommon",
+	        "rarity": "rare",
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
@@ -4118,7 +4118,6 @@
 		2 Soul Shatter
 		2 Starfall Outlook
 		2 Sunderling
-		2 Surging Spheres
 		2 The Planar Portal
 		2 The Shattering of Meirel
 		2 Trade Routes
@@ -4130,6 +4129,7 @@
 		2 Lisse Bound by the King
 		2 Trailing Tethers
 		2 Mordel Civil War
+		2 Campsite
 	[Arcun]
 		5 Ardent Grief
 		5 Balutr Runners
@@ -4154,7 +4154,7 @@
 		5 Pathward Riftcalling
 		5 Promise of Hunger
 		5 Remnants of the War
-		5 Renewer of Bloodlines
+		5 Kaln-Ocean Harmonizer
 		5 Shadow of Grace
 		5 Sisters in Sorrow
 		5 Sunlace Panthera
@@ -4162,345 +4162,344 @@
 		5 Upsurge Nemato-Gnathi
 		5 Whisperer of the Paths
 	[Uncommon]
-		5 Omenspeaker Avakin
-		5 Cliffside Surveyor
-		5 Clerics Claymore
-		5 Ascended Shell
-		5 Ambitious Haze
-		5 Nirvanha Bloom
-		5 Awakened Reactionary
-		5 Ancient Font
-		5 Ancient Sigils
-		5 Awakened Automaton
-		5 Awakened Wurm
-		5 Bare Your Fangs
-		5 Blade Reifier
-		5 Boundless Hollow
-		5 Broodmages Furor
-		5 Campsite
-		5 Cartographers Survey
-		5 Cervus Sprouting
-		5 Chimarel Clearing
-		5 Cloudscape Gargantua
-		5 Coalesced Company
-		5 Crustacean Surge
-		5 Crystalline Refraction
-		5 Dawncoil Burnisher
-		5 Disciplined Seeker
-		5 Discover Uncertainty
-		5 Dissenting Experience
-		5 Ditto Dagger
-		5 Drake-Brood Peak
-		5 Embrace Fascination
-		5 Embracing Intonation
-		5 Encouraging Passage
-		5 Fadove Battle-Cleric
-		5 Fervor of the Flame
-		5 Forgiving Monument
-		5 Fritter Skitter
-		5 Giver of Peace
-		5 Haphazard and Unbound
-		5 Hengs Intercession
-		5 Homestead Pair
-		5 Howling Gasp
-		5 Hunters Strength
-		5 I Know What You Mean to Me
-		5 I Wont Stand Alone
-		5 Iconic Challenger
-		5 Ignelscor Jidiao
-		5 Ignelscor Witch
-		5 Inspiring Dunes
-		5 Julius Skyknight of Morriare
-		5 Keras Appointed
-		5 Kilnhart Smoghorn
-		5 Kornas Forward
-		5 Leyline Weaver
-		5 Lisses Drakesteel Phylactery
-		5 Lizturbance
-		5 Lorenz Ascendant King of Alira
-		5 Lost Sunset
-		5 Meditation
-		5 Meirel Evacuator
-		5 Meirel Pathwalker
-		5 Mentor of Engagement
-		5 Mesmeric Peaks
-		5 Monument to Forever
-		5 Moonscale Koi
-		5 Multaphs Voidweaver
-		5 Murkross Shaman
-		5 Murkross Spiritcaller
-		5 My Hunger Will Kill You
-		5 New Mordel Fireweaver
-		5 Nurtured Landscape
-		5 Gold-Streaked Obelisks
-		5 Our March Wont End
-		5 Outland Riftsower
-		5 Outlands Caretaker
-		5 Outlands Recruiter
-		5 Parasitic Roots
-		5 Ranging Symbiote
-		5 Realmbound Spellshaper
-		5 Rend Hope
-		5 Rest For a New World
-		5 Ruthless Pathfinder
-		5 Safeguarded Pair
-		2 Sanctum Sanctuary
-		5 Seasoned Flamefinder
-		5 Shimmer From Beyond
-		5 Skycliff Dens
-		5 Slipstream Cyprinus
-		5 Snowscaper Bakunawa
-		5 Spire of Rebirth
-		5 Stir the Aether
-		5 Storm Striker
-		5 Trace the Stars
-		5 Trailway Gates
-		5 Unending Exploration
-		5 Unexpected Predator
-		5 Unweave
-		5 Vertical Shift
-		5 Virulent Attendant
-		5 Waterscape Mystic
-		5 Winding Guide
-		5 Worldcleave
-		5 Yearn for the Sky
-		5 Dreamgill Salamander
-		5 Clanless Tunneler
-		5 Your Strength is Fading
-		5 Call to Revolution
-		5 When Words Dont Work
-		2 The Calm Belt
-		2 Moonlit Congregation
-		5 Counterinsurgency
+		3 Omenspeaker Avakin
+		3 Cliffside Surveyor
+		3 Clerics Claymore
+		3 Ascended Shell
+		3 Ambitious Haze
+		3 Nirvanha Bloom
+		3 Awakened Reactionary
+		3 Ancient Font
+		3 Ancient Sigils
+		3 Awakened Automaton
+		3 Awakened Wurm
+		3 Bare Your Fangs
+		3 Blade Reifier
+		3 Boundless Hollow
+		3 Broodmages Furor
+		3 Cartographers Survey
+		3 Cervus Sprouting
+		3 Chimarel Clearing
+		3 Cloudscape Gargantua
+		3 Coalesced Company
+		3 Crustacean Surge
+		3 Crystalline Refraction
+		3 Dawncoil Burnisher
+		3 Disciplined Seeker
+		3 Discover Uncertainty
+		3 Dissenting Experience
+		3 Ditto Dagger
+		3 Drake-Brood Peak
+		3 Embrace Fascination
+		3 Embracing Intonation
+		3 Encouraging Passage
+		3 Fadove Battle-Cleric
+		3 Fervor of the Flame
+		3 Forgiving Monument
+		3 Fritter Skitter
+		3 Giver of Peace
+		3 Haphazard and Unbound
+		3 Hengs Intercession
+		3 Homestead Pair
+		3 Howling Gasp
+		3 Hunters Strength
+		3 I Know What You Mean to Me
+		3 I Wont Stand Alone
+		3 Iconic Challenger
+		3 Ignelscor Jidiao
+		3 Ignelscor Witch
+		3 Inspiring Dunes
+		3 Julius Skyknight of Morriare
+		3 Keras Appointed
+		3 Kilnhart Smoghorn
+		3 Kornas Forward
+		3 Leyline Weaver
+		3 Lisses Drakesteel Phylactery
+		3 Lizturbance
+		3 Lorenz Ascendant King of Alira
+		3 Lost Sunset
+		3 Meditation
+		3 Meirel Evacuator
+		3 Meirel Pathwalker
+		3 Mentor of Engagement
+		3 Mesmeric Peaks
+		3 Monument to Forever
+		3 Moonscale Koi
+		3 Multaphs Voidweaver
+		3 Murkross Shaman
+		3 Murkross Spiritcaller
+		3 My Hunger Will Kill You
+		3 New Mordel Fireweaver
+		3 Nurtured Landscape
+		3 Gold-Streaked Obelisks
+		3 Our March Wont End
+		3 Outland Riftsower
+		3 Outlands Caretaker
+		3 Outlands Recruiter
+		3 Parasitic Roots
+		3 Ranging Symbiote
+		3 Realmbound Spellshaper
+		3 Rend Hope
+		3 Rest For a New World
+		3 Ruthless Pathfinder
+		3 Safeguarded Pair
+		3 Seasoned Flamefinder
+		3 Shimmer From Beyond
+		3 Skycliff Dens
+		3 Slipstream Cyprinus
+		3 Snowscaper Bakunawa
+		3 Spire of Rebirth
+		3 Stir the Aether
+		3 Storm Striker
+		3 Trace the Stars
+		3 Trailway Gates
+		3 Unending Exploration
+		3 Unexpected Predator
+		3 Unweave
+		3 Vertical Shift
+		3 Virulent Attendant
+		3 Waterscape Mystic
+		3 Winding Guide
+		3 Worldcleave
+		3 Yearn for the Sky
+		3 Dreamgill Salamander
+		3 Clanless Tunneler
+		3 Your Strength is Fading
+		3 Call to Revolution
+		3 When Words Dont Work
+		1 The Calm Belt
+		1 Moonlit Congregation
+		3 Counterinsurgency
+		3 Surging Spheres
 	[Common]
-		9 Duskcharm Drake
-		9 Meso Meso
-		2 Staggering Spires
-		9 Marching Partisan
-		9 Fadove Lawkeeper
-		9 Focus of Fadove
-		9 Veteran Party
-		9 Outlands Rescinder
-		9 Rising Haze
-		9 Meirel Caretaker
-		9 Outlander Mercenary
-		9 Fadove Air Supplier
-		9 Cleric of the Dawn
-		9 Light of Hope
-		9 Fall through Reality
-		9 Push Forward
-		9 Rescue Response
-		9 Historys Weave
-		9 Pathfinder Wurm
-		9 Apprentices Drake
-		9 Tiderock Passage
-		9 Vestige Prowler
-		9 Veneer Walker
-		9 Bropheria
-		9 Outlands Explorer
-		9 Migratory Flotilla
-		9 Pathwrought Overseer
-		9 Reshape Eternity
-		9 Consult Eternity
-		9 Fold the Truth
-		9 Alternate Path
-		9 Pristine Denial
-		9 Branching Paths
-		9 Gripping Truths
-		9 Tide of Dismissal
-		9 Crystalline Cover
-		9 A World Without You
-		9 Pathborn Stinger
-		9 Eroding River
-		9 Smogborn Pilferer
-		9 Hedgecrow
-		9 Avakin Trapper
-		9 Relentless Truthseeker
-		9 Scaled Rippler
-		9 Voidborn Horror
-		9 Aeon Tunneler
-		9 You Cant Face Me
-		9 Influence of the Paths
-		9 This Hunger Has a Name
-		9 Foolish Footing
-		9 The Path Back
-		9 Left for the Crows
-		9 Otherworldly Entrance
-		9 Aspect of Moth		
-		9 Clanless Combatant
-		9 Bosket Path
-		9 Fiery Absolver
-		9 Mordel Shaper
-		9 Drougth Explorer
-		9 Inspiring Recruit
-		9 Sprouting Fumes
-		9 Mordel Flamespeaker
-		9 Pathborn Spitter
-		9 Willbournes Flame
-		9 Start of an Adventure
-		9 Shifting Landscape
-		9 Drakes Intuition
-		9 Dance of Discovery
-		9 Smelt Corruption
-		9 Basalt Hammer
-		9 Mordel Hammer
-		9 Warforged Pair
-		9 Depthscout
-		9 Guide With and Through
-		9 Enduring Woodland
-		9 Meirel Traveller
-		9 Shard Bearer
-		9 Clanless Weaver
-		9 Disciple of the Thicket
-		9 Defector of Mordel
-		9 Voice of the Thicket
-		9 Illusion Reamer
-		9 Outland Pair
-		9 Outlands Rescuer
-		9 Open Eternity
-		9 Stand Your Ground
-		9 The Strength to Overcome
-		9 Scale the Heights
-		9 Turbulent Aether
-		9 Surubim Harpoon
-		9 Enlightening Crescents
-		9 Dust Converter
-		9 Drougth Attuner
-		9 Adventurous Pair
-		9 Calign
-		9 Avakin Explorer
-		9 Enlisted Arms
-		9 Drougth Oracle
-		9 Mutated Pioneer
-		9 Perspective Shift
-		9 Power from Beyond
-		9 Captivate
-		9 Aerial Assurance
-		9 Journey Through the Self
-		9 Meirel Explorer
-		9 Mana Compression
-		9 Pathworn Blade
-		9 Emigrating Pilgrim
-		9 Rustic Cultivator
-		9 Prismatic Weasel
-		9 Roduths Guard
-		9 Mural of Harmony
-		9 A Flock is Born
-		9 Wind Worn Peaks
+		5 Duskcharm Drake
+		5 Meso Meso
+		1 Staggering Spires
+		5 Marching Partisan
+		5 Fadove Lawkeeper
+		5 Focus of Fadove
+		5 Veteran Party
+		5 Outlands Rescinder
+		5 Rising Haze
+		5 Meirel Caretaker
+		5 Outlander Mercenary
+		5 Fadove Air Supplier
+		5 Cleric of the Dawn
+		5 Light of Hope
+		5 Fall through Reality
+		5 Push Forward
+		5 Rescue Response
+		5 Historys Weave
+		5 Pathfinder Wurm
+		5 Apprentices Drake
+		5 Tiderock Passage
+		5 Vestige Prowler
+		5 Veneer Walker
+		5 Bropheria
+		5 Outlands Explorer
+		5 Migratory Flotilla
+		5 Pathwrought Overseer
+		5 Reshape Eternity
+		5 Consult Eternity
+		5 Fold the Truth
+		5 Alternate Path
+		5 Pristine Denial
+		5 Branching Paths
+		5 Gripping Truths
+		5 Tide of Dismissal
+		5 Crystalline Cover
+		5 A World Without You
+		5 Pathborn Stinger
+		5 Eroding River
+		5 Smogborn Pilferer
+		5 Hedgecrow
+		5 Avakin Trapper
+		5 Relentless Truthseeker
+		5 Scaled Rippler
+		5 Voidborn Horror
+		5 Aeon Tunneler
+		5 You Cant Face Me
+		5 Influence of the Paths
+		5 This Hunger Has a Name
+		5 Foolish Footing
+		5 The Path Back
+		5 Left for the Crows
+		5 Otherworldly Entrance
+		5 Aspect of Moth		
+		5 Clanless Combatant
+		5 Bosket Path
+		5 Fiery Absolver
+		5 Mordel Shaper
+		5 Drougth Explorer
+		5 Inspiring Recruit
+		5 Sprouting Fumes
+		5 Mordel Flamespeaker
+		5 Pathborn Spitter
+		5 Willbournes Flame
+		5 Start of an Adventure
+		5 Shifting Landscape
+		5 Drakes Intuition
+		5 Dance of Discovery
+		5 Smelt Corruption
+		5 Basalt Hammer
+		5 Mordel Hammer
+		5 Warforged Pair
+		5 Depthscout
+		5 Guide With and Through
+		5 Enduring Woodland
+		5 Meirel Traveller
+		5 Shard Bearer
+		5 Clanless Weaver
+		5 Disciple of the Thicket
+		5 Defector of Mordel
+		5 Voice of the Thicket
+		5 Illusion Reamer
+		5 Outland Pair
+		5 Outlands Rescuer
+		5 Open Eternity
+		5 Stand Your Ground
+		5 The Strength to Overcome
+		5 Scale the Heights
+		5 Turbulent Aether
+		5 Surubim Harpoon
+		5 Enlightening Crescents
+		5 Dust Converter
+		5 Drougth Attuner
+		5 Adventurous Pair
+		5 Calign
+		5 Avakin Explorer
+		5 Enlisted Arms
+		5 Drougth Oracle
+		5 Mutated Pioneer
+		5 Perspective Shift
+		5 Power from Beyond
+		5 Captivate
+		5 Aerial Assurance
+		5 Journey Through the Self
+		5 Meirel Explorer
+		5 Mana Compression
+		5 Pathworn Blade
+		5 Emigrating Pilgrim
+		5 Rustic Cultivator
+		5 Prismatic Weasel
+		5 Roduths Guard
+		5 Mural of Harmony
+		5 A Flock is Born
+		5 Wind Worn Peaks
 	[CommonW]
-		9 Meso Meso
-		9 Staggering Spires
-		9 Marching Partisan
-		9 Fadove Lawkeeper
-		9 Focus of Fadove
-		9 Veteran Party
-		9 Outlands Rescinder
-		9 Rising Haze
-		9 Meirel Caretaker
-		2 Outlander Mercenary
-		9 Fadove Air Supplier
-		9 Cleric of the Dawn
-		9 Light of Hope
-		9 Fall through Reality
-		9 Push Forward
-		9 Rescue Response
-		9 Historys Weave
-		9 Pathfinder Wurm
+		5 Meso Meso
+		5 Staggering Spires
+		5 Marching Partisan
+		5 Fadove Lawkeeper
+		5 Focus of Fadove
+		5 Veteran Party
+		5 Outlands Rescinder
+		5 Rising Haze
+		5 Meirel Caretaker
+		1 Outlander Mercenary
+		5 Fadove Air Supplier
+		5 Cleric of the Dawn
+		5 Light of Hope
+		5 Fall through Reality
+		5 Push Forward
+		5 Rescue Response
+		5 Historys Weave
+		5 Pathfinder Wurm
 	[CommonU]
-		9 Apprentices Drake
-		9 Tiderock Passage
-		9 Vestige Prowler
-		9 Veneer Walker
-		2 Bropheria
-		9 Outlands Explorer
-		9 Migratory Flotilla
-		9 Pathwrought Overseer
-		9 Reshape Eternity
-		9 Consult Eternity
-		9 Fold the Truth
-		9 Alternate Path
-		9 Pristine Denial
-		9 Branching Paths
-		9 Gripping Truths
-		9 Tide of Dismissal
-		9 Crystalline Cover
-		9 A World Without You
+		5 Apprentices Drake
+		5 Tiderock Passage
+		5 Vestige Prowler
+		5 Veneer Walker
+		1 Bropheria
+		5 Outlands Explorer
+		5 Migratory Flotilla
+		5 Pathwrought Overseer
+		5 Reshape Eternity
+		5 Consult Eternity
+		5 Fold the Truth
+		5 Alternate Path
+		5 Pristine Denial
+		5 Branching Paths
+		5 Gripping Truths
+		5 Tide of Dismissal
+		5 Crystalline Cover
+		5 A World Without You
 	[CommonB]
-		9 Pathborn Stinger
-		9 Duskcharm Drake
-		9 Eroding River
-		9 Smogborn Pilferer
-		2 Hedgecrow
-		9 Avakin Trapper
-		9 Relentless Truthseeker
-		9 Scaled Rippler
-		9 Voidborn Horror
-		9 Aeon Tunneler
-		9 You Cant Face Me
-		9 Influence of the Paths
-		9 This Hunger Has a Name
-		9 Foolish Footing
-		9 The Path Back
-		9 Left for the Crows
-		9 Otherworldly Entrance
-		9 Aspect of Moth		
+		5 Pathborn Stinger
+		5 Duskcharm Drake
+		5 Eroding River
+		5 Smogborn Pilferer
+		1 Hedgecrow
+		5 Avakin Trapper
+		5 Relentless Truthseeker
+		5 Scaled Rippler
+		5 Voidborn Horror
+		5 Aeon Tunneler
+		5 You Cant Face Me
+		5 Influence of the Paths
+		5 This Hunger Has a Name
+		5 Foolish Footing
+		5 The Path Back
+		5 Left for the Crows
+		5 Otherworldly Entrance
+		5 Aspect of Moth		
 	[CommonR]
-		9 Clanless Combatant
-		9 Bosket Path
-		9 Fiery Absolver
-		9 Mordel Shaper
-		9 Drougth Explorer
-		9 Inspiring Recruit
-		2 Sprouting Fumes
-		9 Mordel Flamespeaker
-		9 Pathborn Spitter
-		9 Willbournes Flame
-		9 Start of an Adventure
-		9 Shifting Landscape
-		9 Drakes Intuition
-		9 Dance of Discovery
-		9 Smelt Corruption
-		9 Basalt Hammer
-		9 Mordel Hammer
-		9 Warforged Pair
+		5 Clanless Combatant
+		5 Bosket Path
+		5 Fiery Absolver
+		5 Mordel Shaper
+		5 Drougth Explorer
+		5 Inspiring Recruit
+		1 Sprouting Fumes
+		5 Mordel Flamespeaker
+		5 Pathborn Spitter
+		5 Willbournes Flame
+		5 Start of an Adventure
+		5 Shifting Landscape
+		5 Drakes Intuition
+		5 Dance of Discovery
+		5 Smelt Corruption
+		5 Basalt Hammer
+		5 Mordel Hammer
+		5 Warforged Pair
 	[CommonG]
-		9 Depthscout
-		9 Guide With and Through
-		9 Enduring Woodland
-		9 Meirel Traveller
-		2 Shard Bearer
-		9 Clanless Weaver
-		9 Disciple of the Thicket
-		9 Defector of Mordel
-		9 Voice of the Thicket
-		9 Illusion Reamer
-		9 Outland Pair
-		9 Outlands Rescuer
-		9 Open Eternity
-		9 Stand Your Ground
-		9 The Strength to Overcome
-		9 Scale the Heights
-		9 Turbulent Aether
-		9 Surubim Harpoon
+		5 Depthscout
+		5 Guide With and Through
+		5 Enduring Woodland
+		5 Meirel Traveller
+		1 Shard Bearer
+		5 Clanless Weaver
+		5 Disciple of the Thicket
+		5 Defector of Mordel
+		5 Voice of the Thicket
+		5 Illusion Reamer
+		5 Outland Pair
+		5 Outlands Rescuer
+		5 Open Eternity
+		5 Stand Your Ground
+		5 The Strength to Overcome
+		5 Scale the Heights
+		5 Turbulent Aether
+		5 Surubim Harpoon
 	[CommonF]
-		9 Enlightening Crescents
-		9 Dust Converter
-		9 Drougth Attuner
-		9 Adventurous Pair
-		9 Calign
-		9 Avakin Explorer
-		2 Enlisted Arms
-		9 Drougth Oracle
-		9 Mutated Pioneer
-		9 Perspective Shift
-		9 Power from Beyond
-		9 Captivate
-		9 Aerial Assurance
-		9 Journey Through the Self
-		9 Meirel Explorer
-		9 Mana Compression
-		9 Pathworn Blade
-		9 Emigrating Pilgrim
+		5 Enlightening Crescents
+		5 Dust Converter
+		5 Drougth Attuner
+		5 Adventurous Pair
+		5 Calign
+		5 Avakin Explorer
+		1 Enlisted Arms
+		5 Drougth Oracle
+		5 Mutated Pioneer
+		5 Perspective Shift
+		5 Power from Beyond
+		5 Captivate
+		5 Aerial Assurance
+		5 Journey Through the Self
+		5 Meirel Explorer
+		5 Mana Compression
+		5 Pathworn Blade
+		5 Emigrating Pilgrim
 	[Sanctum]
 		3 Sanctum Sanctuary
 		4 Ancient Sigils
@@ -4557,34 +4556,34 @@
 		5 Hostile Pillars
 		5 Duraval Lushfields
 		5 Dawnbreak Resort
-		9 Alpine Meadow
-		9 Barren Fissure
-		9 Crackling Expanse
-		9 Desolate Barrens
-		9 Cleft River
-		9 Fiery Chasm
-		9 Formless Frontier
-		9 Jagged Crag
-		9 Rainforest Spring
-		9 Roaring Cascade
-		9 Sodden Cavern
-		9 Somber Marsh
-		9 Splintered Thicket
-		9 Tectonic Rime
-		9 Tranquil Stream
-		9 Drifting Field
-		9 Drifting Isle
-		9 Drifting Mire
-		9 Drifting Peak
-		9 Drifting Jungle
-		9 Drifting Crevasse
-		9 Drifting Sands
-		9 Glittering Vale
-		9 Sainard Boneyard
-		9 Carrigol Spires
-		9 Dawnshroud Castle
-		9 Soarwing Coast
-		9 Highland Vale
+		5 Alpine Meadow
+		5 Barren Fissure
+		5 Crackling Expanse
+		5 Desolate Barrens
+		5 Cleft River
+		5 Fiery Chasm
+		5 Formless Frontier
+		5 Jagged Crag
+		5 Rainforest Spring
+		5 Roaring Cascade
+		5 Sodden Cavern
+		5 Somber Marsh
+		5 Splintered Thicket
+		5 Tectonic Rime
+		5 Tranquil Stream
+		5 Drifting Field
+		5 Drifting Isle
+		5 Drifting Mire
+		5 Drifting Peak
+		5 Drifting Jungle
+		5 Drifting Crevasse
+		5 Drifting Sands
+		5 Glittering Vale
+		5 Sainard Boneyard
+		5 Carrigol Spires
+		5 Dawnshroud Castle
+		5 Soarwing Coast
+		5 Highland Vale
 	[Basic]
 		0 Forest-01
 		0 Forest-03
