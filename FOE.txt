@@ -1116,7 +1116,7 @@
 	    {
 	        "name": "The Shattering of Meirel",
 	        "rarity": "rare",
-	        "mana_cost": "{8}",
+	        "mana_cost": "{7}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/The%20Shattering%20of%20Meirel.png"
@@ -1138,6 +1138,15 @@
 	        "type": "Legendary Enchantment Creature — Avatar ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Soul%20of%20Vinimroth.png"
+	        }
+	    },
+	    {
+	        "name": "Realmshaper",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Realmshaper.png"
 	        }
 	    },
 	    {
@@ -4130,6 +4139,7 @@
 		2 Trailing Tethers
 		2 Mordel Civil War
 		2 Campsite
+		2 Realmshaper
 	[Arcun]
 		5 Ardent Grief
 		5 Balutr Runners
