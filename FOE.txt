@@ -827,8 +827,8 @@
 	    {
 	        "name": "Journey Through the Self",
 	        "rarity": "common",
-	        "mana_cost": "{1}{C}",
-	        "type": "Sorcery",
+	        "mana_cost": "{C}",
+	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/main/FOE-files/Journey%20Through%20the%20Self.png"
 	        }
