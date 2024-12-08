@@ -1,0 +1,717 @@
+[CustomCards]
+	[    {
+	        "name": "Alpine Meadow",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Plains ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Alpine Meadow.png"
+	        }
+	    },
+	    {
+	        "name": "Barren Fissure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Swamp ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Barren Fissure.png"
+	        }
+	    },
+	    {
+	        "name": "Bountiful Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Bountiful Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Carrigol Spires",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Carrigol Spires.png"
+	        }
+	    },
+	    {
+	        "name": "Cleft River",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Island ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Cleft River.png"
+	        }
+	    },
+	    {
+	        "name": "Communal Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Communal Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Concealed Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Concealed Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Contaminated Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Contaminated Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Crackling Expanse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Plains ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Crackling Expanse.png"
+	        }
+	    },
+	    {
+	        "name": "Crescent Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Crescent Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnshroud Castle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Dawnshroud Castle.png"
+	        }
+	    },
+	    {
+	        "name": "Deceptive Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Deceptive Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Desolate Barrens",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Desolate Barrens.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Crevasse",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Crevasse.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Field",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Field.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Isle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Isle.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Jungle",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Jungle.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Mire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Mire.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Peak",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Peak.png"
+	        }
+	    },
+	    {
+	        "name": "Drifting Sands",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Drifting Sands.png"
+	        }
+	    },
+	    {
+	        "name": "Fiery Chasm",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Mountain ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Fiery Chasm.png"
+	        }
+	    },
+	    {
+	        "name": "Fissured Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Fissured Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Foreboding Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Foreboding Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Formless Frontier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Formless Frontier.png"
+	        }
+	    },
+	    {
+	        "name": "Glittering Vale",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Glittering Vale.png"
+	        }
+	    },
+	    {
+	        "name": "Harrowed Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Harrowed Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Highland Vale",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Forest ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Highland Vale.png"
+	        }
+	    },
+	    {
+	        "name": "Imperious Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Imperious Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Jagged Crag",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Jagged Crag.png"
+	        }
+	    },
+	    {
+	        "name": "Perilous Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Perilous Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Rainforest Spring",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Rainforest Spring.png"
+	        }
+	    },
+	    {
+	        "name": "Roaring Cascade",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Roaring Cascade.png"
+	        }
+	    },
+	    {
+	        "name": "Sainard Boneyard",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Sainard Boneyard.png"
+	        }
+	    },
+	    {
+	        "name": "Scoured Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Scoured Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Seething Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Seething Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Shattered Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Shattered Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Sheltering Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Sheltering Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Soarwing Coast",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Soarwing Coast.png"
+	        }
+	    },
+	    {
+	        "name": "Sodden Cavern",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Island Swamp ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Sodden Cavern.png"
+	        }
+	    },
+	    {
+	        "name": "Somber Marsh",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Somber Marsh.png"
+	        }
+	    },
+	    {
+	        "name": "Splintered Thicket",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Forest ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Splintered Thicket.png"
+	        }
+	    },
+	    {
+	        "name": "Splintering Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Splintering Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Swirling Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Swirling Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Tectonic Rime",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Fault Mountain ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Tectonic Rime.png"
+	        }
+	    },
+	    {
+	        "name": "Tranquil Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Tranquil Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Tranquil Stream",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Plains Island ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Tranquil Stream.png"
+	        }
+	    },
+	    {
+	        "name": "Twisted Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Twisted Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Withered Landscape",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Withered Landscape.png"
+	        }
+	    },
+	    {
+	        "name": "Abandoned Sanctum",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Abandoned Sanctum.png"
+	        }
+	    },
+	    {
+	        "name": "Bloomrock Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Bloomrock Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Brightblossom Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Brightblossom Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Cascading Cleave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Cascading Cleave.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnbreak Resort",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Dawnbreak Resort.png"
+	        }
+	    },
+	    {
+	        "name": "Devoted Riftpike",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Bird ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Devoted Riftpike.png"
+	        }
+	    },
+	    {
+	        "name": "Duraval Lushfields",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Duraval Lushfields.png"
+	        }
+	    },
+	    {
+	        "name": "Errant Pillar",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Minotaur ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Errant Pillar.png"
+	        }
+	    },
+	    {
+	        "name": "Exhausting Foundation",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Icon ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Exhausting Foundation.png"
+	        }
+	    },
+	    {
+	        "name": "Glowspore Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Glowspore Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Hostile Pillars",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Hostile Pillars.png"
+	        }
+	    },
+	    {
+	        "name": "Listless Monument",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Bear ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Listless Monument.png"
+	        }
+	    },
+	    {
+	        "name": "Mistlake Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Mistlake Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Moonglow Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Moonglow Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Ominous Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Warrior ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Ominous Temple.png"
+	        }
+	    },
+	    {
+	        "name": "Persisting Timepiece",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Scout ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Persisting Timepiece.png"
+	        }
+	    },
+	    {
+	        "name": "Roaming Ruins",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Kindred Land — Human ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Roaming Ruins.png"
+	        }
+	    },
+	    {
+	        "name": "Soaring Tethers",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Soaring Tethers.png"
+	        }
+	    },
+	    {
+	        "name": "Sunswept Prairie",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Sunswept Prairie.png"
+	        }
+	    },
+	    {
+	        "name": "Thyrsine Way",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Thyrsine Way.png"
+	        }
+	    },
+	    {
+	        "name": "Vibrant Knoll",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Vibrant Knoll.png"
+	        }
+	    },
+	    {
+	        "name": "Vineglare Enclave",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Vineglare Enclave.png"
+	        }
+	    },
+	    {
+	        "name": "Windy Weft",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Frontier ",
+	        "image_uris": {
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Windy Weft.png"
+	        }
+	    }
+	]
+	[RareSlot(0)]
+	[UncommonSlot(3)]
+		4 Abandoned Sanctum
+		4 Bloomrock Enclave
+		4 Brightblossom Enclave
+		4 Cascading Cleave
+		4 Dawnbreak Resort
+		4 Devoted Riftpike
+		4 Duraval Lushfields
+		4 Errant Pillar
+		4 Exhausting Foundation
+		4 Glowspore Enclave
+		4 Hostile Pillars
+		4 Listless Monument
+		4 Mistlake Enclave
+		4 Moonglow Enclave
+		4 Ominous Temple
+		4 Persisting Timepiece
+		4 Roaming Ruins
+		4 Soaring Tethers
+		4 Sunswept Prairie
+		4 Thyrsine Way
+		4 Vibrant Knoll
+		4 Vineglare Enclave
+		4 Windy Weft
+	[CommonSlot(10)]
+		9 Alpine Meadow
+		9 Barren Fissure
+		9 Bountiful Landscape
+		9 Carrigol Spires
+		9 Cleft River
+		9 Communal Landscape
+		9 Concealed Landscape
+		9 Contaminated Landscape
+		9 Crackling Expanse
+		9 Crescent Landscape
+		9 Dawnshroud Castle
+		9 Deceptive Landscape
+		9 Desolate Barrens
+		9 Drifting Crevasse
+		9 Drifting Field
+		9 Drifting Isle
+		9 Drifting Jungle
+		9 Drifting Mire
+		9 Drifting Peak
+		9 Drifting Sands
+		9 Fiery Chasm
+		9 Fissured Landscape
+		9 Foreboding Landscape
+		9 Formless Frontier
+		9 Glittering Vale
+		9 Harrowed Landscape
+		9 Highland Vale
+		9 Imperious Landscape
+		9 Jagged Crag
+		9 Perilous Landscape
+		9 Rainforest Spring
+		9 Roaring Cascade
+		9 Sainard Boneyard
+		9 Scoured Landscape
+		9 Seething Landscape
+		9 Shattered Landscape
+		9 Sheltering Landscape
+		9 Soarwing Coast
+		9 Sodden Cavern
+		9 Somber Marsh
+		9 Splintered Thicket
+		9 Splintering Landscape
+		9 Swirling Landscape
+		9 Tectonic Rime
+		9 Tranquil Landscape
+		9 Tranquil Stream
+		9 Twisted Landscape
+		9 Withered Landscape
+	[BasicSlot(0)]
+	

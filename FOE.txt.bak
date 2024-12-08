@@ -5,7 +5,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Rustic%20Cultivator.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Rustic%20Cultivator.png"
 	        }
 	    },
 	    {
@@ -36,7 +36,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Light%20of%20Hope.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Light%20of%20Hope.png"
 	        }
 	    },
 	    {
@@ -44,7 +44,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/History%27s%20Weave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/History%27s%20Weave.png"
 	        },
 	        "printed names": {
 	            "en": "History's Weave"
@@ -55,7 +55,7 @@
 	                "en": "Khestri's Salve"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Khestri%27s%20Salve.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Khestri%27s%20Salve.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -66,7 +66,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fall%20through%20Reality.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fall%20through%20Reality.png"
 	        }
 	    },
 	    {
@@ -75,7 +75,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Rabbit Detective ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Meirel%20Pathwalker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Meirel%20Pathwalker.png"
 	        }
 	    },
 	    {
@@ -84,7 +84,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Staggering%20Spires.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Staggering%20Spires.png"
 	        },
 	        "printed names": {
 	            "en": "Staggering Spires"
@@ -95,7 +95,7 @@
 	                "en": "Monument In Unity"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Monument In Unity.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Monument In Unity.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -106,7 +106,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathfinder%20Wurm.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pathfinder%20Wurm.png"
 	        }
 	    },
 	    {
@@ -115,7 +115,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment Creature — Icon Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Rising%20Haze.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Rising%20Haze.png"
 	        }
 	    },
 	    {
@@ -124,7 +124,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Fox Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Meirel%20Caretaker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Meirel%20Caretaker.png"
 	        }
 	    },
 	    {
@@ -133,7 +133,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Rescinder.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlands%20Rescinder.png"
 	        }
 	    },
 	    {
@@ -142,7 +142,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlander%20Mercenary.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlander%20Mercenary.png"
 	        }
 	    },
 	    {
@@ -151,7 +151,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fadove%20Lawkeeper.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fadove%20Lawkeeper.png"
 	        }
 	    },
 	    {
@@ -160,7 +160,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fadove%20Air%20Supplier.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fadove%20Air%20Supplier.png"
 	        }
 	    },
 	    {
@@ -169,7 +169,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Veteran%20Party.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Veteran%20Party.png"
 	        }
 	    },
 	    {
@@ -178,7 +178,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cleric%20of%20the%20Dawn.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cleric%20of%20the%20Dawn.png"
 	        }
 	    },
 	    {
@@ -187,7 +187,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Focus%20of%20Fadove.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Focus%20of%20Fadove.png"
 	        }
 	    },
 	    {
@@ -196,7 +196,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outfoxed.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outfoxed.png"
 	        }
 	    },
 	    {
@@ -205,7 +205,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Apprentices%20Drake.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Apprentices%20Drake.png"
 	        }
 	    },
 	    {
@@ -213,7 +213,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crystalline%20Cover.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Crystalline%20Cover.png"
 	        },
 	        "printed names": {
 	            "en": "Crystalline Cover"
@@ -224,7 +224,7 @@
 	                "en": "Tesselation"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tesselation.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Tesselation.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -235,7 +235,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tiderock%20Passage.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Tiderock%20Passage.png"
 	        },
 	        "printed names": {
 	            "en": "Tiderock Passage"
@@ -246,7 +246,7 @@
 	                "en": "Misty Aisle"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Misty Aisle.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-Files/Misty Aisle.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -257,7 +257,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fold%20the%20Truth.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fold%20the%20Truth.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Consult%20Eternity.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Consult%20Eternity.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pristine%20Denial.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pristine%20Denial.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Reshape%20Eternity.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Reshape%20Eternity.png"
 	        }
 	    },
 	    {
@@ -292,7 +292,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Orb Eye ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathwrought%20Overseer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pathwrought%20Overseer.png"
 	        },
 	        "printed names": {
 	            "en": "Pathwrought Overseer"
@@ -303,7 +303,7 @@
 	                "en": "Observed"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Observed.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Observed.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -314,7 +314,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Veneer%20Walker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Veneer%20Walker.png"
 	        }
 	    },
 	    {
@@ -323,7 +323,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Elf Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Trailblazer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlands%20Trailblazer.png"
 	        }
 	    },
 	    {
@@ -332,7 +332,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Cat Shark ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Vestige%20Prowler.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Vestige%20Prowler.png"
 	        }
 	    },
 	    {
@@ -341,7 +341,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Dragon Turtle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ridgeback%20Dragonturtle.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ridgeback%20Dragonturtle.png"
 	        }
 	    },
 	    {
@@ -350,7 +350,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Jellyfish ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bropheria.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Bropheria.png"
 	        }
 	    },
 	    {
@@ -359,7 +359,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Gripping%20Truths.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Gripping%20Truths.png"
 	        }
 	    },
 	    {
@@ -368,7 +368,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment Creature — Icon Whale ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Migratory%20Flotilla.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Migratory%20Flotilla.png"
 	        }
 	    },
 	    {
@@ -377,7 +377,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fly%20Away%20With%20Me.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fly%20Away%20With%20Me.png"
 	        }
 	    },
 	    {
@@ -385,7 +385,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Aspect%20of%20Moth.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Aspect%20of%20Moth.png"
 	        },
 	        "printed names": {
 	            "en": "Aspect of Moth"
@@ -396,7 +396,7 @@
 	                "en": "Separations"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Separations.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Separations.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -407,7 +407,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/You%20Cant%20Face%20Me.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/You%20Cant%20Face%20Me.png"
 	        }
 	    },
 	    {
@@ -416,7 +416,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Duskcharm%20Drake.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Duskcharm%20Drake.png"
 	        }
 	    },
 	    {
@@ -425,7 +425,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Eroding%20River.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Eroding%20River.png"
 	        },
 	        "printed names": {
 	            "en": "Eroding River"
@@ -436,7 +436,7 @@
 	                "en": "Pinnacle Spillway"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pinnacle Spillway.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pinnacle Spillway.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -447,7 +447,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Foolish%20Footing.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Foolish%20Footing.png"
 	        }
 	    },
 	    {
@@ -456,7 +456,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment Creature — Icon Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Smogborn%20Pilferer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Smogborn%20Pilferer.png"
 	        }
 	    },
 	    {
@@ -465,7 +465,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bird Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Avakin%20Trapper.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Avakin%20Trapper.png"
 	        }
 	    },
 	    {
@@ -474,7 +474,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bird Plant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Hedgecrow.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Hedgecrow.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Lizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Scaled%20Rippler.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Scaled%20Rippler.png"
 	        },
 	        "printed names": {
 	            "en": "Scaled Rippler"
@@ -493,7 +493,7 @@
 	                "en": "Lunging Mitosis"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Lunging%20Mitosis.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Lunging%20Mitosis.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -504,7 +504,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Left%20for%20the%20Crows.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Left%20for%20the%20Crows.png"
 	        }
 	    },
 	    {
@@ -513,7 +513,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Relentless%20Truthseeker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Relentless%20Truthseeker.png"
 	        }
 	    },
 	    {
@@ -522,7 +522,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Otherworldly%20Entrance.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Otherworldly%20Entrance.png"
 	        }
 	    },
 	    {
@@ -531,7 +531,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Insect Lizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathborn%20Stinger.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pathborn%20Stinger.png"
 	        }
 	    },
 	    {
@@ -540,7 +540,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Voidborn%20Horror.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Voidborn%20Horror.png"
 	        }
 	    },
 	    {
@@ -549,7 +549,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Bird Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Avakin%20Devotee.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Avakin%20Devotee.png"
 	        }
 	    },
 	    {
@@ -558,7 +558,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pioneer%27s%20Premonition.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pioneer%27s%20Premonition.png"
 	        }
 	    },
 	    {
@@ -566,7 +566,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Basalt%20Hammer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Basalt%20Hammer.png"
 	        },
 	        "printed names": {
 	            "en": "Basalt Hammer"
@@ -577,7 +577,7 @@
 	                "en": "Burning Fury"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Burning%20Fury.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Burning%20Fury.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -588,7 +588,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Bird Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Clanless%20Combatant.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Clanless%20Combatant.png"
 	        }
 	    },
 	    {
@@ -597,7 +597,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Willbournes%20Flame.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Willbournes%20Flame.png"
 	        }
 	    },
 	    {
@@ -606,7 +606,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment Creature — Icon Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fiery%20Absolver.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fiery%20Absolver.png"
 	        }
 	    },
 	    {
@@ -615,7 +615,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Cat Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drougth%20Adventurer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drougth%20Adventurer.png"
 	        }
 	    },
 	    {
@@ -624,7 +624,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Warforged%20Pair.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Warforged%20Pair.png"
 	        }
 	    },
 	    {
@@ -632,7 +632,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Minotaur Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mordel%20Hammer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mordel%20Hammer.png"
 	        },
 	        "printed names": {
 	            "en": "Mordel Hammer"
@@ -643,7 +643,7 @@
 	                "en": "Passive Intimidation"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Passive%20Intimidation.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Passive%20Intimidation.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -653,7 +653,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathborn%20Spitter.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pathborn%20Spitter.png"
 	        },
 	        "printed names": {
 	            "en": "Pathborn Spitter"
@@ -664,7 +664,7 @@
 	                "en": "Backup Mortar"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Backup%20Mortar.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Backup%20Mortar.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -675,7 +675,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mordel%20Flamespeaker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mordel%20Flamespeaker.png"
 	        }
 	    },
 	    {
@@ -684,7 +684,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drakes%20Intuition.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drakes%20Intuition.png"
 	        }
 	    },
 	    {
@@ -693,7 +693,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Smelt%20Corruption.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Smelt%20Corruption.png"
 	        }
 	    },
 	    {
@@ -702,7 +702,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Minotaur Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mordel%20Shaper.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mordel%20Shaper.png"
 	        }
 	    },
 	    {
@@ -711,7 +711,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shifting%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Shifting%20Landscape.png"
 	        }
 	    },
 	    {
@@ -720,7 +720,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Wurm Plant Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Depthscout.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Depthscout.png"
 	        }
 	    },
 	    {
@@ -729,7 +729,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Disciple%20of%20the%20Thicket.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Disciple%20of%20the%20Thicket.png"
 	        }
 	    },
 	    {
@@ -738,7 +738,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Enduring%20Woodland.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Enduring%20Woodland.png"
 	        },
 	        "printed names": {
 	            "en": "Enduring Woodland"
@@ -749,7 +749,7 @@
 	                "en": "Deepwoods Pillars"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Deepwoods Pillars.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Deepwoods Pillars.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -759,7 +759,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Surubim%20Harpoon.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Surubim%20Harpoon.png"
 	        },
 	        "printed names": {
 	            "en": "Surubim Harpoon"
@@ -770,7 +770,7 @@
 	                "en": "Piercing Throw"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Piercing%20Throw.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Piercing%20Throw.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -781,7 +781,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Wolf Nomad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Meirel%20Traveller.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Meirel%20Traveller.png"
 	        }
 	    },
 	    {
@@ -790,7 +790,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Icon Elk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shard%20Bearer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Shard%20Bearer.png"
 	        }
 	    },
 	    {
@@ -799,7 +799,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Clanless%20Weaver.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Clanless%20Weaver.png"
 	        }
 	    },
 	    {
@@ -808,7 +808,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Wurm Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Illusion%20Reamer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Illusion%20Reamer.png"
 	        }
 	    },
 	    {
@@ -817,7 +817,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment Creature — Icon Elk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Voice%20of%20the%20Thicket.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Voice%20of%20the%20Thicket.png"
 	        }
 	    },
 	    {
@@ -826,7 +826,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Inspiring%20Recruit.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Inspiring%20Recruit.png"
 	        }
 	    },
 	    {
@@ -834,7 +834,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dance%20of%20Discovery.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dance%20of%20Discovery.png"
 	        },
 	        "printed names": {
 	            "en": "Dance of Discovery"
@@ -845,7 +845,7 @@
 	                "en": "Unburdened"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Unburdened.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Unburdened.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -856,7 +856,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Wolf Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outland%20Pair.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outland%20Pair.png"
 	        }
 	    },
 	    {
@@ -864,7 +864,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Rescuer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlands%20Rescuer.png"
 	        },
 	        "printed names": {
 	            "en": "Outlands Rescuer"
@@ -875,7 +875,7 @@
 	                "en": "Distraction!"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Distraction!.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Distraction!.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -886,7 +886,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Stand%20Your%20Ground.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Stand%20Your%20Ground.png"
 	        }
 	    },
 	    {
@@ -895,7 +895,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Guide%20With%20and%20Through.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Guide%20With%20and%20Through.png"
 	        }
 	    },
 	    {
@@ -904,7 +904,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Teachings%20of%20the%20Coiled.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Teachings%20of%20the%20Coiled.png"
 	        }
 	    },
 	    {
@@ -912,7 +912,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/The%20Strength%20to%20Overcome.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/The%20Strength%20to%20Overcome.png"
 	        },
 	        "printed names": {
 	            "en": "The Strength to Overcome"
@@ -923,7 +923,7 @@
 	                "en": "Search The Heights"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Search%20The%20Heights.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Search%20The%20Heights.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -934,7 +934,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Turbulent%20Aether.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Turbulent%20Aether.png"
 	        }
 	    },
 	    {
@@ -943,7 +943,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dust%20Converter.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dust%20Converter.png"
 	        }
 	    },
 	    {
@@ -952,7 +952,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Bird Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Avakin%20Adventurer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Avakin%20Adventurer.png"
 	        }
 	    },
 	    {
@@ -961,7 +961,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Creature — Fox Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Meirel%20Drifter.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Meirel%20Drifter.png"
 	        }
 	    },
 	    {
@@ -969,7 +969,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathworn%20Blade.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pathworn%20Blade.png"
 	        },
 	        "printed names": {
 	            "en": "Pathworn Blade"
@@ -980,7 +980,7 @@
 	                "en": "Spirited Truth"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Spirited%20Truth.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Spirited%20Truth.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -991,7 +991,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Power%20from%20Beyond.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Power%20from%20Beyond.png"
 	        }
 	    },
 	    {
@@ -1000,7 +1000,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Drake Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Calign.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Calign.png"
 	        }
 	    },
 	    {
@@ -1009,7 +1009,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Captivate.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Captivate.png"
 	        }
 	    },
 	    {
@@ -1018,7 +1018,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Adventurous%20Pair.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Adventurous%20Pair.png"
 	        }
 	    },
 	    {
@@ -1026,7 +1026,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drougth%20Attuner.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drougth%20Attuner.png"
 	        },
 	        "printed names": {
 	            "en": "Drougth Attuner"
@@ -1037,7 +1037,7 @@
 	                "en": "Finding Stability"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Finding%20Stability.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Finding%20Stability.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -1048,7 +1048,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Perspective%20Shift.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Perspective%20Shift.png"
 	        }
 	    },
 	    {
@@ -1056,7 +1056,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Enchantment Creature — Wolf Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Enlisted%20Arms.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Enlisted%20Arms.png"
 	        },
 	        "printed names": {
 	            "en": "Enlisted Arms"
@@ -1067,7 +1067,7 @@
 	                "en": "Free to Fly"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Free%20to%20Fly.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Free%20to%20Fly.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -1078,7 +1078,7 @@
 	        "mana_cost": "{3}{C}",
 	        "type": "Enchantment Creature — Icon Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Emigrating%20Pilgrim.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Emigrating%20Pilgrim.png"
 	        }
 	    },
 	    {
@@ -1087,7 +1087,7 @@
 	        "mana_cost": "{3}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mana%20Compression.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mana%20Compression.png"
 	        }
 	    },
 	    {
@@ -1096,7 +1096,7 @@
 	        "mana_cost": "{6}{C}",
 	        "type": "Creature — Cat Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drougth%20Oracle.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drougth%20Oracle.png"
 	        }
 	    },
 	    {
@@ -1105,7 +1105,7 @@
 	        "mana_cost": "{3}{C}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Enlightening%20Crescents.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Enlightening%20Crescents.png"
 	        },
 	        "printed names": {
 	            "en": "Enlightening Crescents"
@@ -1116,7 +1116,7 @@
 	                "en": "Depths of Change"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Depths%20of%20Change.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Depths%20of%20Change.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -1127,7 +1127,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Creature — Wurm Crab Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mutated%20Pioneer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mutated%20Pioneer.png"
 	        }
 	    },
 	    {
@@ -1136,7 +1136,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Somber%20Marsh.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Somber%20Marsh.png"
 	        }
 	    },
 	    {
@@ -1145,7 +1145,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Mire.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Mire.png"
 	        }
 	    },
 	    {
@@ -1154,7 +1154,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fiery%20Chasm.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fiery%20Chasm.png"
 	        }
 	    },
 	    {
@@ -1163,7 +1163,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Barren%20Fissure.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Barren%20Fissure.png"
 	        }
 	    },
 	    {
@@ -1172,7 +1172,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sodden%20Cavern.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sodden%20Cavern.png"
 	        }
 	    },
 	    {
@@ -1181,7 +1181,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Rainforest%20Spring.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Rainforest%20Spring.png"
 	        }
 	    },
 	    {
@@ -1190,7 +1190,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Isle.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Isle.png"
 	        }
 	    },
 	    {
@@ -1199,7 +1199,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Roaring%20Cascade.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Roaring%20Cascade.png"
 	        }
 	    },
 	    {
@@ -1208,7 +1208,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cleft%20River.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cleft%20River.png"
 	        }
 	    },
 	    {
@@ -1217,7 +1217,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Jungle.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Jungle.png"
 	        }
 	    },
 	    {
@@ -1226,7 +1226,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Splintered%20Thicket.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Splintered%20Thicket.png"
 	        }
 	    },
 	    {
@@ -1235,7 +1235,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Carrigol%20Spires.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Carrigol%20Spires.png"
 	        }
 	    },
 	    {
@@ -1244,7 +1244,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dawnshroud%20Castle.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dawnshroud%20Castle.png"
 	        }
 	    },
 	    {
@@ -1253,7 +1253,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Sands.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Sands.png"
 	        }
 	    },
 	    {
@@ -1262,7 +1262,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Formless%20Frontier.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Formless%20Frontier.png"
 	        }
 	    },
 	    {
@@ -1271,7 +1271,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Glittering%20Vale.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Glittering%20Vale.png"
 	        }
 	    },
 	    {
@@ -1280,7 +1280,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sainard%20Boneyard.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sainard%20Boneyard.png"
 	        }
 	    },
 	    {
@@ -1289,7 +1289,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Soarwing%20Coast.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Soarwing%20Coast.png"
 	        }
 	    },
 	    {
@@ -1298,7 +1298,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Highland%20Vale.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Highland%20Vale.png"
 	        }
 	    },
 	    {
@@ -1307,7 +1307,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Peak.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Peak.png"
 	        }
 	    },
 	    {
@@ -1316,7 +1316,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tectonic%20Rime.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Tectonic%20Rime.png"
 	        }
 	    },
 	    {
@@ -1325,7 +1325,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Crevasse.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Crevasse.png"
 	        }
 	    },
 	    {
@@ -1334,7 +1334,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Desolate%20Barrens.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Desolate%20Barrens.png"
 	        }
 	    },
 	    {
@@ -1343,7 +1343,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tranquil%20Stream.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Tranquil%20Stream.png"
 	        }
 	    },
 	    {
@@ -1352,7 +1352,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Alpine%20Meadow.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Alpine%20Meadow.png"
 	        }
 	    },
 	    {
@@ -1361,7 +1361,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drifting%20Field.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drifting%20Field.png"
 	        }
 	    },
 	    {
@@ -1370,7 +1370,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Jagged%20Crag.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Jagged%20Crag.png"
 	        }
 	    },
 	    {
@@ -1379,7 +1379,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Fault Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crackling%20Expanse.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crackling%20Expanse.png"
 	        }
 	    },
 	    {
@@ -1388,7 +1388,7 @@
 	        "mana_cost": "{2}{C}{W}",
 	        "type": "Creature — Faerie Dog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Morraire%20Shimmer%20Patrol.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Morraire%20Shimmer%20Patrol.png"
 	        }
 	    },
 	    {
@@ -1397,7 +1397,7 @@
 	        "mana_cost": "{4}{C}{W}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Coiling%20Jailer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Coiling%20Jailer.png"
 	        }
 	    },
 	    {
@@ -1406,7 +1406,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Creature — Wurm Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sisters%20in%20Sorrow.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sisters%20in%20Sorrow.png"
 	        }
 	    },
 	    {
@@ -1415,7 +1415,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Feather%20Piper.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Feather%20Piper.png"
 	        }
 	    },
 	    {
@@ -1424,7 +1424,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Whisperer%20of%20the%20Paths.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Whisperer%20of%20the%20Paths.png"
 	        }
 	    },
 	    {
@@ -1433,7 +1433,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Kindred Enchantment — Cat Entity ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sunlace%20Panthera.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sunlace%20Panthera.png"
 	        }
 	    },
 	    {
@@ -1442,7 +1442,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Enchantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shadow%20of%20Grace.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Shadow%20of%20Grace.png"
 	        }
 	    },
 	    {
@@ -1451,7 +1451,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Latent%20Powerstone.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Latent%20Powerstone.png"
 	        }
 	    },
 	    {
@@ -1460,7 +1460,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathward%20Riftcalling.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Pathward%20Riftcalling.png"
 	        }
 	    },
 	    {
@@ -1469,7 +1469,7 @@
 	        "mana_cost": "{2}{W}{B}",
 	        "type": "Enchantment Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Menithel%20Demon.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Menithel%20Demon.png"
 	        }
 	    },
 	    {
@@ -1478,7 +1478,7 @@
 	        "mana_cost": "{3}{C}{R}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cydina%20Storm%20Drake.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cydina%20Storm%20Drake.png"
 	        }
 	    },
 	    {
@@ -1487,7 +1487,7 @@
 	        "mana_cost": "{1}{C}{R}",
 	        "type": "Creature — Jellyfish Snail ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Flowsnail.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Flowsnail.png"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Creature — Bear Shaman Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mordel%20Spiritcaller.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mordel%20Spiritcaller.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "{3}{R}{G}",
 	        "type": "Creature — Human Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ignelscor%20Frontliner.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ignelscor%20Frontliner.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "{C}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Promise%20of%20Hunger.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Promise%20of%20Hunger.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "{2}{C}{G}",
 	        "type": "Creature — Human Wolf Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Balutr%20Runners.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Balutr%20Runners.png"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	        "mana_cost": "",
 	        "type": "Reminder",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sanctum%20Reminder.png"
 	        }
 	    },
 	    {
@@ -1540,7 +1540,7 @@
 	        "mana_cost": "{C}{U}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drake%20Mentor.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Drake%20Mentor.png"
 	        },
 	        "printed names": {
 	            "en": "Drake Mentor"
@@ -1551,7 +1551,7 @@
 	                "en": "Recall Teachings"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Recall%20Teachings.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Recall%20Teachings.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{2}{C}{U}",
 	        "type": "Creature — Chimera ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Boundless%20Flight.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Boundless%20Flight.png"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Kindred Enchantment — Fish Entity ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Upsurge%20Nemato-Gnathi.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Upsurge%20Nemato-Gnathi.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Duraval%20Starmapper.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Duraval%20Starmapper.png"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Kaln-Ocean%20Harmonizer.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Kaln-Ocean%20Harmonizer.png"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Creature — Human Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Duelists.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlands%20Duelists.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{4}{U}{B}",
 	        "type": "Creature — Cat Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Meirel%20Pathrunner.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Meirel%20Pathrunner.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Enchantment Creature — Icon Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Those%20Lost%20in%20the%20Paths.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Those%20Lost%20in%20the%20Paths.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{2}{C}{B}",
 	        "type": "Creature — Fish Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Calamitous%20Koi.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Calamitous%20Koi.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{3}{C}{B}",
 	        "type": "Creature — Angel Reflection ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Omen%20of%20Hunger.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Omen%20of%20Hunger.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Enchantment Creature — Icon Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ardent%20Grief.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ardent%20Grief.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Human Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ignelscor%20Weaver.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ignelscor%20Weaver.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{3}{B}{G}",
 	        "type": "Creature — Horror Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mourncast%20Disciple.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mourncast%20Disciple.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Battle — Siege ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Remnants%20of%20the%20War.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Remnants%20of%20the%20War.png"
 	        },
 	        "printed names": {
 	            "en": "Remnants of the War"
@@ -1681,7 +1681,7 @@
 	                "en": "Guardian of the Cinders"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Guardian%20of%20the%20Cinders.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Guardian%20of%20the%20Cinders.png"
 	            },
 	            "type": "Enchantment Creature — Icon Warlock "
 	        }
@@ -1692,7 +1692,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Monument%20to%20Forever.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Monument%20to%20Forever.png"
 	        }
 	    },
 	    {
@@ -1701,7 +1701,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Enchantment Creature — Elk Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Kilnhart%20Smoghorn.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Kilnhart%20Smoghorn.png"
 	        }
 	    },
 	    {
@@ -1710,7 +1710,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Enchantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ambitious%20Haze.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ambitious%20Haze.png"
 	        }
 	    },
 	    {
@@ -1719,7 +1719,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Lisses%20Drakesteel%20Phylactery.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Lisses%20Drakesteel%20Phylactery.png"
 	        }
 	    },
 	    {
@@ -1728,7 +1728,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Clerics%20Claymore.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Clerics%20Claymore.png"
 	        }
 	    },
 	    {
@@ -1737,7 +1737,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crystalline%20Refraction.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Crystalline%20Refraction.png"
 	        }
 	    },
 	    {
@@ -1746,7 +1746,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Human Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Homestead%20Pair.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Homestead%20Pair.png"
 	        }
 	    },
 	    {
@@ -1755,7 +1755,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Echantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Parading%20Terrain.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Parading%20Terrain.png"
 	        }
 	    },
 	    {
@@ -1764,7 +1764,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Discover%20Uncertainty.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Discover%20Uncertainty.png"
 	        }
 	    },
 	    {
@@ -1773,7 +1773,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/When%20Words%20Dont%20Work.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/When%20Words%20Dont%20Work.png"
 	        }
 	    },
 	    {
@@ -1782,7 +1782,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Enchantment Creature — Icon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Iconic%20Challenger.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Iconic%20Challenger.png"
 	        }
 	    },
 	    {
@@ -1791,7 +1791,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Unweave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Unweave.png"
 	        }
 	    },
 	    {
@@ -1800,7 +1800,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Concealing%20Ruins.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Concealing%20Ruins.png"
 	        },
 	        "printed names": {
 	            "en": "Concealing Ruins"
@@ -1811,7 +1811,7 @@
 	                "en": "Concealed Passage"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Concealed%20Passage.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Concealed%20Passage.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -1821,7 +1821,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Blade%20Reifier.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Blade%20Reifier.png"
 	        },
 	        "printed names": {
 	            "en": "Blade Reifier"
@@ -1832,7 +1832,7 @@
 	                "en": "Shimmered Form"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shimmered%20Form.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Shimmered%20Form.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -1843,7 +1843,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ignelscor%20Witch.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ignelscor%20Witch.png"
 	        }
 	    },
 	    {
@@ -1852,7 +1852,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Wurm Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Kornas%20Forward.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Kornas%20Forward.png"
 	        }
 	    },
 	    {
@@ -1861,7 +1861,7 @@
 	        "mana_cost": "{1}{C}{C}",
 	        "type": "Creature — Hyena Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Meirel%20Evacuator.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Meirel%20Evacuator.png"
 	        }
 	    },
 	    {
@@ -1870,7 +1870,7 @@
 	        "mana_cost": "{2}{C}{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Unending%20Exploration.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Unending%20Exploration.png"
 	        }
 	    },
 	    {
@@ -1879,7 +1879,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cascading%20Cleave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cascading%20Cleave.png"
 	        }
 	    },
 	    {
@@ -1888,7 +1888,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Persisting%20Timepiece.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Persisting%20Timepiece.png"
 	        }
 	    },
 	    {
@@ -1897,7 +1897,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Vineglare%20Enclave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Vineglare%20Enclave.png"
 	        }
 	    },
 	    {
@@ -1906,7 +1906,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Inkblot%20Artist.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Inkblot%20Artist.png"
 	        }
 	    },
 	    {
@@ -1915,7 +1915,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Reflected%20Inclination.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Reflected%20Inclination.png"
 	        }
 	    },
 	    {
@@ -1924,7 +1924,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Wandering%20Travellers.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Wandering%20Travellers.png"
 	        }
 	    },
 	    {
@@ -1933,7 +1933,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bloomrock%20Enclave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Bloomrock%20Enclave.png"
 	        }
 	    },
 	    {
@@ -1942,7 +1942,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Brightblossom%20Enclave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Brightblossom%20Enclave.png"
 	        }
 	    },
 	    {
@@ -1951,7 +1951,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dawnbreak%20Resort.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dawnbreak%20Resort.png"
 	        }
 	    },
 	    {
@@ -1960,7 +1960,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Devoted%20Riftpike.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Devoted%20Riftpike.png"
 	        }
 	    },
 	    {
@@ -1969,7 +1969,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Duraval%20Lushfields.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Duraval%20Lushfields.png"
 	        }
 	    },
 	    {
@@ -1978,7 +1978,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Minotaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Errant%20Pillar.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Errant%20Pillar.png"
 	        }
 	    },
 	    {
@@ -1987,7 +1987,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Exhausting%20Foundation.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Exhausting%20Foundation.png"
 	        }
 	    },
 	    {
@@ -1996,7 +1996,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Glowspore%20Enclave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Glowspore%20Enclave.png"
 	        }
 	    },
 	    {
@@ -2005,7 +2005,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Hostile%20Pillars.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Hostile%20Pillars.png"
 	        }
 	    },
 	    {
@@ -2014,7 +2014,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Bear ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Listless%20Monument.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Listless%20Monument.png"
 	        }
 	    },
 	    {
@@ -2023,7 +2023,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mistlake%20Enclave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mistlake%20Enclave.png"
 	        }
 	    },
 	    {
@@ -2032,7 +2032,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Moonglow%20Enclave.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Moonglow%20Enclave.png"
 	        }
 	    },
 	    {
@@ -2041,7 +2041,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ominous%20Temple.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ominous%20Temple.png"
 	        }
 	    },
 	    {
@@ -2050,7 +2050,7 @@
 	        "mana_cost": "",
 	        "type": "Kindred Land — Human ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Roaming%20Ruins.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Roaming%20Ruins.png"
 	        }
 	    },
 	    {
@@ -2059,7 +2059,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Soaring%20Tethers.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Soaring%20Tethers.png"
 	        }
 	    },
 	    {
@@ -2068,7 +2068,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sunswept%20Prairie.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sunswept%20Prairie.png"
 	        }
 	    },
 	    {
@@ -2077,7 +2077,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Thyrsine%20Way.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Thyrsine%20Way.png"
 	        }
 	    },
 	    {
@@ -2086,7 +2086,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Vibrant%20Knoll.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Vibrant%20Knoll.png"
 	        }
 	    },
 	    {
@@ -2095,7 +2095,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Frontier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Windy%20Weft.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Windy%20Weft.png"
 	        }
 	    },
 	    {
@@ -2104,7 +2104,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Abandoned%20Sanctum.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Abandoned%20Sanctum.png"
 	        }
 	    },
 	    {
@@ -2113,7 +2113,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Contaminated%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Contaminated%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2122,7 +2122,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Imperious%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Imperious%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2131,7 +2131,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Harrowed%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Harrowed%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2140,7 +2140,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crescent%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Crescent%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2149,7 +2149,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Splintering%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Splintering%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2158,7 +2158,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Communal%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Communal%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2167,7 +2167,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Withered%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Withered%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2176,7 +2176,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Concealed%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Concealed%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2185,7 +2185,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Swirling%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Swirling%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2194,7 +2194,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fissured%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fissured%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2203,7 +2203,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Scoured%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Scoured%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2212,7 +2212,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Foreboding%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Foreboding%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2221,7 +2221,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Perilous%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Perilous%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2230,7 +2230,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Deceptive%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Deceptive%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2239,7 +2239,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bountiful%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Bountiful%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2248,7 +2248,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shattered%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Shattered%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2257,7 +2257,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tranquil%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Tranquil%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2266,7 +2266,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sheltering%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Sheltering%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2275,7 +2275,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Twisted%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Twisted%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2284,7 +2284,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Seething%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Seething%20Landscape.png"
 	        }
 	    },
 	    {
@@ -2293,7 +2293,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bosket%20Peak.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bosket%20Peak.png"
 	        },
 	        "printed names": {
 	            "en": "Bosket Peak"
@@ -2304,7 +2304,7 @@
 	                "en": "Peaks of War"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Peaks%20of%20War.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Peaks%20of%20War.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2314,7 +2314,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment Creature — Icon Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Recruiter.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlands%20Recruiter.png"
 	        },
 	        "printed names": {
 	            "en": "Outlands Recruiter"
@@ -2325,7 +2325,7 @@
 	                "en": "Follow My Call"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Follow%20My%20Call.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Follow%20My%20Call.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -2336,7 +2336,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Mouse Bird Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Julius%20Skyknight%20of%20Morriare.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Julius%20Skyknight%20of%20Morriare.png"
 	        }
 	    },
 	    {
@@ -2345,7 +2345,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Yearn%20for%20the%20Sky.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Yearn%20for%20the%20Sky.png"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment Creature — Icon Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Marching%20Partisan.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Marching%20Partisan.png"
 	        }
 	    },
 	    {
@@ -2363,7 +2363,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Hyena Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outland%20Riftsower.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outland%20Riftsower.png"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Wurm Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Clanless%20Tunneler.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Clanless%20Tunneler.png"
 	        }
 	    },
 	    {
@@ -2381,7 +2381,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment Creature — Icon Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Coalesced%20Company.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Coalesced%20Company.png"
 	        }
 	    },
 	    {
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Inspiring%20Dunes.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Inspiring%20Dunes.png"
 	        }
 	    },
 	    {
@@ -2399,7 +2399,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Hengs%20Intercession.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Hengs%20Intercession.png"
 	        }
 	    },
 	    {
@@ -2408,7 +2408,7 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Creature — Wurm Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mentor%20of%20Engagement.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mentor%20of%20Engagement.png"
 	        }
 	    },
 	    {
@@ -2417,7 +2417,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Winding%20Guide.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Winding%20Guide.png"
 	        }
 	    },
 	    {
@@ -2425,7 +2425,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Wurm Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Safeguarded%20Pair.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Safeguarded%20Pair.png"
 	        },
 	        "printed names": {
 	            "en": "Safeguarded Pair"
@@ -2436,7 +2436,7 @@
 	                "en": "Be Strong"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Be%20Strong.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Be%20Strong.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -2447,7 +2447,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Peacewarden.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Peacewarden.png"
 	        }
 	    },
 	    {
@@ -2456,7 +2456,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Chimarel%20Clearing.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Chimarel%20Clearing.png"
 	        },
 	        "printed names": {
 	            "en": "Chimarel Clearing"
@@ -2467,7 +2467,7 @@
 	                "en": "Restful Clearing"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Restful%20Clearing.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Restful%20Clearing.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2478,7 +2478,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ancient%20Sigils.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ancient%20Sigils.png"
 	        },
 	        "printed names": {
 	            "en": "Ancient Sigils"
@@ -2489,7 +2489,7 @@
 	                "en": "Ancient Aurora"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ancient%20Aurora.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ancient%20Aurora.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2500,7 +2500,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Elf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Storm%20Striker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Storm%20Striker.png"
 	        }
 	    },
 	    {
@@ -2508,7 +2508,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Nightmare Salamander ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dreamgill%20Salamander.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dreamgill%20Salamander.png"
 	        },
 	        "printed names": {
 	            "en": "Dreamgill Salamander"
@@ -2519,7 +2519,7 @@
 	                "en": "Frozen in Fear"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Frozen%20in%20Fear.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Frozen%20in%20Fear.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -2530,7 +2530,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment Creature — Beast Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Embracing%20Intonation.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Embracing%20Intonation.png"
 	        }
 	    },
 	    {
@@ -2539,7 +2539,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Fish Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Moonscale%20Koi.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Moonscale%20Koi.png"
 	        }
 	    },
 	    {
@@ -2547,7 +2547,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Vertical%20Shift.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Vertical%20Shift.png"
 	        },
 	        "printed names": {
 	            "en": "Vertical Shift"
@@ -2558,7 +2558,7 @@
 	                "en": "Going Up!"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Going%20Up!.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Going%20Up!.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -2568,7 +2568,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Waterscape%20Mystic.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Waterscape%20Mystic.png"
 	        },
 	        "printed names": {
 	            "en": "Waterscape Mystic"
@@ -2579,7 +2579,7 @@
 	                "en": "Coiled Sight"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Coiled%20Sight.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Coiled%20Sight.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -2590,7 +2590,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/I%20Know%20What%20You%20Mean%20to%20Me.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/I%20Know%20What%20You%20Mean%20to%20Me.png"
 	        }
 	    },
 	    {
@@ -2599,7 +2599,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Rest%20For%20a%20New%20World.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Rest%20For%20a%20New%20World.png"
 	        }
 	    },
 	    {
@@ -2608,7 +2608,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Relentless%20Spellseeker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Relentless%20Spellseeker.png"
 	        }
 	    },
 	    {
@@ -2617,7 +2617,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Cat Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cliffside%20Surveyor.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cliffside%20Surveyor.png"
 	        }
 	    },
 	    {
@@ -2626,7 +2626,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Skycliff%20Flow.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Skycliff%20Flow.png"
 	        },
 	        "printed names": {
 	            "en": "Skycliff Flow"
@@ -2637,7 +2637,7 @@
 	                "en": "Skycliff Dens"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Skycliff%20Dens.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Skycliff%20Dens.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2648,7 +2648,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Kindred Enchantment — Fish Entity ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Slipstream%20Cyprinus.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Slipstream%20Cyprinus.png"
 	        }
 	    },
 	    {
@@ -2657,7 +2657,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mesmeric%20Peaks.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Mesmeric%20Peaks.png"
 	        }
 	    },
 	    {
@@ -2666,7 +2666,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Parasitic%20Roots.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Parasitic%20Roots.png"
 	        }
 	    },
 	    {
@@ -2675,7 +2675,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Howling%20Gasp.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Howling%20Gasp.png"
 	        }
 	    },
 	    {
@@ -2684,7 +2684,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/I%20Wont%20Stand%20Alone.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/I%20Wont%20Stand%20Alone.png"
 	        }
 	    },
 	    {
@@ -2693,7 +2693,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact Creature — Shapeshifter Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ditto%20Dagger.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ditto%20Dagger.png"
 	        }
 	    },
 	    {
@@ -2702,7 +2702,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Lizturbance.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Lizturbance.png"
 	        }
 	    },
 	    {
@@ -2711,7 +2711,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dissenting%20Experience.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dissenting%20Experience.png"
 	        }
 	    },
 	    {
@@ -2720,7 +2720,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Omenspeaker%20Avakin.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Omenspeaker%20Avakin.png"
 	        }
 	    },
 	    {
@@ -2729,7 +2729,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Your%20Strength%20is%20Fading.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Your%20Strength%20is%20Fading.png"
 	        }
 	    },
 	    {
@@ -2738,7 +2738,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bloodstained%20Fields.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bloodstained%20Fields.png"
 	        },
 	        "printed names": {
 	            "en": "Bloodstained Fields"
@@ -2749,7 +2749,7 @@
 	                "en": "Drake-Brood Peak"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drake-Brood%20Peak.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drake-Brood%20Peak.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2760,7 +2760,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Spire%20of%20Rebirth.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Spire%20of%20Rebirth.png"
 	        }
 	    },
 	    {
@@ -2768,7 +2768,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Spider ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Murkross%20Spiritcaller.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Murkross%20Spiritcaller.png"
 	        },
 	        "printed names": {
 	            "en": "Murkross Spiritcaller"
@@ -2779,7 +2779,7 @@
 	                "en": "History's Erasure"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/History%27s%20Erasure.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/History%27s%20Erasure.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -2790,7 +2790,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Gold-Streaked%20Obelisks.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Gold-Streaked%20Obelisks.png"
 	        },
 	        "printed names": {
 	            "en": "Gold-Streaked Obelisks"
@@ -2801,7 +2801,7 @@
 	                "en": "Green-Streaked Ruins"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Green-Streaked%20Ruins.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Green-Streaked%20Ruins.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2812,7 +2812,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fervent%20Canyon.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fervent%20Canyon.png"
 	        },
 	        "printed names": {
 	            "en": "Fervent Canyon"
@@ -2823,7 +2823,7 @@
 	                "en": "Fervent Monuments"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fervent%20Monuments.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fervent%20Monuments.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2833,7 +2833,7 @@
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Dragon Turtle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ignelscor%20Jidiao.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ignelscor%20Jidiao.png"
 	        },
 	        "printed names": {
 	            "en": "Ignelscor Jidiao"
@@ -2844,7 +2844,7 @@
 	                "en": "Tear a Path"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tear%20a%20Path.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Tear%20a%20Path.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -2855,7 +2855,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Boundless%20Hollow.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Boundless%20Hollow.png"
 	        }
 	    },
 	    {
@@ -2864,7 +2864,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Rend%20Hope.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Rend%20Hope.png"
 	        }
 	    },
 	    {
@@ -2873,7 +2873,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Awakened%20Wurm.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Awakened%20Wurm.png"
 	        }
 	    },
 	    {
@@ -2882,7 +2882,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment — Realm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Moonlit%20Congregation.png"
+	            "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Moonlit%20Congregation.png"
 	        },
 	        "printed names": {
 	            "en": "Moonlit Congregation"
@@ -2893,7 +2893,7 @@
 	                "en": "Dawnlit Adherent"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dawnlit%20Adherent.png"
+	                "en": "https/raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dawnlit%20Adherent.png"
 	            },
 	            "type": "Enchantment — Realm "
 	        }
@@ -2904,7 +2904,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Bare%20Your%20Fangs.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Bare%20Your%20Fangs.png"
 	        }
 	    },
 	    {
@@ -2913,7 +2913,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment Creature — Icon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Lost%20Sunset.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Lost%20Sunset.png"
 	        }
 	    },
 	    {
@@ -2922,7 +2922,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Counterinsurgency.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Counterinsurgency.png"
 	        }
 	    },
 	    {
@@ -2931,7 +2931,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Haphazard%20and%20Unbound.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Haphazard%20and%20Unbound.png"
 	        }
 	    },
 	    {
@@ -2940,7 +2940,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/New%20Mordel%20Fireweaver.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/New%20Mordel%20Fireweaver.png"
 	        }
 	    },
 	    {
@@ -2949,7 +2949,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Fox Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Seasoned%20Flamefinder.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Seasoned%20Flamefinder.png"
 	        }
 	    },
 	    {
@@ -2958,7 +2958,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Broodmages%20Furor.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Broodmages%20Furor.png"
 	        }
 	    },
 	    {
@@ -2967,7 +2967,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Our%20March%20Wont%20End.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Our%20March%20Wont%20End.png"
 	        }
 	    },
 	    {
@@ -2976,7 +2976,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Call%20to%20Revolution.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Call%20to%20Revolution.png"
 	        }
 	    },
 	    {
@@ -2985,7 +2985,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shimmer%20From%20Beyond.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Shimmer%20From%20Beyond.png"
 	        }
 	    },
 	    {
@@ -2994,7 +2994,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Encouraging%20Passage.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Encouraging%20Passage.png"
 	        }
 	    },
 	    {
@@ -3002,7 +3002,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Insect Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fritter%20Skitter.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Fritter%20Skitter.png"
 	        },
 	        "printed names": {
 	            "en": "Fritter Skitter"
@@ -3013,7 +3013,7 @@
 	                "en": "Backbreaking Glare"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Backbreaking%20Glare.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Backbreaking%20Glare.png"
 	            },
 	            "type": "Sorcery — Focus "
 	        }
@@ -3024,7 +3024,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Wurm Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dawncoil%20Burnisher.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Dawncoil%20Burnisher.png"
 	        }
 	    },
 	    {
@@ -3033,7 +3033,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ranging%20Symbiote.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Ranging%20Symbiote.png"
 	        }
 	    },
 	    {
@@ -3042,7 +3042,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Treefolk Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Leyline%20Weaver.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Leyline%20Weaver.png"
 	        }
 	    },
 	    {
@@ -3051,7 +3051,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Murkross%20Shaman.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Murkross%20Shaman.png"
 	        }
 	    },
 	    {
@@ -3059,7 +3059,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Icon Rat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Virulent%20Attendant.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Virulent%20Attendant.png"
 	        },
 	        "printed names": {
 	            "en": "Virulent Attendant"
@@ -3070,7 +3070,7 @@
 	                "en": "Growth is for All"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Growth%20is%20for%20All.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Growth%20is%20for%20All.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -3081,7 +3081,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cervus%20Sprouting.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cervus%20Sprouting.png"
 	        }
 	    },
 	    {
@@ -3090,7 +3090,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Salamander ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Unexpected%20Predator.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Unexpected%20Predator.png"
 	        }
 	    },
 	    {
@@ -3099,7 +3099,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Cartographers%20Survey.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Cartographers%20Survey.png"
 	        }
 	    },
 	    {
@@ -3108,7 +3108,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Hunters%20Strength.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Hunters%20Strength.png"
 	        }
 	    },
 	    {
@@ -3117,7 +3117,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Treefolk Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Keras%20Appointed.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Keras%20Appointed.png"
 	        }
 	    },
 	    {
@@ -3126,7 +3126,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Nurtured%20Landscape.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Nurtured%20Landscape.png"
 	        }
 	    },
 	    {
@@ -3135,7 +3135,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Caretaker.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Outlands%20Caretaker.png"
 	        }
 	    },
 	    {
@@ -3144,7 +3144,7 @@
 	        "mana_cost": "{6}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Snowscaper%20Bakunawa.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Snowscaper%20Bakunawa.png"
 	        }
 	    },
 	    {
@@ -3152,7 +3152,7 @@
 	        "mana_cost": "{7}{G}",
 	        "type": "Enchantment Creature — Icon Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Awakened%20Reactionary.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Awakened%20Reactionary.png"
 	        },
 	        "printed names": {
 	            "en": "Awakened Reactionary"
@@ -3163,7 +3163,7 @@
 	                "en": "Reject the Paths"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Reject%20the%20Paths.png"
+	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Reject%20the%20Paths.png"
 	            },
 	            "type": "Instant — Focus "
 	        }
@@ -3174,7 +3174,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crustacean%20Surge.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Crustacean%20Surge.png"
 	        }
 	    },
 	    {
@@ -3183,7 +3183,7 @@
 	        "mana_cost": "{C/B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Impunity%20of%20Souls.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Impunity%20of%20Souls.png"
 	        }
 	    },
 	    {
@@ -3192,7 +3192,7 @@
 	        "mana_cost": "{2}{C/G}",
 	        "type": "Creaure — Plant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Experience%20Cultivator.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Experience%20Cultivator.png"
 	        }
 	    },
 	    {
@@ -3201,7 +3201,7 @@
 	        "mana_cost": "{4}{C/B}{C/B}",
 	        "type": "Creature — Octopus Jellyfish ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Towing%20Steladiuys.png"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/heads/main/FOE-files/Towing%20Steladiuys.png"
 	        }
 	    }
 	]
