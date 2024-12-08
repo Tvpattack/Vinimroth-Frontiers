@@ -1664,28 +1664,26 @@
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mourncast%20Disciple.png"
 	        }
 	    },
-	    {
-	        "name": "Remnants of the War",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}{G}",
-	        "type": "Battle — Siege ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Remnants%20of%20the%20War.png"
-	        },
-	        "printed names": {
-	            "en": "Remnants of the War"
-	        },
-	        "back": {
-	            "name": "Guardian of the Cinders",
-	            "printed_names": {
-	                "en": "Guardian of the Cinders"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Guardian%20of%20the%20Cinders.png"
-	            },
-	            "type": "Enchantment Creature — Icon Warlock "
-	        }
-	    },
+        {
+            "name": "Remnants of the War",
+            "rarity": "uncommon",
+            "mana_cost": "{2}{B}{G}",
+            "type": "Battle — Siege ",
+            "image_uris": {
+                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Remnants%20of%20the%20War.png"
+            },
+            "related_cards": [
+            {
+              "name": "Guardian of the Cinders",
+              "rarity": "uncommon",
+              "mana_cost": "",
+              "type": "Enchantment Creature — Icon Warlock ",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Guardian%20of%20the%20Cinders.png"
+              }
+            }
+            ]
+        },
 	    {
 	        "name": "Monument to Forever",
 	        "rarity": "uncommon",
@@ -2470,7 +2468,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Restful%20Clearing.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Ancient Sigils",
@@ -3316,31 +3325,16 @@
 		4 Kornas Forward
 		4 Meirel Evacuator
 		4 Unending Exploration
-		4 Cascading Cleave
 		4 Persisting Timepiece
-		4 Vineglare Enclave
 		4 Inkblot Artist
 		4 Reflected Inclination
 		4 Wandering Travellers
-		4 Bloomrock Enclave
-		4 Brightblossom Enclave
-		4 Dawnbreak Resort
 		4 Devoted Riftpike
-		4 Duraval Lushfields
 		4 Errant Pillar
 		4 Exhausting Foundation
-		4 Glowspore Enclave
-		4 Hostile Pillars
 		4 Listless Monument
-		4 Mistlake Enclave
-		4 Moonglow Enclave
 		4 Ominous Temple
 		4 Roaming Ruins
-		4 Soaring Tethers
-		4 Sunswept Prairie
-		4 Thyrsine Way
-		4 Vibrant Knoll
-		4 Windy Weft
 		4 Abandoned Sanctum
 		4 Outlands Recruiter
 		4 Julius Skyknight of Morriare
@@ -3647,6 +3641,21 @@
 		9 Emigrating Pilgrim
 		9 Enlightening Crescents
 		9 Migratory Flotilla
+		4 Bloomrock Enclave
+		4 Brightblossom Enclave
+		4 Cascading Cleave
+		4 Dawnbreak Resort
+		4 Duraval Lushfields
+		4 Glowspore Enclave
+		4 Hostile Pillars
+		4 Mistlake Enclave
+		4 Moonglow Enclave
+		4 Soaring Tethers
+		4 Sunswept Prairie
+		4 Thyrsine Way
+		4 Vibrant Knoll
+		4 Vineglare Enclave
+		4 Windy Weft
 	[Land]
 		4 Abandoned Sanctum
 		4 Bloomrock Enclave
