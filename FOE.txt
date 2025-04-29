@@ -28,7 +28,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Polychromatic Peaks.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Light of Hope",
@@ -41,6 +52,7 @@
 	    },
 	    {
 	        "name": "History's Weave",
+            "rarity": "common",
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
@@ -49,16 +61,17 @@
 	        "printed names": {
 	            "en": "History's Weave"
 	        },
-	        "back": {
-	            "name": "Khestri's Salve",
-	            "printed_names": {
-	                "en": "Khestri's Salve"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Khestri%27s%20Salve.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Fall through Reality",
@@ -98,7 +111,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Monument In Unity.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Pathfinder Wurm",
@@ -210,24 +234,23 @@
 	    },
 	    {
 	        "name": "Crystalline Cover",
+            "rarity": "common",
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Crystalline%20Cover.png"
 	        },
-	        "printed names": {
-	            "en": "Crystalline Cover"
-	        },
-	        "back": {
-	            "name": "Tesselation",
-	            "printed_names": {
-	                "en": "Tesselation"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tesselation.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Tiderock Passage",
@@ -249,7 +272,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Misty Aisle.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Fold the Truth",
@@ -289,24 +323,23 @@
 	    },
 	    {
 	        "name": "Pathwrought Overseer",
+            "rarity": "common",
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Orb Eye ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathwrought%20Overseer.png"
 	        },
-	        "printed names": {
-	            "en": "Pathwrought Overseer"
-	        },
-	        "back": {
-	            "name": "Observed",
-	            "printed_names": {
-	                "en": "Observed"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Observed.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Veneer Walker",
@@ -382,24 +415,23 @@
 	    },
 	    {
 	        "name": "Aspect of Moth",
+            "rarity": "common",
 	        "mana_cost": "{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Aspect%20of%20Moth.png"
 	        },
-	        "printed names": {
-	            "en": "Aspect of Moth"
-	        },
-	        "back": {
-	            "name": "Separations",
-	            "printed_names": {
-	                "en": "Separations"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Separations.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "You Cant Face Me",
@@ -439,7 +471,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pinnacle Spillway.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Foolish Footing",
@@ -479,24 +522,23 @@
 	    },
 	    {
 	        "name": "Scaled Rippler",
+            "rarity": "common",
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Lizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Scaled%20Rippler.png"
 	        },
-	        "printed names": {
-	            "en": "Scaled Rippler"
-	        },
-	        "back": {
-	            "name": "Lunging Mitosis",
-	            "printed_names": {
-	                "en": "Lunging Mitosis"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Lunging%20Mitosis.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Left for the Crows",
@@ -563,24 +605,23 @@
 	    },
 	    {
 	        "name": "Basalt Hammer",
+            "rarity": "common",
 	        "mana_cost": "{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Basalt%20Hammer.png"
 	        },
-	        "printed names": {
-	            "en": "Basalt Hammer"
-	        },
-	        "back": {
-	            "name": "Burning Fury",
-	            "printed_names": {
-	                "en": "Burning Fury"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Burning%20Fury.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Clanless Combatant",
@@ -629,45 +670,43 @@
 	    },
 	    {
 	        "name": "Mordel Hammer",
+            "rarity": "common",
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Minotaur Soldier ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Mordel%20Hammer.png"
 	        },
-	        "printed names": {
-	            "en": "Mordel Hammer"
-	        },
-	        "back": {
-	            "name": "Passive Intimidation",
-	            "printed_names": {
-	                "en": "Passive Intimidation"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Passive%20Intimidation.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Pathborn Spitter",
+            "rarity": "common",
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathborn%20Spitter.png"
 	        },
-	        "printed names": {
-	            "en": "Pathborn Spitter"
-	        },
-	        "back": {
-	            "name": "Backup Mortar",
-	            "printed_names": {
-	                "en": "Backup Mortar"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Backup%20Mortar.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Mordel Flamespeaker",
@@ -752,28 +791,38 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Deepwoods Pillars.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Surubim Harpoon",
+            "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Surubim%20Harpoon.png"
 	        },
-	        "printed names": {
-	            "en": "Surubim Harpoon"
-	        },
-	        "back": {
-	            "name": "Piercing Throw",
-	            "printed_names": {
-	                "en": "Piercing Throw"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Piercing%20Throw.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Meirel Traveller",
@@ -831,24 +880,23 @@
 	    },
 	    {
 	        "name": "Dance of Discovery",
+            "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dance%20of%20Discovery.png"
 	        },
-	        "printed names": {
-	            "en": "Dance of Discovery"
-	        },
-	        "back": {
-	            "name": "Unburdened",
-	            "printed_names": {
-	                "en": "Unburdened"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Unburdened.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Outland Pair",
@@ -861,24 +909,23 @@
 	    },
 	    {
 	        "name": "Outlands Rescuer",
+            "rarity": "common",
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Wurm Cleric ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Rescuer.png"
 	        },
-	        "printed names": {
-	            "en": "Outlands Rescuer"
-	        },
-	        "back": {
-	            "name": "Distraction!",
-	            "printed_names": {
-	                "en": "Distraction!"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Distraction!.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Stand Your Ground",
@@ -909,24 +956,23 @@
 	    },
 	    {
 	        "name": "The Strength to Overcome",
+            "rarity": "common",
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/The%20Strength%20to%20Overcome.png"
 	        },
-	        "printed names": {
-	            "en": "The Strength to Overcome"
-	        },
-	        "back": {
-	            "name": "Search The Heights",
-	            "printed_names": {
-	                "en": "Search The Heights"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Search%20The%20Heights.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Turbulent Aether",
@@ -966,24 +1012,23 @@
 	    },
 	    {
 	        "name": "Pathworn Blade",
+            "rarity": "common",
 	        "mana_cost": "{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Pathworn%20Blade.png"
 	        },
-	        "printed names": {
-	            "en": "Pathworn Blade"
-	        },
-	        "back": {
-	            "name": "Spirited Truth",
-	            "printed_names": {
-	                "en": "Spirited Truth"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Spirited%20Truth.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Power from Beyond",
@@ -1023,24 +1068,23 @@
 	    },
 	    {
 	        "name": "Drougth Attuner",
+            "rarity": "common",
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drougth%20Attuner.png"
 	        },
-	        "printed names": {
-	            "en": "Drougth Attuner"
-	        },
-	        "back": {
-	            "name": "Finding Stability",
-	            "printed_names": {
-	                "en": "Finding Stability"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Finding%20Stability.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Perspective Shift",
@@ -1053,24 +1097,23 @@
 	    },
 	    {
 	        "name": "Enlisted Arms",
+            "rarity": "common",
 	        "mana_cost": "{2}{C}",
 	        "type": "Enchantment Creature — Wolf Mercenary ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Enlisted%20Arms.png"
 	        },
-	        "printed names": {
-	            "en": "Enlisted Arms"
-	        },
-	        "back": {
-	            "name": "Free to Fly",
-	            "printed_names": {
-	                "en": "Free to Fly"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Free%20to%20Fly.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Emigrating Pilgrim",
@@ -1119,7 +1162,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Depths%20of%20Change.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Mutated Pioneer",
@@ -1537,24 +1591,23 @@
 	    },
 	    {
 	        "name": "Drake Mentor",
+            "rarity": "uncommon",
 	        "mana_cost": "{C}{U}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drake%20Mentor.png"
 	        },
-	        "printed names": {
-	            "en": "Drake Mentor"
-	        },
-	        "back": {
-	            "name": "Recall Teachings",
-	            "printed_names": {
-	                "en": "Recall Teachings"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Recall%20Teachings.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Boundless Flight",
@@ -1812,28 +1865,38 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Concealed%20Passage.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Blade Reifier",
+            "rarity": "uncommon",
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Blade%20Reifier.png"
 	        },
-	        "printed names": {
-	            "en": "Blade Reifier"
-	        },
-	        "back": {
-	            "name": "Shimmered Form",
-	            "printed_names": {
-	                "en": "Shimmered Form"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Shimmered%20Form.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Ignelscor Witch",
@@ -2305,28 +2368,38 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Peaks%20of%20War.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Outlands Recruiter",
+            "rarity": "uncommon",
 	        "mana_cost": "{W}",
 	        "type": "Enchantment Creature — Icon Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Outlands%20Recruiter.png"
 	        },
-	        "printed names": {
-	            "en": "Outlands Recruiter"
-	        },
-	        "back": {
-	            "name": "Follow My Call",
-	            "printed_names": {
-	                "en": "Follow My Call"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Follow%20My%20Call.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Julius Skyknight of Morriare",
@@ -2420,24 +2493,23 @@
 	    },
 	    {
 	        "name": "Safeguarded Pair",
+            "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Wurm Human Warrior ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Safeguarded%20Pair.png"
 	        },
-	        "printed names": {
-	            "en": "Safeguarded Pair"
-	        },
-	        "back": {
-	            "name": "Be Strong",
-	            "printed_names": {
-	                "en": "Be Strong"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Be%20Strong.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Peacewarden",
@@ -2501,7 +2573,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ancient%20Aurora.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Storm Striker",
@@ -2514,24 +2597,23 @@
 	    },
 	    {
 	        "name": "Dreamgill Salamander",
+            "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Nightmare Salamander ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dreamgill%20Salamander.png"
 	        },
-	        "printed names": {
-	            "en": "Dreamgill Salamander"
-	        },
-	        "back": {
-	            "name": "Frozen in Fear",
-	            "printed_names": {
-	                "en": "Frozen in Fear"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Frozen%20in%20Fear.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Embracing Intonation",
@@ -2553,45 +2635,43 @@
 	    },
 	    {
 	        "name": "Vertical Shift",
+            "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Vertical%20Shift.png"
 	        },
-	        "printed names": {
-	            "en": "Vertical Shift"
-	        },
-	        "back": {
-	            "name": "Going Up!",
-	            "printed_names": {
-	                "en": "Going Up!"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Going%20Up!.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Waterscape Mystic",
+            "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Waterscape%20Mystic.png"
 	        },
-	        "printed names": {
-	            "en": "Waterscape Mystic"
-	        },
-	        "back": {
-	            "name": "Coiled Sight",
-	            "printed_names": {
-	                "en": "Coiled Sight"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Coiled%20Sight.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "I Know What You Mean to Me",
@@ -2649,7 +2729,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Skycliff%20Dens.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Slipstream Cyprinus",
@@ -2761,7 +2852,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Drake-Brood%20Peak.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Spire of Rebirth",
@@ -2774,24 +2876,23 @@
 	    },
 	    {
 	        "name": "Murkross Spiritcaller",
+            "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Spider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Murkross%20Spiritcaller.png"
 	        },
-	        "printed names": {
-	            "en": "Murkross Spiritcaller"
-	        },
-	        "back": {
-	            "name": "History's Erasure",
-	            "printed_names": {
-	                "en": "History's Erasure"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/History%27s%20Erasure.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Gold-Streaked Obelisks",
@@ -2813,7 +2914,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Green-Streaked%20Ruins.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Fervent Canyon",
@@ -2835,28 +2947,38 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fervent%20Monuments.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Ignelscor Jidiao",
+            "rarity": "uncommon",
 	        "mana_cost": "{5}{B}",
 	        "type": "Creature — Dragon Turtle ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Ignelscor%20Jidiao.png"
 	        },
-	        "printed names": {
-	            "en": "Ignelscor Jidiao"
-	        },
-	        "back": {
-	            "name": "Tear a Path",
-	            "printed_names": {
-	                "en": "Tear a Path"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Tear%20a%20Path.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Boundless Hollow",
@@ -2905,7 +3027,18 @@
 	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Dawnlit%20Adherent.png"
 	            },
 	            "type": "Enchantment — Realm "
-	        }
+	        },
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Bare Your Fangs",
@@ -3008,24 +3141,23 @@
 	    },
 	    {
 	        "name": "Fritter Skitter",
+            "rarity": "uncommon",
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Insect Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Fritter%20Skitter.png"
 	        },
-	        "printed names": {
-	            "en": "Fritter Skitter"
-	        },
-	        "back": {
-	            "name": "Backbreaking Glare",
-	            "printed_names": {
-	                "en": "Backbreaking Glare"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Backbreaking%20Glare.png"
-	            },
-	            "type": "Sorcery — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Dawncoil Burnisher",
@@ -3065,24 +3197,23 @@
 	    },
 	    {
 	        "name": "Virulent Attendant",
+            "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment Creature — Icon Rat ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Virulent%20Attendant.png"
 	        },
-	        "printed names": {
-	            "en": "Virulent Attendant"
-	        },
-	        "back": {
-	            "name": "Growth is for All",
-	            "printed_names": {
-	                "en": "Growth is for All"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Growth%20is%20for%20All.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Cervus Sprouting",
@@ -3158,24 +3289,23 @@
 	    },
 	    {
 	        "name": "Awakened Reactionary",
+            "rarity": "uncommon",
 	        "mana_cost": "{7}{G}",
 	        "type": "Enchantment Creature — Icon Dryad ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Awakened%20Reactionary.png"
 	        },
-	        "printed names": {
-	            "en": "Awakened Reactionary"
-	        },
-	        "back": {
-	            "name": "Reject the Paths",
-	            "printed_names": {
-	                "en": "Reject the Paths"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Reject%20the%20Paths.png"
-	            },
-	            "type": "Instant — Focus "
-	        }
+            "related_cards": [
+            {
+              "name": "Sanctum Reminder",
+              "rarity": "special",
+              "mana_cost": "",
+              "type": "Reminder",
+              "image_uris": {
+                  "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Sanctum%20Reminder.png"
+              }
+            }
+            ]
 	    },
 	    {
 	        "name": "Crustacean Surge",
@@ -3199,7 +3329,7 @@
 	        "name": "Experience Cultivator",
 	        "rarity": "common",
 	        "mana_cost": "{2}{C/G}",
-	        "type": "Creaure — Plant",
+	        "type": "Creature — Plant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/Tvpattack/Vinimroth-Frontiers/refs/heads/main/FOE-files/Experience%20Cultivator.png"
 	        }
@@ -3483,6 +3613,7 @@
 		9 Illusion Reamer
 		9 Voice of the Thicket
 		9 Inspiring Recruit
+		9 Bosket Peak
 		9 Dance of Discovery
 		9 Outland Pair
 		9 Outlands Rescuer
